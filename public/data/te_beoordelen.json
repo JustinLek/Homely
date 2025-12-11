@@ -1,0 +1,4226 @@
+[
+  {
+    "date": "2025-05-01",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 30-04-2025 21:50 Transactie: C00638 Term: 88BN4V Apple Pay Valutadatum: 01-05-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -9.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-02",
+    "description": "BCK*Harry de Groot Wei PURMEREND Pasvolgnr: 900 01-05-2025 12:15 Transactie: C00640 Term: CT920470 Apple Pay Valutadatum: 02-05-2025",
+    "counterparty": "BCK*Harry de Groot Wei PURMEREND",
+    "amount": -4.85,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-02",
+    "description": "CCV*24 uursapotheek W PURMEREND Pasvolgnr: 901 01-05-2025 09:06 Transactie: D00639 Term: CT357708 Apple Pay Valutadatum: 02-05-2025",
+    "counterparty": "CCV*24 uursapotheek W PURMEREND",
+    "amount": -14.72,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-04",
+    "description": "Spurd via Stichting Mollie Payments Naam: Spurd via Stichting Mollie Payments Omschrijving: 103c7657a666cacefafbb926f63a6e06 8152376963191827 Recreatief ma. t/m zo. (0-3 jaar gr Spurd IBAN: NL51DEUT0265262461 Kenmerk: 04-05-2025 10:23 8152376963191827 Valutadatum: 04-05-2025",
+    "counterparty": "Spurd via Stichting Mollie Payments",
+    "amount": -21.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-04",
+    "description": "Kosten                             Rabo DirectPakket                  Periode 01-05-2025 t/m 31-05-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -3.2,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-04",
+    "description": "Kosten                             (Extra) Rabo Wereldpas             Periode 01-05-2025 t/m 31-05-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -1.4,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-05",
+    "description": "HMS Host International Amsterdam Pasvolgnr: 900 05-05-2025 11:59 Transactie: C00647 Term: 75049627 Apple Pay Valutadatum: 05-05-2025",
+    "counterparty": "HMS Host International Amsterdam",
+    "amount": -25.15,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-05",
+    "description": "Dekker via Tikkie Naam: Dekker via Tikkie Omschrijving: 001016872698 0031296956947768 Fenicie NL16INGB0754473589 IBAN: NL13ABNA0506417344 Kenmerk: 05-05-2025 10:01 0031296956947768 Valutadatum: 05-05-2025",
+    "counterparty": "Dekker via Tikkie",
+    "amount": -80.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-05",
+    "description": "NS Reizigers B.V. Naam: NS Reizigers B.V. Omschrijving: E523971648 8030116948039106 NS e-Tickets, Order: E523971648 IBAN: NL56DEUT0265186420 Kenmerk: 05-05-2025 09:52 8030116948039106 Valutadatum: 05-05-2025",
+    "counterparty": "NS Reizigers B.V.",
+    "amount": -2.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-05",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: BCKBoss Restaurant Mi IBAN: NL83INGB0665811667 Valutadatum: 05-05-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": -130.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-05",
+    "description": "The Pool Club B.V. UITHOORN NLD Pasvolgnr: 901 04-05-2025 12:25 Transactie: C00646 Term: WD823Q Apple Pay Valutadatum: 05-05-2025",
+    "counterparty": "The Pool Club B.V. UITHOORN NLD",
+    "amount": -1.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-06",
+    "description": "Hr JJ Bouva Naam: Hr JJ Bouva Omschrijving: Bevrijdingsdag IBAN: NL28INGB0003550977 Valutadatum: 06-05-2025",
+    "counterparty": "Hr JJ Bouva",
+    "amount": -80.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-06",
+    "description": "STPARKEERGELDEN VIA RIVERTY Naam: STPARKEERGELDEN VIA RIVERTY Omschrijving: Id 6900114626140031, EasyPark B.V., Re Nr. 4161930000891, Ku Nr. 40241814 IBAN: NL96DEUT0265287162 Kenmerk: 41D0F8548E0E4E81A11E33D8370352D9 Machtiging ID: EC00416190002135156 Incassant ID: DE23ZZZ00001986600 Doorlopende incasso Valutadatum: 06-05-2025",
+    "counterparty": "STPARKEERGELDEN VIA RIVERTY",
+    "amount": -2.07,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-06",
+    "description": "CCV*Shoarma Babylon PURMEREND Pasvolgnr: 900 05-05-2025 23:03 Transactie: W00672 Term: CT384757 Apple Pay Valutadatum: 06-05-2025",
+    "counterparty": "CCV*Shoarma Babylon PURMEREND",
+    "amount": -11.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-06",
+    "description": "INCASSO CREDITCARD ACCOUNTNR 210 024788254 ZIE REKENINGOVERZICHT 03-05-2025 Valutadatum: 06-05-2025",
+    "counterparty": "INCASSO CREDITCARD ACCOUNTNR 210",
+    "amount": -58.92,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Amazon Payments Europe SCA Naam: Amazon Payments Europe SCA Omschrijving: WMFVLE3 0220064544942233 a404-5828759-3848364 IBAN: NL58CITI2032329913 Kenmerk: 07-05-2025 10:01 0220064544942233 Valutadatum: 07-05-2025",
+    "counterparty": "Amazon Payments Europe SCA",
+    "amount": -13.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-08",
+    "description": "BCK*Solow Purmerend PURMEREND Pasvolgnr: 900 07-05-2025 15:21 Transactie: D00653 Term: CT823410 Apple Pay Valutadatum: 08-05-2025",
+    "counterparty": "BCK*Solow Purmerend PURMEREND",
+    "amount": -2.78,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-09",
+    "description": "Skin Improvement ? Beauty B.V. via Rabo Zakelijk Betaalverzoek Naam: Skin Improvement ? Beauty B.V. via Rabo Zakelijk Betaalverzoek Omschrijving: NL83RABO0348614233 0022365750875309 Skin Improvement Beaut:Peeling : Skin Improvement ? Beauty B.V. IBAN: NL82RABO0308801377 Kenmerk: 09-05-2025 17:44 0022365750875309 Valutadatum: 09-05-2025",
+    "counterparty": "Skin Improvement ? Beauty B.V. via Rabo Zakelijk Betaalverzoek",
+    "amount": -45.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-09",
+    "description": "OPNAME ING Purmerend               920432 PASVOLGNR 000 09-05-2025 11:28 TRANSACTIENR 512911267191 Valutadatum: 09-05-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-09",
+    "description": "bol.com Naam: bol.com Omschrijving: P1543892340 7051325756997616 bol.com A0005H5WWW IBAN: NL27INGB0000026500 Kenmerk: 09-05-2025 08:57 7051325756997616 Valutadatum: 09-05-2025",
+    "counterparty": "bol.com",
+    "amount": -57.05,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-09",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 08-05-2025 22:57 Transactie: W00678 Term: 88BN4V Apple Pay Valutadatum: 09-05-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -7.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-09",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 08-05-2025 22:15 Transactie: W00677 Term: 88BN4V Apple Pay Valutadatum: 09-05-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -4.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-10",
+    "description": "BCK*AVIA Verzetslaan PURMEREND Pasvolgnr: 900 09-05-2025 14:28 Transactie: P00680 Term: 21324052 Apple Pay Valutadatum: 10-05-2025",
+    "counterparty": "BCK*AVIA Verzetslaan PURMEREND",
+    "amount": -87.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-10",
+    "description": "Sport&Party De Dars WERVERSHOOF Pasvolgnr: 900 09-05-2025 21:43 Transactie: C00657 Term: 0C9402 Apple Pay Valutadatum: 10-05-2025",
+    "counterparty": "Sport&Party De Dars WERVERSHOOF",
+    "amount": -16.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-10",
+    "description": "Sligro ZB 5004 PURMEREND NLD Pasvolgnr: 900 09-05-2025 13:30 Transactie: P00679 Term: X6R09Q Apple Pay Valutadatum: 10-05-2025",
+    "counterparty": "Sligro ZB 5004 PURMEREND NLD",
+    "amount": -280.06,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-12",
+    "description": "Bos via Tikkie Naam: Bos via Tikkie Omschrijving: 001021342803 0031164863078664 Joah NL82ABNA0454948581 IBAN: NL13ABNA0506417344 Kenmerk: 12-05-2025 21:40 0031164863078664 Valutadatum: 12-05-2025",
+    "counterparty": "Bos via Tikkie",
+    "amount": -19.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-12",
+    "description": "Vellema via Tikkie Naam: Vellema via Tikkie Omschrijving: 001020863836 0031365142018835 Balu r Sien Spijkerman pizza vet NL37ABNA0111483255 IBAN: NL13ABNA0506417344 Kenmerk: 12-05-2025 07:56 0031365142018835 Valutadatum: 12-05-2025",
+    "counterparty": "Vellema via Tikkie",
+    "amount": -107.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-12",
+    "description": "DAY & NIGHT PURMEREND NLD Pasvolgnr: 900 11-05-2025 20:15 Transactie: C00659 Term: 3G376V Apple Pay Valutadatum: 12-05-2025",
+    "counterparty": "DAY & NIGHT PURMEREND NLD",
+    "amount": -11.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-13",
+    "description": "GELDMAAT VAN DAMPLEIN 24A NLD Pasvolgnr: 007 12-05-2025 19:32 Transactie: P00692 Term: 920432 Valutadatum: 13-05-2025",
+    "counterparty": "GELDMAAT VAN DAMPLEIN 24A NLD",
+    "amount": -730.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-13",
+    "description": "Wehkamp Naam: Wehkamp Omschrijving: NS6HMZJW2FFTJLG62U74B 7180614563015124 wehkamp: 6f89756d IBAN: NL04ADYB2017400157 Kenmerk: 13-05-2025 09:00 7180614563015124 Valutadatum: 13-05-2025",
+    "counterparty": "Wehkamp",
+    "amount": -26.47,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-13",
+    "description": "Kosten OranjePakket 1 apr t/m 30 apr 2025 ING BANK N.V. Valutadatum: 13-05-2025",
+    "counterparty": "Kosten OranjePakket",
+    "amount": -3.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-13",
+    "description": "Kosten tweede rekeninghouder 1 apr t/m 30 apr 2025 ING BANK N.V. Valutadatum: 13-05-2025",
+    "counterparty": "Kosten tweede rekeninghouder",
+    "amount": -1.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-14",
+    "description": "Patricks Vishandel V. VOLENDAM Pasvolgnr: 901 14-05-2025 11:48 Transactie: C00660 Term: 7KD364 Apple Pay Valutadatum: 14-05-2025",
+    "counterparty": "Patricks Vishandel V. VOLENDAM",
+    "amount": -18.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-15",
+    "description": "Klarna AB via Worldpay B.V. Naam: Klarna AB via Worldpay B.V. Omschrijving: 30620211937 7030305444528248 Klarna Klarna AB IBAN: NL59ABNA0626226163 Kenmerk: 15-05-2025 17:55 7030305444528248 Valutadatum: 15-05-2025",
+    "counterparty": "Klarna AB via Worldpay B.V.",
+    "amount": -213.88,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-15",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: c928cdc2f05ff87e020fbafc50a495a2 8152494862678641 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 15-05-2025 17:51 8152494862678641 Valutadatum: 15-05-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -62.93,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-15",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 625ac5abb2489e7f2ba6a0944e6e7faa 8152524844677759 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 15-05-2025 17:51 8152524844677759 Valutadatum: 15-05-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -27.97,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-15",
+    "description": "BCK*Kaashandel Habben NLD Pasvolgnr: 901 14-05-2025 11:45 Transactie: P00695 Term: 80014109 Apple Pay Valutadatum: 15-05-2025",
+    "counterparty": "BCK*Kaashandel Habben NLD",
+    "amount": -12.45,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-16",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 15-05-2025 21:17 Transactie: W00697 Term: 88BN4V Apple Pay Valutadatum: 16-05-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -6.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "KERMIS APELDOORN NLD Pasvolgnr: 900 17-05-2025 13:22 Transactie: C00665 Term: 80101911 Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "KERMIS APELDOORN NLD",
+    "amount": -6.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "AMBACHTELIJKE PALINGRO NLD Pasvolgnr: 900 17-05-2025 14:40 Transactie: W00705 Term: 80231909 Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "AMBACHTELIJKE PALINGRO NLD",
+    "amount": -13.75,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "KLEMM VAN DE POLL VOF APELDOORN Pasvolgnr: 900 17-05-2025 13:54 Transactie: P00702 Term: 90430983 Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "KLEMM VAN DE POLL VOF APELDOORN",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "BCK*L ten Teije  amus KLARENBEEK Pasvolgnr: 900 17-05-2025 13:18 Transactie: W00700 Term: 80015758 Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "BCK*L ten Teije  amus KLARENBEEK",
+    "amount": -8.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "Fair Amusement BREDA NLD Pasvolgnr: 900 17-05-2025 14:12 Transactie: P00703 Term: YQ654S Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "Fair Amusement BREDA NLD",
+    "amount": -8.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "VOF StuyHoefnagels BERGEN OP ZOO Pasvolgnr: 900 17-05-2025 13:37 Transactie: W00701 Term: 0H600L Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "VOF StuyHoefnagels BERGEN OP ZOO",
+    "amount": -3.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "SumUp  *Arjaans Food Vaassen NLD Pasvolgnr: 900 17-05-2025 14:16 Transactie: D00666 Term: M6XSVRLX Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "SumUp  *Arjaans Food Vaassen NLD",
+    "amount": -7.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-19",
+    "description": "CCV*Stichting De Speel PURMEREND Pasvolgnr: 901 18-05-2025 11:42 Transactie: W00706 Term: CT852373 Apple Pay Valutadatum: 19-05-2025",
+    "counterparty": "CCV*Stichting De Speel PURMEREND",
+    "amount": -17.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-19",
+    "description": "CCV*Stichting De Speel PURMEREND Pasvolgnr: 901 18-05-2025 12:53 Transactie: C00668 Term: CT852372 Apple Pay Valutadatum: 19-05-2025",
+    "counterparty": "CCV*Stichting De Speel PURMEREND",
+    "amount": -7.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-20",
+    "description": "Xylo Handelsonderneming bv Naam: Xylo Handelsonderneming bv Omschrijving: Factuur 25034 IBAN: NL71RABO0129376892 Datum/Tijd: 20-05-2025 14:41:24 Valutadatum: 20-05-2025",
+    "counterparty": "Xylo Handelsonderneming bv",
+    "amount": -770.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-20",
+    "description": "bol.com Naam: bol.com Omschrijving: P1547452197 7051095459604754 bol.com A0005RHWPM IBAN: NL27INGB0000026500 Kenmerk: 20-05-2025 08:28 7051095459604754 Valutadatum: 20-05-2025",
+    "counterparty": "bol.com",
+    "amount": -16.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-21",
+    "description": "Hr J Schut, Mw B Schut-Boekelman via ING Betaalverzoek Naam: Hr J Schut, Mw B Schut-Boekelman via ING Betaalverzoek Omschrijving: NL57INGB0004961708 7051425750629399 Zalm NL57INGB0004961708 IBAN: NL10INGB0005300114 Kenmerk: 21-05-2025 21:01 7051425750629399 Valutadatum: 21-05-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman via ING Betaalverzoek",
+    "amount": -13.66,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-21",
+    "description": "CCV*24 uursapotheek W PURMEREND Pasvolgnr: 901 20-05-2025 16:18 Transactie: C00671 Term: CT357708 Apple Pay Valutadatum: 21-05-2025",
+    "counterparty": "CCV*24 uursapotheek W PURMEREND",
+    "amount": -7.52,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-21",
+    "description": "Sportcentrum Neck WIJDEWORMER Pasvolgnr: 900 20-05-2025 21:10 Transactie: C00672 Term: 604J2D Apple Pay Valutadatum: 21-05-2025",
+    "counterparty": "Sportcentrum Neck WIJDEWORMER",
+    "amount": -12.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-21",
+    "description": "OPNAME ING Purmerend               920432 PASVOLGNR 000 21-05-2025 15:14 TRANSACTIENR 514115187829 Valutadatum: 21-05-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "BCK*Kaashandel Habben NLD Pasvolgnr: 901 21-05-2025 11:18 Transactie: W00710 Term: 80014109 Apple Pay Valutadatum: 22-05-2025",
+    "counterparty": "BCK*Kaashandel Habben NLD",
+    "amount": -9.05,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-23",
+    "description": "B. Heidbuurt via Rabo Betaalverzoek Naam: B. Heidbuurt via Rabo Betaalverzoek Omschrijving: NL55RABO0326086390 0022216344654665 B. Heidbuurt:Timmels: B. Heidbuurt IBAN: NL68RABO0140802673 Kenmerk: 23-05-2025 15:36 0022216344654665 Valutadatum: 23-05-2025",
+    "counterparty": "B. Heidbuurt via Rabo Betaalverzoek",
+    "amount": -30.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-23",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 22-05-2025 21:56 Transactie: P00716 Term: 88BN4V Apple Pay Valutadatum: 23-05-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -11.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-24",
+    "description": "Vellema via Tikkie Naam: Vellema via Tikkie Omschrijving: 001027792604 0031865750562523 Bowlen etc NL37ABNA0111483255 IBAN: NL13ABNA0506417344 Kenmerk: 24-05-2025 08:39 0031865750562523 Valutadatum: 24-05-2025",
+    "counterparty": "Vellema via Tikkie",
+    "amount": -30.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-25",
+    "description": "The Wildflower Club Naam: The Wildflower Club Omschrijving: 2939535753X4ceb1 7370675141498785 jetjim rhM1JicloG5yojh3fqZhhWagx IBAN: NL35RABO0117713678 Kenmerk: 25-05-2025 16:12 7370675141498785 Valutadatum: 25-05-2025",
+    "counterparty": "The Wildflower Club",
+    "amount": -99.94,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-25",
+    "description": "Paula's Choice Europe B.V. Naam: Paula's Choice Europe B.V. Omschrijving: PXMKZTT38Q4NBHF62LUVD 7180674868229589 EU06002622 IBAN: NL04ADYB2017400157 Kenmerk: 25-05-2025 12:58 7180674868229589 Valutadatum: 25-05-2025",
+    "counterparty": "Paula's Choice Europe B.V.",
+    "amount": -56.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-26",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 21c3b8fdee16c0120ffabc288f689aaa 8152735150255167 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 26-05-2025 22:05 8152735150255167 Valutadatum: 26-05-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -297.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-26",
+    "description": "bol.com Naam: bol.com Omschrijving: P1550453697 7051796059375077 bol.com A000614UX0 IBAN: NL27INGB0000026500 Kenmerk: 26-05-2025 20:21 7051796059375077 Valutadatum: 26-05-2025",
+    "counterparty": "bol.com",
+    "amount": -11.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-26",
+    "description": "Zwemschool IJburg via Stichting Mollie Payments Naam: Zwemschool IJburg via Stichting Mollie Payments Omschrijving: c199df243c7a9a71109c66e296b9f346 8152226662465074 803273. Inschrijf- en administratie Zwemschool IJburg IBAN: NL51DEUT0265262461 Kenmerk: 26-05-2025 09:07 8152226662465074 Valutadatum: 26-05-2025",
+    "counterparty": "Zwemschool IJburg via Stichting Mollie Payments",
+    "amount": -27.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-05 - Beleggingsrekening - NL52BNDA0100277541 IBAN: NL23ABNA0548026866 Kenmerk: 59748011b2021 Machtiging ID: 166105 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-05-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-05 - Beleggingsrekening - NL02BNDA0100330918 IBAN: NL23ABNA0548026866 Kenmerk: 60967306b2021 Machtiging ID: 298423 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-05-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-27",
+    "description": "Bos via Tikkie Naam: Bos via Tikkie Omschrijving: 001030113496 0031236068371465 Kledinghangers NL82ABNA0454948581 IBAN: NL13ABNA0506417344 Kenmerk: 27-05-2025 19:36 0031236068371465 Valutadatum: 27-05-2025",
+    "counterparty": "Bos via Tikkie",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-28",
+    "description": "Esuals via Stichting Mollie Payments Naam: Esuals via Stichting Mollie Payments Omschrijving: 7631cf23cd71998792d59ed110462e3b 8152824847398207 rYDAmdpo3CHLlP815nclQ1VEl esuals.nl Esuals IBAN: NL51DEUT0265262461 Kenmerk: 28-05-2025 20:12 8152824847398207 Valutadatum: 28-05-2025",
+    "counterparty": "Esuals via Stichting Mollie Payments",
+    "amount": -44.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-28",
+    "description": "Studentendrukwerk via Stichting Mollie Payments Naam: Studentendrukwerk via Stichting Mollie Payments Omschrijving: 5631c339ac0335f0a02c386645f9e737 8152916059400205 Studentendrukwerk Studentendrukwerk IBAN: NL51DEUT0265262461 Kenmerk: 28-05-2025 15:05 8152916059400205 Valutadatum: 28-05-2025",
+    "counterparty": "Studentendrukwerk via Stichting Mollie Payments",
+    "amount": -21.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-28",
+    "description": "Temu.com Naam: Temu.com Omschrijving: QVHJ8C6KTK6NTQF62GJT3 7180596047400757 Temu.com IBAN: NL04ADYB2017400157 Kenmerk: 28-05-2025 14:47 7180596047400757 Valutadatum: 28-05-2025",
+    "counterparty": "Temu.com",
+    "amount": -53.73,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-28",
+    "description": "Expert Webwinkel B.V. Naam: Expert Webwinkel B.V. Omschrijving: 552181919 8030294556309275 Expert IBAN: NL56DEUT0265186420 Kenmerk: 28-05-2025 10:53 8030294556309275 Valutadatum: 28-05-2025",
+    "counterparty": "Expert Webwinkel B.V.",
+    "amount": -89.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-29",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: ad85c20f05364daec45249e11a66e78b 8152956047245801 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 29-05-2025 09:15 8152956047245801 Valutadatum: 29-05-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -26.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-29",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 28-05-2025 22:13 Transactie: P00724 Term: 88BN4V Apple Pay Valutadatum: 29-05-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -14.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-05-31",
+    "description": "Warmbat via Stichting Mollie Payments Naam: Warmbat via Stichting Mollie Payments Omschrijving: 629cfd80de99496242b3d2db6973fe35 8152546944239471 Order ?10056248 warmbat.nl Warmbat IBAN: NL51DEUT0265262461 Kenmerk: 31-05-2025 21:03 8152546944239471 Valutadatum: 31-05-2025",
+    "counterparty": "Warmbat via Stichting Mollie Payments",
+    "amount": -51.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-01",
+    "description": "BCK*Stichting Beheer P Rotterdam Pasvolgnr: 901 31-05-2025 10:33 Transactie: P00728 Term: CT858903 Apple Pay Valutadatum: 01-06-2025",
+    "counterparty": "BCK*Stichting Beheer P Rotterdam",
+    "amount": -0.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-02",
+    "description": "Tuincentrum Ofman WORMER NLD Pasvolgnr: 900 01-06-2025 11:57 Transactie: D00687 Term: 8DRP9S Apple Pay Valutadatum: 02-06-2025",
+    "counterparty": "Tuincentrum Ofman WORMER NLD",
+    "amount": -18.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-03",
+    "description": "Verslingerd aan Hout.nl via Stichting Mollie Payments Naam: Verslingerd aan Hout.nl via Stichting Mollie Payments Omschrijving: 5aab88175504a80ba7856ed636368633 8152464850260657 Order 20251173 Verslingerd aan Hout.nl IBAN: NL51DEUT0265262461 Kenmerk: 03-06-2025 19:49 8152464850260657 Valutadatum: 03-06-2025",
+    "counterparty": "Verslingerd aan Hout.nl via Stichting Mollie Payments",
+    "amount": -31.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-03",
+    "description": "QLEVR via Stichting Mollie Payments Naam: QLEVR via Stichting Mollie Payments Omschrijving: bc52ac686be547ab4b444d9154ec4568 8152046056322316 rCg1kYwzRwEswomiFuOLNQR8b QLEVR IBAN: NL51DEUT0265262461 Kenmerk: 03-06-2025 15:28 8152046056322316 Valutadatum: 03-06-2025",
+    "counterparty": "QLEVR via Stichting Mollie Payments",
+    "amount": -134.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-03",
+    "description": "OPNAME ING Purmerend               921627 PASVOLGNR 000 03-06-2025 09:03 TRANSACTIENR 515409672748 Valutadatum: 03-06-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -40.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-03",
+    "description": "Kosten                             Rabo DirectPakket                  Periode 01-06-2025 t/m 30-06-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -3.45,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-03",
+    "description": "Kosten                             (Extra) Rabo Wereldpas             Periode 01-06-2025 t/m 30-06-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -1.4,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-04",
+    "description": "Mol*Het Biercollect... Goes NLD Pasvolgnr: 900 03-06-2025 00:00 Transactie: D00688 Term: 20000584 Apple Pay Valutadatum: 04-06-2025",
+    "counterparty": "Mol*Het Biercollect... Goes NLD",
+    "amount": -57.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-04",
+    "description": "Returnista International via Stichting Mollie Payments Naam: Returnista International via Stichting Mollie Payments Omschrijving: 7f594d629ae75ab3b18070aa4fdaacf4 8152625453168830 The Wildflower Club return via Retu Returnista International IBAN: NL51DEUT0265262461 Kenmerk: 04-06-2025 10:36 8152625453168830 Valutadatum: 04-06-2025",
+    "counterparty": "Returnista International via Stichting Mollie Payments",
+    "amount": -4.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-05",
+    "description": "Ministerie van Justitie en Veiligheid Naam: Ministerie van Justitie en Veiligheid Omschrijving: 202506051550199237354573 8153194256194672 Verklaring Omtrent het Gedrag IBAN: NL75INGB0705005437 Kenmerk: 05-06-2025 15:50 8153194256194672 Valutadatum: 05-06-2025",
+    "counterparty": "Ministerie van Justitie en Veiligheid",
+    "amount": -33.85,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-05",
+    "description": "Infomedics B.V. Naam: Infomedics B.V. Omschrijving: 12262592909071 7030534243955002 12262592909071 IBAN: NL34ABNA0243240058 Kenmerk: 05-06-2025 08:54 7030534243955002 Valutadatum: 05-06-2025",
+    "counterparty": "Infomedics B.V.",
+    "amount": -71.96,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-05",
+    "description": "Esuals via Stichting Mollie Payments Naam: Esuals via Stichting Mollie Payments Omschrijving: debdeafaeee3c09a51977c5c71d64a0e 8152336353134474 rakk86SUh6nsggpSXaJgah4c2 esuals.nl Esuals IBAN: NL51DEUT0265262461 Kenmerk: 05-06-2025 08:28 8152336353134474 Valutadatum: 05-06-2025",
+    "counterparty": "Esuals via Stichting Mollie Payments",
+    "amount": -29.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-05",
+    "description": "6151DijklanderAlbron HOORN NH Pasvolgnr: 901 04-06-2025 13:37 Transactie: W00735 Term: 12C094 Apple Pay Valutadatum: 05-06-2025",
+    "counterparty": "6151DijklanderAlbron HOORN NH",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-05",
+    "description": "STPARKEERGELDEN VIA RIVERTY Naam: STPARKEERGELDEN VIA RIVERTY Omschrijving: Id 2900114626140033, EasyPark B.V., Re Nr. 4161931277096, Ku Nr. 40241814 IBAN: NL96DEUT0265287162 Kenmerk: 27D12D42915D42C69435BAFDB7832B49 Machtiging ID: EC00416190002135156 Incassant ID: DE23ZZZ00001986600 Doorlopende incasso Valutadatum: 05-06-2025",
+    "counterparty": "STPARKEERGELDEN VIA RIVERTY",
+    "amount": -4.54,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-05",
+    "description": "Incasso ING creditcard Accountnr 210024788254 Periode mei 2025 Voor info zie creditcardoverzicht Valutadatum: 05-06-2025",
+    "counterparty": "Incasso ING creditcard",
+    "amount": -154.52,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-06",
+    "description": "NLOVVGJ9KMDVLEDJZQ www.ovpay.nl Pasvolgnr: 901 04-06-2025 16:44 Transactie: D00690 Term: PT311625 Apple Pay Valutadatum: 06-06-2025",
+    "counterparty": "NLOVVGJ9KMDVLEDJZQ www.ovpay.nl",
+    "amount": -5.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-06",
+    "description": "NLOV6D5EEZDP6PW54L www.ovpay.nl Pasvolgnr: 901 04-06-2025 17:09 Transactie: W00736 Term: PT309F85 Apple Pay Valutadatum: 06-06-2025",
+    "counterparty": "NLOV6D5EEZDP6PW54L www.ovpay.nl",
+    "amount": -5.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-07",
+    "description": "CCV*Effe Anders B.V. PURMEREND Pasvolgnr: 900 06-06-2025 22:12 Transactie: W00737 Term: CT890476 Apple Pay Valutadatum: 07-06-2025",
+    "counterparty": "CCV*Effe Anders B.V. PURMEREND",
+    "amount": -110.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-07",
+    "description": "SumUp  *De Stallen purmerend NLD Pasvolgnr: 900 06-06-2025 22:55 Transactie: W00739 Term: MC7NGHTX Apple Pay Valutadatum: 07-06-2025",
+    "counterparty": "SumUp  *De Stallen purmerend NLD",
+    "amount": -21.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-08",
+    "description": "Blokvoort via Tikkie Naam: Blokvoort via Tikkie Omschrijving: 001037161113 0031166941095321 Kaartje Jordaan NL13INGB0009439147 IBAN: NL13ABNA0506417344 Kenmerk: 08-06-2025 17:26 0031166941095321 Valutadatum: 08-06-2025",
+    "counterparty": "Blokvoort via Tikkie",
+    "amount": -25.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-08",
+    "description": "BCK*AVIA Verzetslaan PURMEREND Pasvolgnr: 901 07-06-2025 12:33 Transactie: P00740 Term: 21324051 Apple Pay Valutadatum: 08-06-2025",
+    "counterparty": "BCK*AVIA Verzetslaan PURMEREND",
+    "amount": -86.88,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-08",
+    "description": "CCV*DE STALLEN PURMEREND NLD Pasvolgnr: 901 06-06-2025 22:22 Transactie: W00738 Term: CT895204 Apple Pay Valutadatum: 08-06-2025",
+    "counterparty": "CCV*DE STALLEN PURMEREND NLD",
+    "amount": -19.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-09",
+    "description": "Wehkamp Naam: Wehkamp Omschrijving: ZRN26TBWSSPTJ7Z32U74B 7180035453003761 wehkamp: 6dd042ca IBAN: NL04ADYB2017400157 Kenmerk: 09-06-2025 20:21 7180035453003761 Valutadatum: 09-06-2025",
+    "counterparty": "Wehkamp",
+    "amount": -114.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-09",
+    "description": "Bos via Tikkie Naam: Bos via Tikkie Omschrijving: 001037770386 0031244549914733 Babyshower Pris NL82ABNA0454948581 IBAN: NL13ABNA0506417344 Kenmerk: 09-06-2025 19:53 0031244549914733 Valutadatum: 09-06-2025",
+    "counterparty": "Bos via Tikkie",
+    "amount": -37.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-09",
+    "description": "Lubee*Stichting MJF BREDA NLD Pasvolgnr: 900 08-06-2025 18:49 Transactie: W00744 Term: LUBEE1UU Apple Pay Valutadatum: 09-06-2025",
+    "counterparty": "Lubee*Stichting MJF BREDA NLD",
+    "amount": -7.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-09",
+    "description": "Lubee*Stichting MJF BREDA NLD Pasvolgnr: 900 08-06-2025 21:03 Transactie: D00693 Term: LUBEE1RE Apple Pay Valutadatum: 09-06-2025",
+    "counterparty": "Lubee*Stichting MJF BREDA NLD",
+    "amount": -16.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-10",
+    "description": "Belastingdienst Apeldoorn Naam: Belastingdienst Apeldoorn Omschrijving: 9205232425501210 IBAN: NL86INGB0002445588 Datum/Tijd: 10-06-2025 15:40:27 Valutadatum: 10-06-2025",
+    "counterparty": "Belastingdienst Apeldoorn",
+    "amount": -2827.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-11",
+    "description": "Amazon EU SARL Naam: Amazon EU SARL Omschrijving: ISEOANZ 0220774853088292 a404-5849362-6469907 IBAN: NL58CITI2032329913 Kenmerk: 11-06-2025 19:56 0220774853088292 Valutadatum: 11-06-2025",
+    "counterparty": "Amazon EU SARL",
+    "amount": -13.21,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-11",
+    "description": "sanitairwinkel.nl Naam: sanitairwinkel.nl Omschrijving: 2771435 8030336341027800 Sanitairwinkel.nl IBAN: NL56DEUT0265186420 Kenmerk: 11-06-2025 17:06 8030336341027800 Valutadatum: 11-06-2025",
+    "counterparty": "sanitairwinkel.nl",
+    "amount": -65.69,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-11",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 10-06-2025 21:33 Transactie: W00749 Term: 88BN4V Apple Pay Valutadatum: 11-06-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -4.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-11",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 10-06-2025 21:00 Transactie: P00748 Term: 88BN4V Apple Pay Valutadatum: 11-06-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -4.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-11",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 10-06-2025 22:21 Transactie: D00696 Term: 88BN4V Apple Pay Valutadatum: 11-06-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -7.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-12",
+    "description": "SV Ajax Naam: SV Ajax Omschrijving: 9795e800bc3543a394b1394203f0c76 8030494550025367 Inschrijving: Ajax Life IBAN: NL66DEUT0265237262 Kenmerk: 12-06-2025 21:08 8030494550025367 Valutadatum: 12-06-2025",
+    "counterparty": "SV Ajax",
+    "amount": -32.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-13",
+    "description": "Kosten OranjePakket 1 mei t/m 31 mei 2025 ING BANK N.V. Valutadatum: 13-06-2025",
+    "counterparty": "Kosten OranjePakket",
+    "amount": -3.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-13",
+    "description": "Kosten tweede rekeninghouder 1 mei t/m 31 mei 2025 ING BANK N.V. Valutadatum: 13-06-2025",
+    "counterparty": "Kosten tweede rekeninghouder",
+    "amount": -1.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-14",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 08441692c24f3cc433fba7b5d5173b73 8152104249717177 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 14-06-2025 08:24 8152104249717177 Valutadatum: 14-06-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -33.97,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-15",
+    "description": "TEMU.COM DUBLIN 2 IRL Pasvolgnr: 900 14-06-2025 12:04 Transactie: C00698 Term: WPGTID01 Apple Pay Valutadatum: 15-06-2025",
+    "counterparty": "TEMU.COM DUBLIN 2 IRL",
+    "amount": -13.68,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-15",
+    "description": "Amazon Payments Europe SCA Naam: Amazon Payments Europe SCA Omschrijving: A28IB0A 0220236352714753 a404-7934602-0504354 IBAN: NL58CITI2032329913 Kenmerk: 15-06-2025 14:55 0220236352714753 Valutadatum: 15-06-2025",
+    "counterparty": "Amazon Payments Europe SCA",
+    "amount": -14.81,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-16",
+    "description": "Bos via Tikkie Naam: Bos via Tikkie Omschrijving: 001041925418 0031146955652404 Ontbijt NL82ABNA0454948581 IBAN: NL13ABNA0506417344 Kenmerk: 16-06-2025 20:43 0031146955652404 Valutadatum: 16-06-2025",
+    "counterparty": "Bos via Tikkie",
+    "amount": -15.25,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-16",
+    "description": "Baktotaal via MultiSafepay Naam: Baktotaal via MultiSafepay Omschrijving: 1185492727 8151885752653454 Bestelling ?1002109880 ?Baktotaa... Baktotaal IBAN: NL17DEUT0265262879 Kenmerk: 16-06-2025 19:56 8151885752653454 Valutadatum: 16-06-2025",
+    "counterparty": "Baktotaal via MultiSafepay",
+    "amount": -19.17,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-17",
+    "description": "Sterk Springkussens via Stichting Mollie Payments Naam: Sterk Springkussens via Stichting Mollie Payments Omschrijving: 91c28bf7b8ce0401826cc8d7bf2b61c5 8152736358619890 Springkussen huren Sterk Springkussens IBAN: NL51DEUT0265262461 Kenmerk: 17-06-2025 19:48 8152736358619890 Valutadatum: 17-06-2025",
+    "counterparty": "Sterk Springkussens via Stichting Mollie Payments",
+    "amount": -111.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-17",
+    "description": "TEMU.COM DUBLIN 2 IRL Pasvolgnr: 900 16-06-2025 11:04 Transactie: C00705 Term: WPGTID01 Apple Pay Valutadatum: 17-06-2025",
+    "counterparty": "TEMU.COM DUBLIN 2 IRL",
+    "amount": -27.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-17",
+    "description": "BCK*Harry de Groot Wei PURMEREND Pasvolgnr: 900 16-06-2025 16:42 Transactie: C00706 Term: CT920172 Apple Pay Valutadatum: 17-06-2025",
+    "counterparty": "BCK*Harry de Groot Wei PURMEREND",
+    "amount": -3.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-17",
+    "description": "Vellema via Tikkie Naam: Vellema via Tikkie Omschrijving: 001042046969 0031194543710514 Wok NL37ABNA0111483255 IBAN: NL13ABNA0506417344 Kenmerk: 17-06-2025 06:46 0031194543710514 Valutadatum: 17-06-2025",
+    "counterparty": "Vellema via Tikkie",
+    "amount": -41.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-18",
+    "description": "OPNAME ING Purmerend               920432 PASVOLGNR 000 18-06-2025 20:09 TRANSACTIENR 516920792368 Valutadatum: 18-06-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-18",
+    "description": "CCV*24 uursapotheek W PURMEREND Pasvolgnr: 901 17-06-2025 08:12 Transactie: P00759 Term: CT933054 Apple Pay Valutadatum: 18-06-2025",
+    "counterparty": "CCV*24 uursapotheek W PURMEREND",
+    "amount": -17.29,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-19",
+    "description": "TMC*Eggert3 AMSTERDAM DUI NLD Pasvolgnr: 901 18-06-2025 11:08 Transactie: D00710 Term: CT935207 Apple Pay Valutadatum: 19-06-2025",
+    "counterparty": "TMC*Eggert3 AMSTERDAM DUI NLD",
+    "amount": -2.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-19",
+    "description": "SumUp  *De Gouden Hand Zaandam Pasvolgnr: 900 18-06-2025 12:14 Transactie: P00762 Term: MCXL43FD Apple Pay Valutadatum: 19-06-2025",
+    "counterparty": "SumUp  *De Gouden Hand Zaandam",
+    "amount": -30.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-20",
+    "description": "BCK*Harry de Groot Wei PURMEREND Pasvolgnr: 900 19-06-2025 12:00 Transactie: C00713 Term: CT920172 Apple Pay Valutadatum: 20-06-2025",
+    "counterparty": "BCK*Harry de Groot Wei PURMEREND",
+    "amount": -3.65,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-20",
+    "description": "Greetz B.V. Naam: Greetz B.V. Omschrijving: DRJMFK5 0220105440609423 WWW.GREETZ.NL IBAN: NL58CITI2032329913 Kenmerk: 20-06-2025 10:21 0220105440609423 Valutadatum: 20-06-2025",
+    "counterparty": "Greetz B.V.",
+    "amount": -4.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-21",
+    "description": "CCV*24 uursapotheek W PURMEREND Pasvolgnr: 901 20-06-2025 09:53 Transactie: W00764 Term: CT357708 Apple Pay Valutadatum: 21-06-2025",
+    "counterparty": "CCV*24 uursapotheek W PURMEREND",
+    "amount": -1.72,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-22",
+    "description": "CCV*PaanZEE BV CASTRICUM NLD Pasvolgnr: 901 21-06-2025 16:09 Transactie: C00716 Term: BS165821 Apple Pay Valutadatum: 22-06-2025",
+    "counterparty": "CCV*PaanZEE BV CASTRICUM NLD",
+    "amount": -16.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "bol.com Naam: bol.com Omschrijving: P1560597284 7051984864870027 bol.com A0006PNDN2 IBAN: NL27INGB0000026500 Kenmerk: 23-06-2025 19:55 7051984864870027 Valutadatum: 23-06-2025",
+    "counterparty": "bol.com",
+    "amount": -17.44,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 8d139fe2598c932c9720ecf3c9066bf5 8152615740751872 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 23-06-2025 14:47 8152615740751872 Valutadatum: 23-06-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -31.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 2a900c666ca2db58fe21da967f06631b 8152585143841041 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 23-06-2025 14:47 8152585143841041 Valutadatum: 23-06-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -67.67,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "bol.com Naam: bol.com Omschrijving: P1560449236 7051225140810546 bol.com A0006PDH65 IBAN: NL27INGB0000026500 Kenmerk: 23-06-2025 13:38 7051225140810546 Valutadatum: 23-06-2025",
+    "counterparty": "bol.com",
+    "amount": -43.68,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Babyzus via Stripe Technology Europe Ltd Naam: Babyzus via Stripe Technology Europe Ltd Omschrijving: 72YP45Z 7140225740631830 SP BABYZUS Babyzus IBAN: DE49202208000093168467 Kenmerk: 23-06-2025 13:32 7140225740631830 Valutadatum: 23-06-2025",
+    "counterparty": "Babyzus via Stripe Technology Europe Ltd",
+    "amount": -17.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-24",
+    "description": "bol.com Naam: bol.com Omschrijving: P1561044175 7051796346448224 bol.com A0006RH17M IBAN: NL27INGB0000026500 Kenmerk: 24-06-2025 19:41 7051796346448224 Valutadatum: 24-06-2025",
+    "counterparty": "bol.com",
+    "amount": -59.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-24",
+    "description": "Sgoolfotografie.nl Naam: Sgoolfotografie.nl Omschrijving: 517580 8030556358477105 517580 IBAN: NL56DEUT0265186420 Kenmerk: 24-06-2025 17:34 8030556358477105 Valutadatum: 24-06-2025",
+    "counterparty": "Sgoolfotografie.nl",
+    "amount": -35.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-24",
+    "description": "bol.com Naam: bol.com Omschrijving: P1560737863 7051034246388941 bol.com A0006R0P6W IBAN: NL27INGB0000026500 Kenmerk: 24-06-2025 07:25 7051034246388941 Valutadatum: 24-06-2025",
+    "counterparty": "bol.com",
+    "amount": -13.49,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Trekpleister 1273 PURMEREND NLD Pasvolgnr: 901 25-06-2025 11:12 Transactie: P00769 Term: 252D02 Apple Pay Valutadatum: 25-06-2025",
+    "counterparty": "Trekpleister 1273 PURMEREND NLD",
+    "amount": -15.68,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Vervangingsmarkt NL via MultiSafepay Naam: Vervangingsmarkt NL via MultiSafepay Omschrijving: 1192248711 8151534549354630 Order 74064344 Vervangingsmarkt NL IBAN: NL17DEUT0265262879 Kenmerk: 25-06-2025 06:31 8151534549354630 Valutadatum: 25-06-2025",
+    "counterparty": "Vervangingsmarkt NL via MultiSafepay",
+    "amount": -89.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-26",
+    "description": "CCV*MONKEY TOWN PURMER PURMEREND Pasvolgnr: 901 25-06-2025 14:55 Transactie: C00724 Term: CT872287 Apple Pay Valutadatum: 26-06-2025",
+    "counterparty": "CCV*MONKEY TOWN PURMER PURMEREND",
+    "amount": -10.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-26",
+    "description": "BCK*Kaashandel Habben NLD Pasvolgnr: 900 25-06-2025 13:20 Transactie: W00771 Term: 80013940 Apple Pay Valutadatum: 26-06-2025",
+    "counterparty": "BCK*Kaashandel Habben NLD",
+    "amount": -19.25,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-26",
+    "description": "Gall Gall Naam: Gall Gall Omschrijving: SP2QMD77ZJSJRPF62K9T2 7180036364471348 10135191 IBAN: NL04ADYB2017400157 Kenmerk: 26-06-2025 12:24 7180036364471348 Valutadatum: 26-06-2025",
+    "counterparty": "Gall Gall",
+    "amount": -88.96,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-06 - Beleggingsrekening - NL02BNDA0100330918 IBAN: NL23ABNA0548026866 Kenmerk: 60967306b2174 Machtiging ID: 298423 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-06-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-06 - Beleggingsrekening - NL52BNDA0100277541 IBAN: NL23ABNA0548026866 Kenmerk: 59748011b2174 Machtiging ID: 166105 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-06-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "N.V. Texels Eigen Stoomboot Onderne via Worldline NV/SA Naam: N.V. Texels Eigen Stoomboot Onderne via Worldline NV/SA Omschrijving: 8779529839000 7020975461439440 10290824 N.V. Texels Eigen Stoomboot Onderne IBAN: NL39RABO0301242844 Kenmerk: 27-06-2025 21:15 7020975461439440 Valutadatum: 27-06-2025",
+    "counterparty": "N.V. Texels Eigen Stoomboot Onderne via Worldline NV/SA",
+    "amount": -46.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Naam: Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Omschrijving: NL83INGB0665811667 7051135752498363 Zwembadje action NL83INGB0665811667 IBAN: NL10INGB0005300114 Kenmerk: 27-06-2025 17:56 7051135752498363 Valutadatum: 27-06-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek",
+    "amount": -8.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "TEMU.COM DUBLIN 2 IRL Pasvolgnr: 900 26-06-2025 06:48 Transactie: C00725 Term: WPGTID01 Apple Pay Valutadatum: 27-06-2025",
+    "counterparty": "TEMU.COM DUBLIN 2 IRL",
+    "amount": -30.37,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-29",
+    "description": "TOP 1 TOYS PURMEREND NLD Pasvolgnr: 901 28-06-2025 12:43 Transactie: D00731 Term: W7H683 Apple Pay Valutadatum: 29-06-2025",
+    "counterparty": "TOP 1 TOYS PURMEREND NLD",
+    "amount": -14.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-29",
+    "description": "Frites van t Weeshuys Purmerend Pasvolgnr: 900 28-06-2025 12:24 Transactie: W00774 Term: 13600746 Apple Pay Valutadatum: 29-06-2025",
+    "counterparty": "Frites van t Weeshuys Purmerend",
+    "amount": -26.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: c85b7aeb2967e796820bcd3f6fe42b44 8152495743461385 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 30-06-2025 20:19 8152495743461385 Valutadatum: 30-06-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -85.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: a8661f9e28b71b7943a8642d8a3235f9 8152915140399081 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 30-06-2025 14:02 8152915140399081 Valutadatum: 30-06-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -22.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "Notino Benelux B.V. Naam: Notino Benelux B.V. Omschrijving: W26N32G4GM6NLNF32LLT8 7180014843337092 257665101 IBAN: NL04ADYB2017400157 Kenmerk: 01-07-2025 19:23 7180014843337092 Valutadatum: 01-07-2025",
+    "counterparty": "Notino Benelux B.V.",
+    "amount": -23.05,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-02",
+    "description": "OPNAME ING Purmerend               920432 PASVOLGNR 000 02-07-2025 20:58 TRANSACTIENR 518320526208 Valutadatum: 02-07-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -40.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-02",
+    "description": "Kosten                             Rabo DirectPakket                  Periode 01-07-2025 t/m 31-07-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -3.45,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-02",
+    "description": "Kosten                             (Extra) Rabo Wereldpas             Periode 01-07-2025 t/m 31-07-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -1.4,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-03",
+    "description": "Sligro ZB 5004 PURMEREND NLD Pasvolgnr: 900 03-07-2025 10:01 Transactie: W00780 Term: X6R09Q Apple Pay Valutadatum: 03-07-2025",
+    "counterparty": "Sligro ZB 5004 PURMEREND NLD",
+    "amount": -409.87,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-03",
+    "description": "Vomar Weidevenne PURMEREND NLD Pasvolgnr: 900 03-07-2025 09:05 Transactie: C00744 Term: 100L05 Apple Pay Valutadatum: 03-07-2025",
+    "counterparty": "Vomar Weidevenne PURMEREND NLD",
+    "amount": -45.68,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-03",
+    "description": "BCK*Kaashandel Habben NLD Pasvolgnr: 901 02-07-2025 10:07 Transactie: D00739 Term: 80014109 Apple Pay Valutadatum: 03-07-2025",
+    "counterparty": "BCK*Kaashandel Habben NLD",
+    "amount": -21.45,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-03",
+    "description": "Sportfondsen EdamVo VOLENDAM NLD Pasvolgnr: 901 02-07-2025 14:24 Transactie: D00742 Term: P218T1 Apple Pay Valutadatum: 03-07-2025",
+    "counterparty": "Sportfondsen EdamVo VOLENDAM NLD",
+    "amount": -19.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-04",
+    "description": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Naam: Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Omschrijving: NL83INGB0665811667 7051824243267384 SAFRANA SUPERMARKT NL83INGB0665811667 IBAN: NL10INGB0005300114 Kenmerk: 04-07-2025 19:11 7051824243267384 Valutadatum: 04-07-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek",
+    "amount": -18.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-04",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 03-07-2025 23:11 Transactie: D00750 Term: 88BN4V Apple Pay Valutadatum: 04-07-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -9.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-04",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 03-07-2025 21:55 Transactie: D00749 Term: 88BN4V Apple Pay Valutadatum: 04-07-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -6.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-07",
+    "description": "STPARKEERGELDEN VIA RIVERTY Naam: STPARKEERGELDEN VIA RIVERTY Omschrijving: Id 9900114626140035, EasyPark B.V., Re Nr. 4161933818971, Ku Nr. 40241814 IBAN: NL96DEUT0265287162 Kenmerk: 01C68FAF4B1943599ECCC210D7CF1375 Machtiging ID: EC00416190002135156 Incassant ID: DE23ZZZ00001986600 Doorlopende incasso Valutadatum: 07-07-2025",
+    "counterparty": "STPARKEERGELDEN VIA RIVERTY",
+    "amount": -1.69,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-07",
+    "description": "Incasso ING creditcard Accountnr 210024788254 Periode juni 2025 Voor info zie creditcardoverzicht Valutadatum: 07-07-2025",
+    "counterparty": "Incasso ING creditcard",
+    "amount": -69.92,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-08",
+    "description": "BCK*AVIA Verzetslaan PURMEREND Pasvolgnr: 901 07-07-2025 10:26 Transactie: D00757 Term: 21324052 Apple Pay Valutadatum: 08-07-2025",
+    "counterparty": "BCK*AVIA Verzetslaan PURMEREND",
+    "amount": -88.12,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-09",
+    "description": "CCV*De Goudgele Patat LIMMEN NLD Pasvolgnr: 900 08-07-2025 11:53 Transactie: P00783 Term: CT853035 Apple Pay Valutadatum: 09-07-2025",
+    "counterparty": "CCV*De Goudgele Patat LIMMEN NLD",
+    "amount": -4.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-09",
+    "description": "Amazon Payments Europe SCA Naam: Amazon Payments Europe SCA Omschrijving: SOSDJFB 0220095167103059 a404-4290991-7439515 IBAN: NL58CITI2032329913 Kenmerk: 09-07-2025 10:04 0220095167103059 Valutadatum: 09-07-2025",
+    "counterparty": "Amazon Payments Europe SCA",
+    "amount": -11.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-09",
+    "description": "bol.com Naam: bol.com Omschrijving: P1566776211 7051445443014112 bol.com A00076WDRH IBAN: NL27INGB0000026500 Kenmerk: 09-07-2025 09:08 7051445443014112 Valutadatum: 09-07-2025",
+    "counterparty": "bol.com",
+    "amount": -12.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-10",
+    "description": "DIEP R via Stripe Technology Europe Ltd Naam: DIEP R via Stripe Technology Europe Ltd Omschrijving: 738F4SH 7140576364101364 SP DIEPR DIEP R IBAN: DE31202208000095014410 Kenmerk: 10-07-2025 21:32 7140576364101364 Valutadatum: 10-07-2025",
+    "counterparty": "DIEP R via Stripe Technology Europe Ltd",
+    "amount": -24.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-10",
+    "description": "Toernooi.nl Naam: Toernooi.nl Omschrijving: E2025071023447140T460392 8030146658101709 E2025071023447140T460392 IBAN: NL56DEUT0265186420 Kenmerk: 10-07-2025 09:48 8030146658101709 Valutadatum: 10-07-2025",
+    "counterparty": "Toernooi.nl",
+    "amount": -14.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-11",
+    "description": "bol.com Naam: bol.com Omschrijving: P1567632762 7051266961217293 bol.com A00078LMKL IBAN: NL27INGB0000026500 Kenmerk: 11-07-2025 13:32 7051266961217293 Valutadatum: 11-07-2025",
+    "counterparty": "bol.com",
+    "amount": -18.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-11",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 10-07-2025 21:40 Transactie: P00787 Term: 88BN4V Apple Pay Valutadatum: 11-07-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -11.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-12",
+    "description": "BELLA BRASA Beemster B NLD Pasvolgnr: 901 11-07-2025 00:00 Transactie: P00791 Term: 25933481 Apple Pay Valutadatum: 12-07-2025",
+    "counterparty": "BELLA BRASA Beemster B NLD",
+    "amount": -130.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-12",
+    "description": "Mw DE Dekker,Hr NT Koopmann Naam: Mw DE Dekker,Hr NT Koopmann Omschrijving: Pot IBAN: NL97INGB0748898026 Valutadatum: 12-07-2025",
+    "counterparty": "Mw DE Dekker,Hr NT Koopmann",
+    "amount": -550.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-13",
+    "description": "Jumping Kennemerland via Stichting Mollie Payments Naam: Jumping Kennemerland via Stichting Mollie Payments Omschrijving: 7f614aa0ee3c61d5aeb14d87b16d77bc 8152055158210969 Factuur: 20251384 Jumping Kennemerland IBAN: NL51DEUT0265262461 Kenmerk: 13-07-2025 20:41 8152055158210969 Valutadatum: 13-07-2025",
+    "counterparty": "Jumping Kennemerland via Stichting Mollie Payments",
+    "amount": -140.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-13",
+    "description": "Vellema via Tikkie Naam: Vellema via Tikkie Omschrijving: 001058673101 0031986952181239 Zeilhoek en klein rosetje NL37ABNA0111483255 IBAN: NL13ABNA0506417344 Kenmerk: 13-07-2025 20:37 0031986952181239 Valutadatum: 13-07-2025",
+    "counterparty": "Vellema via Tikkie",
+    "amount": -73.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-13",
+    "description": "Marktplaats via Online Payments Stichting Naam: Marktplaats via Online Payments Stichting Omschrijving: mtx89449bd57fe6 8152455149272955 Transaction: mtr?391876fb4883 Marktplaats IBAN: NL42DEUT0265288134 Kenmerk: 13-07-2025 19:28 8152455149272955 Valutadatum: 13-07-2025",
+    "counterparty": "Marktplaats via Online Payments Stichting",
+    "amount": -106.35,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-13",
+    "description": "Kosten OranjePakket 1 jun t/m 30 jun 2025 ING BANK N.V. Valutadatum: 13-07-2025",
+    "counterparty": "Kosten OranjePakket",
+    "amount": -3.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-13",
+    "description": "Kosten tweede rekeninghouder 1 jun t/m 30 jun 2025 ING BANK N.V. Valutadatum: 13-07-2025",
+    "counterparty": "Kosten tweede rekeninghouder",
+    "amount": -1.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-14",
+    "description": "Squla Naam: Squla Omschrijving: H98S4QP8RLZJKLQ92M9MQ 7180655415968773 133448017 IBAN: NL04ADYB2017400157 Kenmerk: 14-07-2025 18:49 7180655415968773 Valutadatum: 14-07-2025",
+    "counterparty": "Squla",
+    "amount": -0.01,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-15",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: bf57d58c457c5d43a1811cba1ba8bfd0 8152036339814912 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 15-07-2025 19:11 8152036339814912 Valutadatum: 15-07-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -222.45,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-16",
+    "description": "OPNAME ING Purmerend               920432 PASVOLGNR 000 16-07-2025 16:27 TRANSACTIENR 519716639148 Valutadatum: 16-07-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-16",
+    "description": "Price Club LANDSMEER NLD Pasvolgnr: 901 16-07-2025 10:25 Transactie: P00798 Term: GD7X7J Apple Pay Valutadatum: 16-07-2025",
+    "counterparty": "Price Club LANDSMEER NLD",
+    "amount": -7.18,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-16",
+    "description": "Greetz B.V. Naam: Greetz B.V. Omschrijving: E2IDV0Z 0220594830902281 WWW.GREETZ.NL IBAN: NL58CITI2032329913 Kenmerk: 16-07-2025 11:15 0220594830902281 Valutadatum: 16-07-2025",
+    "counterparty": "Greetz B.V.",
+    "amount": -4.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-16",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 15-07-2025 20:35 Transactie: W00796 Term: 88BN4V Apple Pay Valutadatum: 16-07-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -6.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-16",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 15-07-2025 21:44 Transactie: W00797 Term: 88BN4V Apple Pay Valutadatum: 16-07-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -9.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-17",
+    "description": "CCV*De Chocolaterie R. PURMEREND Pasvolgnr: 901 16-07-2025 10:20 Transactie: C00769 Term: CT695484 Apple Pay Valutadatum: 17-07-2025",
+    "counterparty": "CCV*De Chocolaterie R. PURMEREND",
+    "amount": -8.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-17",
+    "description": "BCK*Kaashandel Habben NLD Pasvolgnr: 901 16-07-2025 10:06 Transactie: C00767 Term: 80013940 Apple Pay Valutadatum: 17-07-2025",
+    "counterparty": "BCK*Kaashandel Habben NLD",
+    "amount": -15.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-17",
+    "description": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Naam: Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Omschrijving: NL83INGB0665811667 7051536318779755 Marktplaats via Online Payments Sti NL83INGB0665811667 IBAN: NL10INGB0005300114 Kenmerk: 17-07-2025 11:05 7051536318779755 Valutadatum: 17-07-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek",
+    "amount": -13.68,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-18",
+    "description": "Mol*EuroParcs Texel 31880708090 Pasvolgnr: 900 18-07-2025 06:32 Transactie: D00771 Term: --- Apple Pay Valutadatum: 18-07-2025",
+    "counterparty": "Mol*EuroParcs Texel 31880708090",
+    "amount": -1773.49,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-18",
+    "description": "OGB B.V. via Stichting Mollie Payments Naam: OGB B.V. via Stichting Mollie Payments Omschrijving: 0ba5a0079eac58d7e69b14429e40808b 8152916630956041 rvFwvySQ1GVwbWM5qqtaGbrV0 OGB B.V. IBAN: NL51DEUT0265262461 Kenmerk: 18-07-2025 09:42 8152916630956041 Valutadatum: 18-07-2025",
+    "counterparty": "OGB B.V. via Stichting Mollie Payments",
+    "amount": -17.82,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-19",
+    "description": "Sligro ZB 5004 PURMEREND NLD Pasvolgnr: 900 19-07-2025 09:15 Transactie: P00804 Term: QG83M1 Apple Pay Valutadatum: 19-07-2025",
+    "counterparty": "Sligro ZB 5004 PURMEREND NLD",
+    "amount": -175.44,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-21",
+    "description": "Bos via Tikkie Naam: Bos via Tikkie Omschrijving: 001062975961 0031016621828172 Draagzak NL82ABNA0454948581 IBAN: NL13ABNA0506417344 Kenmerk: 21-07-2025 20:31 0031016621828172 Valutadatum: 21-07-2025",
+    "counterparty": "Bos via Tikkie",
+    "amount": -58.48,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-22",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 4ebf5aa63189ea9f74a2962543d85388 8152655130943576 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 22-07-2025 14:19 8152655130943576 Valutadatum: 22-07-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -92.85,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-22",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 8ac301956733267bc0442fa7bc153886 8152626933735787 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 22-07-2025 14:17 8152626933735787 Valutadatum: 22-07-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -32.97,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-22",
+    "description": "CCV*MONKEY TOWN PURMER PURMEREND Pasvolgnr: 901 21-07-2025 10:04 Transactie: C00776 Term: CT872287 Apple Pay Valutadatum: 22-07-2025",
+    "counterparty": "CCV*MONKEY TOWN PURMER PURMEREND",
+    "amount": -21.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-22",
+    "description": "CCV*MONKEY TOWN PURMER PURMEREND Pasvolgnr: 901 21-07-2025 11:04 Transactie: D00777 Term: CT872288 Apple Pay Valutadatum: 22-07-2025",
+    "counterparty": "CCV*MONKEY TOWN PURMER PURMEREND",
+    "amount": -6.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-23",
+    "description": "CCV*De Goudgele Patat LIMMEN NLD Pasvolgnr: 900 22-07-2025 11:44 Transactie: C00778 Term: CT853040 Apple Pay Valutadatum: 23-07-2025",
+    "counterparty": "CCV*De Goudgele Patat LIMMEN NLD",
+    "amount": -4.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-25",
+    "description": "Paula's Choice Europe B.V. Naam: Paula's Choice Europe B.V. Omschrijving: VWBT7GD7Z9TXWHZ32LUVD 7180675136636136 EU06058726 IBAN: NL04ADYB2017400157 Kenmerk: 25-07-2025 16:36 7180675136636136 Valutadatum: 25-07-2025",
+    "counterparty": "Paula's Choice Europe B.V.",
+    "amount": -182.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-25",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 24-07-2025 22:06 Transactie: P00813 Term: 88BN4V Apple Pay Valutadatum: 25-07-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -6.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-25",
+    "description": "Duivendrecht AMSTERDAMDUI NLD Pasvolgnr: 900 24-07-2025 12:20 Transactie: P00810 Term: 78S1Q7 Apple Pay Valutadatum: 25-07-2025",
+    "counterparty": "Duivendrecht AMSTERDAMDUI NLD",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-26",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 26-07-2025 11:03 Transactie: P00814 Term: 07L39C Apple Pay Valutadatum: 26-07-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -15.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-26",
+    "description": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Naam: Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Omschrijving: NL83INGB0665811667 7051226612573610 Fotoshoot NL83INGB0665811667 IBAN: NL10INGB0005300114 Kenmerk: 26-07-2025 13:48 7051226612573610 Valutadatum: 26-07-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek",
+    "amount": -75.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-27",
+    "description": "Amazon Payments Europe SCA Naam: Amazon Payments Europe SCA Omschrijving: 1SJ4YCQ 0220066333540517 a404-2304073-3962756 IBAN: NL58CITI2032329913 Kenmerk: 27-07-2025 20:42 0220066333540517 Valutadatum: 27-07-2025",
+    "counterparty": "Amazon Payments Europe SCA",
+    "amount": -66.17,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-27",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Bonte Koe IBAN: NL83INGB0665811667 Valutadatum: 27-07-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": -30.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-07 - Beleggingsrekening - NL02BNDA0100330918 IBAN: NL23ABNA0548026866 Kenmerk: 60967306b2191 Machtiging ID: 298423 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 28-07-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-07 - Beleggingsrekening - NL52BNDA0100277541 IBAN: NL23ABNA0548026866 Kenmerk: 59748011b2191 Machtiging ID: 166105 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 28-07-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-29",
+    "description": "BP EXPRESS PURMEREND PURMEREND Pasvolgnr: 900 28-07-2025 14:40 Transactie: P00818 Term: 41120695 Apple Pay Valutadatum: 29-07-2025",
+    "counterparty": "BP EXPRESS PURMEREND PURMEREND",
+    "amount": -92.16,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-29",
+    "description": "Squla Naam: Squla Omschrijving: Squla Squlalidmaatschap 21 jul 2025 t m 21 jul 2026 voor Jordan. Wijzigingen doorgeven? Ga naar je Squla ouder-account. IBAN: NL65ADYB2006011162 Kenmerk: K5TPCZHSNP4DFQG6 Machtiging ID: MZDNCV454W8Q3DH6 Incassant ID: NL48ZZZ342764500000",
+    "counterparty": "Squla",
+    "amount": -119.88,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-30",
+    "description": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Naam: P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Omschrijving: NL42RABO0354141740 0022315421411505 P. Lek eo S.M.M. Lek-Her:Kaas en b: P. Lek eo S.M.M. Lek-Hertogs IBAN: NL13RABO0181015595 Kenmerk: 30-07-2025 09:10 0022315421411505 Valutadatum: 30-07-2025",
+    "counterparty": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek",
+    "amount": -15.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-30",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 29-07-2025 21:27 Transactie: C00788 Term: 88BN4V Apple Pay Valutadatum: 30-07-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -9.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-30",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 29-07-2025 23:28 Transactie: D00789 Term: 88BN4V Apple Pay Valutadatum: 30-07-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -4.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-07-31",
+    "description": "GELDMAAT VAN DAMPLEIN 24A NLD Pasvolgnr: 007 30-07-2025 17:45 Transactie: C00791 Term: 920432 Valutadatum: 31-07-2025",
+    "counterparty": "GELDMAAT VAN DAMPLEIN 24A NLD",
+    "amount": -150.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-02",
+    "description": "Van Dijk via Tikkie Naam: Van Dijk via Tikkie Omschrijving: 001068750357 0031884524460378 Wc bezoek Tabac NL81ABNA0889852561 IBAN: NL13ABNA0506417344 Kenmerk: 02-08-2025 13:50 0031884524460378 Valutadatum: 02-08-2025",
+    "counterparty": "Van Dijk via Tikkie",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-02",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 01-08-2025 23:11 Transactie: C00792 Term: 88BN4V Apple Pay Valutadatum: 02-08-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -7.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-02",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 01-08-2025 21:26 Transactie: P00825 Term: 88BN4V Apple Pay Valutadatum: 02-08-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -6.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-02",
+    "description": "Kosten                             Rabo DirectPakket                  Periode 01-08-2025 t/m 31-08-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -3.45,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-02",
+    "description": "Kosten                             (Extra) Rabo Wereldpas             Periode 01-08-2025 t/m 31-08-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -1.4,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-03",
+    "description": "Thuisbezorgd.nl BPTWT8 Utrecht Pasvolgnr: 900 02-08-2025 21:38 Transactie: P00830 Term: --- Apple Pay Valutadatum: 03-08-2025",
+    "counterparty": "Thuisbezorgd.nl BPTWT8 Utrecht",
+    "amount": -43.82,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-04",
+    "description": "NLOVMQJA9LGYNX8J67 www.ovpay.nl Pasvolgnr: 901 02-08-2025 21:45 Transactie: P00831 Term: PT314275 Apple Pay Valutadatum: 04-08-2025",
+    "counterparty": "NLOVMQJA9LGYNX8J67 www.ovpay.nl",
+    "amount": -7.82,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-04",
+    "description": "BBQ Outside PURMEREND NLD Pasvolgnr: 900 03-08-2025 12:23 Transactie: W00833 Term: 081852EQ Apple Pay Valutadatum: 04-08-2025",
+    "counterparty": "BBQ Outside PURMEREND NLD",
+    "amount": -81.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-05",
+    "description": "NLOVB45NVRX9MWM58G www.ovpay.nl Pasvolgnr: 901 02-08-2025 21:27 Transactie: W00832 Term: PT31439A Apple Pay Valutadatum: 05-08-2025",
+    "counterparty": "NLOVB45NVRX9MWM58G www.ovpay.nl",
+    "amount": -11.51,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-05",
+    "description": "TOP 1 TOYS PURMEREND NLD Pasvolgnr: 901 04-08-2025 13:19 Transactie: D00794 Term: W7H683 Apple Pay Valutadatum: 05-08-2025",
+    "counterparty": "TOP 1 TOYS PURMEREND NLD",
+    "amount": -26.89,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-05",
+    "description": "STPARKEERGELDEN VIA RIVERTY Naam: STPARKEERGELDEN VIA RIVERTY Omschrijving: Id 5900114626140037, EasyPark B.V., Re Nr. 4161934708153, Ku Nr. 40241814 IBAN: NL96DEUT0265287162 Kenmerk: 53C4619E48604B53AC93ED177B04EAF7 Machtiging ID: EC00416190002135156 Incassant ID: DE23ZZZ00001986600 Doorlopende incasso Valutadatum: 05-08-2025",
+    "counterparty": "STPARKEERGELDEN VIA RIVERTY",
+    "amount": -1.85,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-05",
+    "description": "Incasso ING creditcard Accountnr 210024788254 Periode juli 2025 Voor info zie creditcardoverzicht Valutadatum: 05-08-2025",
+    "counterparty": "Incasso ING creditcard",
+    "amount": -58.92,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-05",
+    "description": "Estrid Sweden AB Naam: Estrid Sweden AB Omschrijving: estrid.com IBAN: IE30CITI99005132956548 Kenmerk: STR16NASNPBMDNVATE5FFRANZGGUTCP2UH Machtiging ID: VHMRRJL3GC2DPK52 Incassant ID: SE95ZZZ5591972400 Doorlopende incasso Valutadatum: 05-08-2025",
+    "counterparty": "Estrid Sweden AB",
+    "amount": -11.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-06",
+    "description": "CCV*De Goudgele Patat LIMMEN NLD Pasvolgnr: 900 05-08-2025 11:58 Transactie: P00839 Term: CT853035 Apple Pay Valutadatum: 06-08-2025",
+    "counterparty": "CCV*De Goudgele Patat LIMMEN NLD",
+    "amount": -4.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-08",
+    "description": "TESO OpdeBoot DW DEN HOORN NLD Pasvolgnr: 900 08-08-2025 11:14 Transactie: W00844 Term: 1B70WB Apple Pay Valutadatum: 08-08-2025",
+    "counterparty": "TESO OpdeBoot DW DEN HOORN NLD",
+    "amount": -11.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-08",
+    "description": "CCV*Mister Chi B.V. PURMEREND Pasvolgnr: 900 07-08-2025 17:45 Transactie: D00798 Term: CT869278 Apple Pay Valutadatum: 08-08-2025",
+    "counterparty": "CCV*Mister Chi B.V. PURMEREND",
+    "amount": -79.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-08",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 07-08-2025 22:24 Transactie: C00799 Term: 88BN4V Apple Pay Valutadatum: 08-08-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -4.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-08",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 07-08-2025 22:47 Transactie: C00800 Term: 88BN4V Apple Pay Valutadatum: 08-08-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -9.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-08",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 07-08-2025 17:14 Transactie: W00843 Term: 6GB9YV Apple Pay Valutadatum: 08-08-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -13.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-09",
+    "description": "Zettle*De Smulpot B V DEN BURG Pasvolgnr: 901 08-08-2025 13:08 Transactie: D00802 Term: --- Apple Pay Valutadatum: 09-08-2025",
+    "counterparty": "Zettle*De Smulpot B V DEN BURG",
+    "amount": -73.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-09",
+    "description": "Ecomare DE KOOG NLD Pasvolgnr: 900 08-08-2025 13:33 Transactie: P00845 Term: 08LHR0 Apple Pay Valutadatum: 09-08-2025",
+    "counterparty": "Ecomare DE KOOG NLD",
+    "amount": -43.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-09",
+    "description": "Sligro ZB 5043 DEN BURG NLD Pasvolgnr: 900 08-08-2025 16:20 Transactie: P00846 Term: 005G68 Apple Pay Valutadatum: 09-08-2025",
+    "counterparty": "Sligro ZB 5043 DEN BURG NLD",
+    "amount": -47.07,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-10",
+    "description": "CCV*Lokaal 16 DEN BURG NLD Pasvolgnr: 900 09-08-2025 10:01 Transactie: P00848 Term: CT616271 Apple Pay Valutadatum: 10-08-2025",
+    "counterparty": "CCV*Lokaal 16 DEN BURG NLD",
+    "amount": -70.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-10",
+    "description": "CCV*Strandpaviljoen Pa NLD Pasvolgnr: 900 09-08-2025 18:24 Transactie: C00803 Term: CT898575 Apple Pay Valutadatum: 10-08-2025",
+    "counterparty": "CCV*Strandpaviljoen Pa NLD",
+    "amount": -103.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-10",
+    "description": "CCV*Strandpaviljoen Pa NLD Pasvolgnr: 901 09-08-2025 18:28 Transactie: D00804 Term: CT690471 Apple Pay Valutadatum: 10-08-2025",
+    "counterparty": "CCV*Strandpaviljoen Pa NLD",
+    "amount": -4.45,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-10",
+    "description": "Mol*Broodjes Service T NLD Pasvolgnr: 900 09-08-2025 18:54 Transactie: P00849 Term: --- Apple Pay Valutadatum: 10-08-2025",
+    "counterparty": "Mol*Broodjes Service T NLD",
+    "amount": -24.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-11",
+    "description": "STRANDPAVILJOEN PAAL17 DE KOOG Pasvolgnr: 900 10-08-2025 10:17 Transactie: C00805 Term: 80236606 Apple Pay Valutadatum: 11-08-2025",
+    "counterparty": "STRANDPAVILJOEN PAAL17 DE KOOG",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-11",
+    "description": "LS Texelse Bierbrouwer NLD Pasvolgnr: 901 10-08-2025 15:57 Transactie: P00850 Term: 42793157 Apple Pay Valutadatum: 11-08-2025",
+    "counterparty": "LS Texelse Bierbrouwer NLD",
+    "amount": -12.24,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-11",
+    "description": "Thuisbezorgd.nl HDWFYY Utrecht Pasvolgnr: 900 10-08-2025 17:08 Transactie: W00852 Term: --- Apple Pay Valutadatum: 11-08-2025",
+    "counterparty": "Thuisbezorgd.nl HDWFYY Utrecht",
+    "amount": -55.89,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-11",
+    "description": "LS Texelse Bierbrouwer NLD Pasvolgnr: 900 10-08-2025 15:48 Transactie: C00807 Term: 42793157 Apple Pay Valutadatum: 11-08-2025",
+    "counterparty": "LS Texelse Bierbrouwer NLD",
+    "amount": -5.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-11",
+    "description": "LS Texelse Bierbrouwer NLD Pasvolgnr: 900 10-08-2025 16:15 Transactie: D00808 Term: 42793157 Apple Pay Valutadatum: 11-08-2025",
+    "counterparty": "LS Texelse Bierbrouwer NLD",
+    "amount": -5.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-11",
+    "description": "LS Texelse Bierbrouwer NLD Pasvolgnr: 900 10-08-2025 15:23 Transactie: D00806 Term: 42793157 Apple Pay Valutadatum: 11-08-2025",
+    "counterparty": "LS Texelse Bierbrouwer NLD",
+    "amount": -8.25,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "bol.com Naam: bol.com Omschrijving: P1578946989 7051394215372784 bol.com A000849DM9 IBAN: NL27INGB0000026500 Kenmerk: 12-08-2025 20:30 7051394215372784 Valutadatum: 12-08-2025",
+    "counterparty": "bol.com",
+    "amount": -19.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "Proeflokaal Texels Oudeschild Pasvolgnr: 900 10-08-2025 16:36 Transactie: P00851 Term: 50270857 Apple Pay Valutadatum: 12-08-2025",
+    "counterparty": "Proeflokaal Texels Oudeschild",
+    "amount": -10.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "BCK*Washking Purmerend PURMEREND Pasvolgnr: 900 11-08-2025 14:12 Transactie: W00856 Term: PY898177 Apple Pay Valutadatum: 12-08-2025",
+    "counterparty": "BCK*Washking Purmerend PURMEREND",
+    "amount": -6.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "BCK*Washking Purmerend PURMEREND Pasvolgnr: 900 11-08-2025 13:57 Transactie: W00855 Term: PY898177 Apple Pay Valutadatum: 12-08-2025",
+    "counterparty": "BCK*Washking Purmerend PURMEREND",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "BCK*Washking Purmerend PURMEREND Pasvolgnr: 900 11-08-2025 13:54 Transactie: W00854 Term: PY898177 Apple Pay Valutadatum: 12-08-2025",
+    "counterparty": "BCK*Washking Purmerend PURMEREND",
+    "amount": -2.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "Thuisbezorgd.nl XQVPT9 Utrecht Pasvolgnr: 900 11-08-2025 17:10 Transactie: D00809 Term: --- Apple Pay Valutadatum: 12-08-2025",
+    "counterparty": "Thuisbezorgd.nl XQVPT9 Utrecht",
+    "amount": -79.64,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-13",
+    "description": "OPNAME ING Purmerend               920432 PASVOLGNR 000 13-08-2025 16:19 TRANSACTIENR 522516003743 Valutadatum: 13-08-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-13",
+    "description": "Sammelkartenmarkt Naam: Sammelkartenmarkt Omschrijving: A992855770-justinlekCM IBAN: DE80100400000107541500 Valutadatum: 13-08-2025",
+    "counterparty": "Sammelkartenmarkt",
+    "amount": -40.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-13",
+    "description": "Kosten tweede rekeninghouder 1 jul t/m 31 jul 2025 ING BANK N.V. Valutadatum: 13-08-2025",
+    "counterparty": "Kosten tweede rekeninghouder",
+    "amount": -1.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-13",
+    "description": "Kosten OranjePakket 1 jul t/m 31 jul 2025 ING BANK N.V. Valutadatum: 13-08-2025",
+    "counterparty": "Kosten OranjePakket",
+    "amount": -3.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-14",
+    "description": "Zettle*st rec centrum volendam Pasvolgnr: 901 13-08-2025 10:12 Transactie: D00812 Term: 03088501 Apple Pay Valutadatum: 14-08-2025",
+    "counterparty": "Zettle*st rec centrum volendam",
+    "amount": -5.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-14",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 76e8022f5759940cad63006f2fb8ccf7 8152165717854282 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 14-08-2025 08:46 8152165717854282 Valutadatum: 14-08-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -133.24,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-14",
+    "description": "Zettle*st rec centrum volendam Pasvolgnr: 901 13-08-2025 14:37 Transactie: C00813 Term: --- Apple Pay Valutadatum: 14-08-2025",
+    "counterparty": "Zettle*st rec centrum volendam",
+    "amount": -9.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-15",
+    "description": "bol.com Naam: bol.com Omschrijving: P1579805961 7051916624032125 bol.com A0008630DE IBAN: NL27INGB0000026500 Kenmerk: 15-08-2025 11:59 7051916624032125 Valutadatum: 15-08-2025",
+    "counterparty": "bol.com",
+    "amount": -79.63,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-15",
+    "description": "ZWEMSCHOOL WEIDEVENNE Naam: ZWEMSCHOOL WEIDEVENNE Omschrijving: /IncassobatchId/32/OpdrachtId/4746/ Incasso Zwemschool Weidevenne Incasso fact. 251983 IBAN: NL93ABNA0130343897 Kenmerk: 5427 Machtiging ID: 505-jAZf-TQAPTA1v Incassant ID: NL54ZZZ922830200000 Doorlopende incasso",
+    "counterparty": "ZWEMSCHOOL WEIDEVENNE",
+    "amount": -119.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-17",
+    "description": "BBQ Outside PURMEREND NLD Pasvolgnr: 900 16-08-2025 12:58 Transactie: C00818 Term: 081852EQ Apple Pay Valutadatum: 17-08-2025",
+    "counterparty": "BBQ Outside PURMEREND NLD",
+    "amount": -22.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-17",
+    "description": "Sligro ZB 5004 PURMEREND NLD Pasvolgnr: 900 16-08-2025 12:45 Transactie: C00817 Term: X6R09Q Apple Pay Valutadatum: 17-08-2025",
+    "counterparty": "Sligro ZB 5004 PURMEREND NLD",
+    "amount": -79.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-18",
+    "description": "Tapas Perez Purmerend NLD Pasvolgnr: 901 17-08-2025 14:55 Transactie: C00819 Term: 42573210 Apple Pay Valutadatum: 18-08-2025",
+    "counterparty": "Tapas Perez Purmerend NLD",
+    "amount": -105.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-19",
+    "description": "Linnaeushof Entree Bennebroek Pasvolgnr: 901 18-08-2025 10:44 Transactie: C00821 Term: 50324163 Apple Pay Valutadatum: 19-08-2025",
+    "counterparty": "Linnaeushof Entree Bennebroek",
+    "amount": -45.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-19",
+    "description": "Linnaeushof Entree Bennebroek Pasvolgnr: 901 18-08-2025 15:17 Transactie: W00866 Term: 50324162 Apple Pay Valutadatum: 19-08-2025",
+    "counterparty": "Linnaeushof Entree Bennebroek",
+    "amount": -16.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-19",
+    "description": "BCK*AVIA Verzetslaan PURMEREND Pasvolgnr: 901 18-08-2025 09:38 Transactie: P00865 Term: 21324051 Apple Pay Valutadatum: 19-08-2025",
+    "counterparty": "BCK*AVIA Verzetslaan PURMEREND",
+    "amount": -81.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-20",
+    "description": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Naam: P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Omschrijving: NL42RABO0354141740 0022054517898043 P. Lek eo S.M.M. Lek-Her:Boodschap: P. Lek eo S.M.M. Lek-Hertogs IBAN: NL13RABO0181015595 Kenmerk: 20-08-2025 10:30 0022054517898043 Valutadatum: 20-08-2025",
+    "counterparty": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek",
+    "amount": -72.42,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-22",
+    "description": "Bos via Tikkie Naam: Bos via Tikkie Omschrijving: 001078358086 0031896911951029 Gymschoenen NL82ABNA0454948581 IBAN: NL13ABNA0506417344 Kenmerk: 22-08-2025 14:29 0031896911951029 Valutadatum: 22-08-2025",
+    "counterparty": "Bos via Tikkie",
+    "amount": -6.75,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-22",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 21-08-2025 21:37 Transactie: P00869 Term: 88BN4V Apple Pay Valutadatum: 22-08-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -4.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-23",
+    "description": "Sligro ZB 5004 PURMEREND NLD Pasvolgnr: 900 23-08-2025 11:52 Transactie: D00826 Term: X6R09Q Apple Pay Valutadatum: 23-08-2025",
+    "counterparty": "Sligro ZB 5004 PURMEREND NLD",
+    "amount": -39.26,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-25",
+    "description": "Zilte Zusjes via Stichting Mollie Payments Naam: Zilte Zusjes via Stichting Mollie Payments Omschrijving: 34c3819f22462764eb90cc7ec162628b 8152406032642044 Order 202508539 ziltezusjes.nl Zilte Zusjes IBAN: NL51DEUT0265262461 Kenmerk: 25-08-2025 12:22 8152406032642044 Valutadatum: 25-08-2025",
+    "counterparty": "Zilte Zusjes via Stichting Mollie Payments",
+    "amount": -16.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-25",
+    "description": "Vellema via Tikkie Naam: Vellema via Tikkie Omschrijving: 001079842066 0031055429793580 Slechte bet door voedoe van groen NL37ABNA0111483255 IBAN: NL13ABNA0506417344 Kenmerk: 25-08-2025 10:12 0031055429793580 Valutadatum: 25-08-2025",
+    "counterparty": "Vellema via Tikkie",
+    "amount": -20.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-25",
+    "description": "ZWEMSCHOOL WEIDEVENNE Naam: ZWEMSCHOOL WEIDEVENNE Omschrijving: /IncassobatchId/33/OpdrachtId/4957/ Incasso Zwemschool Weidevenne Incasso fact. 252550 IBAN: NL93ABNA0130343897 Kenmerk: 6003 Machtiging ID: 505-jAZf-TQAPTA1v Incassant ID: NL54ZZZ922830200000 Doorlopende incasso",
+    "counterparty": "ZWEMSCHOOL WEIDEVENNE",
+    "amount": -74.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-26",
+    "description": "DGP Race B.V. via CM.com Naam: DGP Race B.V. via CM.com Omschrijving: STC19765FC03MX5SFK 1154344235789590 Order: STC19765FC03 DGP Race B.V. IBAN: NL30DEUT0265293685 Kenmerk: 26-08-2025 20:40 1154344235789590 Valutadatum: 26-08-2025",
+    "counterparty": "DGP Race B.V. via CM.com",
+    "amount": -18.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-26",
+    "description": "Tickets For Good Naam: Tickets For Good Omschrijving: LMKPYBK 0220485123609287 TICKETS FOR GOOD IBAN: NL58CITI2032329913 Kenmerk: 26-08-2025 19:00 0220485123609287 Valutadatum: 26-08-2025",
+    "counterparty": "Tickets For Good",
+    "amount": -16.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-26",
+    "description": "ING Punten Naam: ING Punten Omschrijving: Aankoop ING winkel Bestelnummer 20770511 26-08-2025 IBAN: NL56INGB0005172119 Kenmerk: 26-08-2025 11:24 Valutadatum: 26-08-2025",
+    "counterparty": "ING Punten",
+    "amount": -87.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-08 - Beleggingsrekening - NL52BNDA0100277541 IBAN: NL23ABNA0548026866 Kenmerk: 59748011b2223 Machtiging ID: 166105 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-08-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-08 - Beleggingsrekening - NL02BNDA0100330918 IBAN: NL23ABNA0548026866 Kenmerk: 60967306b2223 Machtiging ID: 298423 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-08-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "bol.com Naam: bol.com Omschrijving: P1584349804 7051564526696131 bol.com A0008H3J7F IBAN: NL27INGB0000026500 Kenmerk: 27-08-2025 21:23 7051564526696131 Valutadatum: 27-08-2025",
+    "counterparty": "bol.com",
+    "amount": -54.13,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "ABOUT YOU Naam: ABOUT YOU Omschrijving: J8L2WVK267XBNQP94566F 7180034229577712 aynl-545-340752198-92928 IBAN: NL04ADYB2017400157 Kenmerk: 27-08-2025 20:56 7180034229577712 Valutadatum: 27-08-2025",
+    "counterparty": "ABOUT YOU",
+    "amount": -59.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Naam: P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Omschrijving: NL42RABO0354141740 0022066338607898 P. Lek eo S.M.M. Lek-Her:Kaas 23-8: P. Lek eo S.M.M. Lek-Hertogs IBAN: NL07RABO0399491228 Kenmerk: 27-08-2025 16:19 0022066338607898 Valutadatum: 27-08-2025",
+    "counterparty": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek",
+    "amount": -18.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "OPNAME ING Purmerend               921627 PASVOLGNR 000 27-08-2025 08:55 TRANSACTIENR 523908235707 Valutadatum: 27-08-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -40.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "Infomedics B.V. Naam: Infomedics B.V. Omschrijving: 52272228968071 7030126332786401 52272228968071 IBAN: NL34ABNA0243240058 Kenmerk: 27-08-2025 08:37 7030126332786401 Valutadatum: 27-08-2025",
+    "counterparty": "Infomedics B.V.",
+    "amount": -11.46,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "CCV*De Goudgele Patat LIMMEN NLD Pasvolgnr: 900 26-08-2025 11:58 Transactie: W00876 Term: CT853035 Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "CCV*De Goudgele Patat LIMMEN NLD",
+    "amount": -4.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 26-08-2025 12:38 Transactie: C00834 Term: FRAJW84W Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -9.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 26-08-2025 13:04 Transactie: P00880 Term: FRAJW84W Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -2.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 26-08-2025 13:06 Transactie: P00881 Term: FRAJW84W Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 26-08-2025 12:24 Transactie: C00833 Term: FRAJW84W Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -3.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 26-08-2025 12:38 Transactie: W00878 Term: FRAJW84W Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -4.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 26-08-2025 12:43 Transactie: W00879 Term: FRAJW84W Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -5.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 26-08-2025 12:42 Transactie: D00835 Term: FRAJW84W Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -2.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 26-08-2025 12:37 Transactie: W00877 Term: FRAJW84W Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-29",
+    "description": "Multiecom GmbH via Stichting Mollie Payments Naam: Multiecom GmbH via Stichting Mollie Payments Omschrijving: 1cb9e551f552c98687442af2b9d35222 8152026938720593 rv5af4LnlOdDyMbak2KJyDksO Multiecom GmbH IBAN: NL51DEUT0265262461 Kenmerk: 29-08-2025 20:52 8152026938720593 Valutadatum: 29-08-2025",
+    "counterparty": "Multiecom GmbH via Stichting Mollie Payments",
+    "amount": -31.52,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-29",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 28-08-2025 21:08 Transactie: P00886 Term: 88BN4V Apple Pay Valutadatum: 29-08-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -4.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-31",
+    "description": "Zettle*EventPOS by CM Utrecht Pasvolgnr: 900 30-08-2025 17:15 Transactie: D00842 Term: 03088501 Apple Pay Valutadatum: 31-08-2025",
+    "counterparty": "Zettle*EventPOS by CM Utrecht",
+    "amount": -31.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-31",
+    "description": "LOU LOU PURMEREND NLD Pasvolgnr: 901 30-08-2025 12:37 Transactie: C00839 Term: 51472694 Apple Pay Valutadatum: 31-08-2025",
+    "counterparty": "LOU LOU PURMEREND NLD",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-31",
+    "description": "CM.*DGP Race BV ZANDVOORT NLD Pasvolgnr: 900 30-08-2025 13:34 Transactie: D00841 Term: 00012793 Apple Pay Valutadatum: 31-08-2025",
+    "counterparty": "CM.*DGP Race BV ZANDVOORT NLD",
+    "amount": -15.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-31",
+    "description": "CM.*DGP Race BV ZANDVOORT NLD Pasvolgnr: 900 30-08-2025 13:10 Transactie: D00840 Term: 00012805 Apple Pay Valutadatum: 31-08-2025",
+    "counterparty": "CM.*DGP Race BV ZANDVOORT NLD",
+    "amount": -15.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-31",
+    "description": "TEMU.COM DUBLIN 2 IRL Pasvolgnr: 900 30-08-2025 05:27 Transactie: C00837 Term: WPGTID01 Apple Pay Valutadatum: 31-08-2025",
+    "counterparty": "TEMU.COM DUBLIN 2 IRL",
+    "amount": -40.57,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-31",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: be176a7464a2e0bdd56ddf6df65d84e0 8152236938595388 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 31-08-2025 12:19 8152236938595388 Valutadatum: 31-08-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -39.93,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-31",
+    "description": "Zettle*EventPOS by CM Utrecht Pasvolgnr: 900 30-08-2025 12:06 Transactie: C00838 Term: --- Apple Pay Valutadatum: 31-08-2025",
+    "counterparty": "Zettle*EventPOS by CM Utrecht",
+    "amount": -15.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-08-31",
+    "description": "HMSHost Amsterdam Cent Amsterdam Pasvolgnr: 900 30-08-2025 20:52 Transactie: D00843 Term: 75267641 Apple Pay Valutadatum: 31-08-2025",
+    "counterparty": "HMSHost Amsterdam Cent Amsterdam",
+    "amount": -13.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-01",
+    "description": "Greetz B.V. Naam: Greetz B.V. Omschrijving: FXC85IM 0220274838712664 WWW.GREETZ.NL IBAN: NL58CITI2032329913 Kenmerk: 01-09-2025 20:43 0220274838712664 Valutadatum: 01-09-2025",
+    "counterparty": "Greetz B.V.",
+    "amount": -4.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-02",
+    "description": "Bruna B.V. Naam: Bruna B.V. Omschrijving: FFGDB4TGVMTPPFF32LUUX 7180604823409373 0131704708 IBAN: NL04ADYB2017400157 Kenmerk: 02-09-2025 14:45 7180604823409373 Valutadatum: 02-09-2025",
+    "counterparty": "Bruna B.V.",
+    "amount": -27.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-02",
+    "description": "Kosten                             Rabo DirectPakket                  Periode 01-09-2025 t/m 30-09-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -3.45,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-02",
+    "description": "Kosten                             (Extra) Rabo Wereldpas             Periode 01-09-2025 t/m 30-09-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -1.4,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-03",
+    "description": "Vellema via Tikkie Naam: Vellema via Tikkie Omschrijving: 001085153580 0031614514466424 Padelballen NL37ABNA0111483255 IBAN: NL13ABNA0506417344 Kenmerk: 03-09-2025 16:24 0031614514466424 Valutadatum: 03-09-2025",
+    "counterparty": "Vellema via Tikkie",
+    "amount": -16.67,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-03",
+    "description": "CCV*De Goudgele Patat LIMMEN NLD Pasvolgnr: 900 02-09-2025 12:42 Transactie: P00893 Term: CT853040 Apple Pay Valutadatum: 03-09-2025",
+    "counterparty": "CCV*De Goudgele Patat LIMMEN NLD",
+    "amount": -3.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-03",
+    "description": "CCV*De Goudgele Patat LIMMEN NLD Pasvolgnr: 900 02-09-2025 12:27 Transactie: C00848 Term: CT853040 Apple Pay Valutadatum: 03-09-2025",
+    "counterparty": "CCV*De Goudgele Patat LIMMEN NLD",
+    "amount": -4.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-04",
+    "description": "TMC*Eggert3 AMSTERDAM DUI NLD Pasvolgnr: 901 03-09-2025 14:49 Transactie: W00895 Term: CT935207 Apple Pay Valutadatum: 04-09-2025",
+    "counterparty": "TMC*Eggert3 AMSTERDAM DUI NLD",
+    "amount": -1.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-04",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 03-09-2025 12:32 Transactie: C00850 Term: FRAJW84W Apple Pay Valutadatum: 04-09-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -3.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-05",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Geheim IBAN: NL83INGB0665811667 Valutadatum: 05-09-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-05",
+    "description": "Supporta via Stichting Mollie Payments Naam: Supporta via Stichting Mollie Payments Omschrijving: 62451022d32c7bf773e7f82a76d28e4e 8152695117490781 310 Sporten voor Stichting Vrienden Supporta IBAN: NL51DEUT0265262461 Kenmerk: 05-09-2025 09:45 8152695117490781 Valutadatum: 05-09-2025",
+    "counterparty": "Supporta via Stichting Mollie Payments",
+    "amount": -20.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-05",
+    "description": "CCV*24 uursapotheek W PURMEREND Pasvolgnr: 901 04-09-2025 16:07 Transactie: P00897 Term: CT933054 Apple Pay Valutadatum: 05-09-2025",
+    "counterparty": "CCV*24 uursapotheek W PURMEREND",
+    "amount": -16.19,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-05",
+    "description": "Incasso ING creditcard Accountnr 210024788254 Periode augustus 2025 Voor info zie creditcardoverzicht Valutadatum: 05-09-2025",
+    "counterparty": "Incasso ING creditcard",
+    "amount": -275.91,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-05",
+    "description": "STPARKEERGELDEN VIA RIVERTY Naam: STPARKEERGELDEN VIA RIVERTY Omschrijving: Id 1900114626140039, EasyPark B.V., Re Nr. 4161936398915, Ku Nr. 40241814 IBAN: NL96DEUT0265287162 Kenmerk: 3604B5AA0DD0447099943C109EBBD78A Machtiging ID: EC00416190002135156 Incassant ID: DE23ZZZ00001986600 Doorlopende incasso Valutadatum: 05-09-2025",
+    "counterparty": "STPARKEERGELDEN VIA RIVERTY",
+    "amount": -29.37,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-06",
+    "description": "TOP 1 TOYS PURMEREND NLD Pasvolgnr: 900 05-09-2025 13:54 Transactie: P00898 Term: HM7V55 Apple Pay Valutadatum: 06-09-2025",
+    "counterparty": "TOP 1 TOYS PURMEREND NLD",
+    "amount": -24.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-07",
+    "description": "Verheul via Tikkie Naam: Verheul via Tikkie Omschrijving: 001087127836 0031355735214136 Bijdragen competitie NL73ABNA0980441781 IBAN: NL13ABNA0506417344 Kenmerk: 07-09-2025 08:47 0031355735214136 Valutadatum: 07-09-2025",
+    "counterparty": "Verheul via Tikkie",
+    "amount": -6.33,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-07",
+    "description": "Zuivelhoeve Purmerend PURMEREND Pasvolgnr: 900 06-09-2025 16:20 Transactie: P00900 Term: 02767301 Apple Pay Valutadatum: 07-09-2025",
+    "counterparty": "Zuivelhoeve Purmerend PURMEREND",
+    "amount": -43.49,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-08",
+    "description": "Mw K Vriens via ING Betaalverzoek Naam: Mw K Vriens via ING Betaalverzoek Omschrijving: KVriensNL26INGB0009389346 7051446320359660 Denim set NL26INGB0009389346 IBAN: NL10INGB0005300114 Kenmerk: 08-09-2025 21:13 7051446320359660 Valutadatum: 08-09-2025",
+    "counterparty": "Mw K Vriens via ING Betaalverzoek",
+    "amount": -20.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-08",
+    "description": "Hr J Schut, Mw B Schut-Boekelman via ING Betaalverzoek Naam: Hr J Schut, Mw B Schut-Boekelman via ING Betaalverzoek Omschrijving: NL57INGB0004961708 7051855117301679 Kaas Kim NL57INGB0004961708 IBAN: NL10INGB0005300114 Kenmerk: 08-09-2025 08:31 7051855117301679 Valutadatum: 08-09-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman via ING Betaalverzoek",
+    "amount": -18.05,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-09",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 08-09-2025 13:15 Transactie: W00907 Term: FRAJW84W Apple Pay Valutadatum: 09-09-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-09",
+    "description": "WHATNOT PENROSE DOCK IRL Pasvolgnr: 900 08-09-2025 12:41 Transactie: P00906 Term: FRAJW84W Apple Pay Valutadatum: 09-09-2025",
+    "counterparty": "WHATNOT PENROSE DOCK IRL",
+    "amount": -7.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-10",
+    "description": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Naam: Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Omschrijving: NL83INGB0665811667 7051175732415643 Schiphol Parking via CCV Group BV NL83INGB0665811667 IBAN: NL10INGB0005300114 Kenmerk: 10-09-2025 12:51 7051175732415643 Valutadatum: 10-09-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek",
+    "amount": -156.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-10",
+    "description": "Pluto Sport Europe BV Naam: Pluto Sport Europe BV Omschrijving: BNL003302191 8030174811293474 Plutosport IBAN: NL56DEUT0265186420 Kenmerk: 10-09-2025 09:52 8030174811293474 Valutadatum: 10-09-2025",
+    "counterparty": "Pluto Sport Europe BV",
+    "amount": -34.85,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-10",
+    "description": "OPNAME ING Purmerend               921627 PASVOLGNR 000 10-09-2025 08:48 TRANSACTIENR 525308161089 Valutadatum: 10-09-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-10",
+    "description": "CCV*De Goudgele Patat LIMMEN NLD Pasvolgnr: 900 09-09-2025 12:08 Transactie: C00854 Term: CT853040 Apple Pay Valutadatum: 10-09-2025",
+    "counterparty": "CCV*De Goudgele Patat LIMMEN NLD",
+    "amount": -7.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-12",
+    "description": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Naam: P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Omschrijving: NL42RABO0354141740 0022085417077759 P. Lek eo S.M.M. Lek-Her:Drankjes: P. Lek eo S.M.M. Lek-Hertogs IBAN: NL73RABO0325301433 Kenmerk: 12-09-2025 08:41 0022085417077759 Valutadatum: 12-09-2025",
+    "counterparty": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek",
+    "amount": -25.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Hr DK Grimbergen Naam: Hr DK Grimbergen Omschrijving: pokemonkaarten IBAN: NL49INGB0004791714 Valutadatum: 13-09-2025",
+    "counterparty": "Hr DK Grimbergen",
+    "amount": -34.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Vellema via Tikkie Naam: Vellema via Tikkie Omschrijving: 001090340855 0031144516956199 Padel heilo NL37ABNA0111483255 IBAN: NL13ABNA0506417344 Kenmerk: 13-09-2025 10:31 0031144516956199 Valutadatum: 13-09-2025",
+    "counterparty": "Vellema via Tikkie",
+    "amount": -12.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-13",
+    "description": "CCV*Shoarma Babylon PURMEREND Pasvolgnr: 900 12-09-2025 00:31 Transactie: C00861 Term: CT384757 Apple Pay Valutadatum: 13-09-2025",
+    "counterparty": "CCV*Shoarma Babylon PURMEREND",
+    "amount": -12.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Kosten OranjePakket 1 aug t/m 31 aug 2025 ING BANK N.V. Valutadatum: 13-09-2025",
+    "counterparty": "Kosten OranjePakket",
+    "amount": -3.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Kosten tweede rekeninghouder 1 aug t/m 31 aug 2025 ING BANK N.V. Valutadatum: 13-09-2025",
+    "counterparty": "Kosten tweede rekeninghouder",
+    "amount": -1.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-14",
+    "description": "Nierstichting via CM.com Naam: Nierstichting via CM.com Omschrijving: P688314 1154715711041588 Collecte Nierstichting Nierstichting IBAN: NL30DEUT0265293685 Kenmerk: 14-09-2025 16:27 1154715711041588 Valutadatum: 14-09-2025",
+    "counterparty": "Nierstichting via CM.com",
+    "amount": -6.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-14",
+    "description": "bol.com Naam: bol.com Omschrijving: P1590125010 7051826623101183 bol.com A000900RM0 IBAN: NL27INGB0000026500 Kenmerk: 14-09-2025 12:37 7051826623101183 Valutadatum: 14-09-2025",
+    "counterparty": "bol.com",
+    "amount": -13.49,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-14",
+    "description": "Paula's Choice Europe B.V. Naam: Paula's Choice Europe B.V. Omschrijving: MP38V3JS38LLNNZ32LUVD 7180744516981078 EU06097624 IBAN: NL04ADYB2017400157 Kenmerk: 14-09-2025 12:08 7180744516981078 Valutadatum: 14-09-2025",
+    "counterparty": "Paula's Choice Europe B.V.",
+    "amount": -33.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-14",
+    "description": "Sligro ZB 5004 PURMEREND NLD Pasvolgnr: 900 13-09-2025 14:53 Transactie: D00865 Term: 114RF8 Apple Pay Valutadatum: 14-09-2025",
+    "counterparty": "Sligro ZB 5004 PURMEREND NLD",
+    "amount": -58.42,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-15",
+    "description": "OPNAME ING Purmerend               921627 PASVOLGNR 000 15-09-2025 08:53 TRANSACTIENR 525808208462 Valutadatum: 15-09-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -60.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-16",
+    "description": "Hr RS van Leeuwen Naam: Hr RS van Leeuwen Omschrijving: Pokemon IBAN: NL78INGB0703937510 Valutadatum: 16-09-2025",
+    "counterparty": "Hr RS van Leeuwen",
+    "amount": -7.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-17",
+    "description": "Boekhandel Stumpel PURMEREND NLD Pasvolgnr: 901 17-09-2025 10:25 Transactie: P00918 Term: NWS800 Apple Pay Valutadatum: 17-09-2025",
+    "counterparty": "Boekhandel Stumpel PURMEREND NLD",
+    "amount": -5.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-17",
+    "description": "CCV*De Goudgele Patat LIMMEN NLD Pasvolgnr: 900 16-09-2025 12:39 Transactie: D00876 Term: CT853035 Apple Pay Valutadatum: 17-09-2025",
+    "counterparty": "CCV*De Goudgele Patat LIMMEN NLD",
+    "amount": -7.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-18",
+    "description": "Primera t Eggert PURMEREND NLD Pasvolgnr: 900 18-09-2025 11:48 Transactie: C00884 Term: 2LWR6N Apple Pay Valutadatum: 18-09-2025",
+    "counterparty": "Primera t Eggert PURMEREND NLD",
+    "amount": -1.31,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-19",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 19-09-2025 10:05 Transactie: W00920 Term: 07L39C Apple Pay Valutadatum: 19-09-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -15.94,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-20",
+    "description": "CCV*24 uursapotheek W PURMEREND Pasvolgnr: 901 19-09-2025 13:31 Transactie: P00921 Term: CT357708 Apple Pay Valutadatum: 20-09-2025",
+    "counterparty": "CCV*24 uursapotheek W PURMEREND",
+    "amount": -6.69,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-20",
+    "description": "Victoria Purmerend VOF Purmerend Pasvolgnr: 900 19-09-2025 00:00 Transactie: W00924 Term: 39938247 Apple Pay Valutadatum: 20-09-2025",
+    "counterparty": "Victoria Purmerend VOF Purmerend",
+    "amount": -16.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-21",
+    "description": "8094 CC LA VILA SANT FRANCES ESP Pasvolgnr: 900 20-09-2025 16:56 Transactie: C00888 Term: 00439960 Apple Pay Valutadatum: 21-09-2025",
+    "counterparty": "8094 CC LA VILA SANT FRANCES ESP",
+    "amount": -4.25,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-21",
+    "description": "ZAFIRO RECEPCION PALMANOVA ESP Pasvolgnr: 901 20-09-2025 10:37 Transactie: W00925 Term: 90030997 Apple Pay Valutadatum: 21-09-2025",
+    "counterparty": "ZAFIRO RECEPCION PALMANOVA ESP",
+    "amount": -52.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-22",
+    "description": "TAXI CALVIA K145 CALVIA ESP Pasvolgnr: 900 21-09-2025 15:19 Transactie: W00927 Term: 00266439 Apple Pay Valutadatum: 22-09-2025",
+    "counterparty": "TAXI CALVIA K145 CALVIA ESP",
+    "amount": -25.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-23",
+    "description": "Mw V Pomaro-Santi,Hr O Santi Naam: Mw V Pomaro-Santi,Hr O Santi Omschrijving: Justin L IBAN: NL60INGB0700673202 Valutadatum: 23-09-2025",
+    "counterparty": "Mw V Pomaro-Santi,Hr O Santi",
+    "amount": -11.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-23",
+    "description": "Mw V Pomaro-Santi,Hr O Santi Naam: Mw V Pomaro-Santi,Hr O Santi Omschrijving: Justin L IBAN: NL60INGB0700673202 Valutadatum: 23-09-2025",
+    "counterparty": "Mw V Pomaro-Santi,Hr O Santi",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-23",
+    "description": "PayPal Europe S.a.r.l. et Cie S.C.A Naam: PayPal Europe S.a.r.l. et Cie S.C.A Omschrijving: 1045001641558/PAYPAL IBAN: LU89751000135104200E Kenmerk: 1045001641558 Machtiging ID: 4NUJ224Q6LS4W Incassant ID: LU96ZZZ0000000000000000058 Doorlopende incasso Valutadatum: 23-09-2025",
+    "counterparty": "PayPal Europe S.a.r.l. et Cie S.C.A",
+    "amount": -37.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-24",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: ea951475c2f768493848e2158244be6d 8152166622623202 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 24-09-2025 10:22 8152166622623202 Valutadatum: 24-09-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -536.45,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-25",
+    "description": "Brown via Tikkie Naam: Brown via Tikkie Omschrijving: 001097140283 0031614837829902 Was NL07ABNA0811472558 IBAN: NL13ABNA0506417344 Kenmerk: 25-09-2025 18:02 0031614837829902 Valutadatum: 25-09-2025",
+    "counterparty": "Brown via Tikkie",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-26",
+    "description": "Infomedics B.V. Naam: Infomedics B.V. Omschrijving: 12272228967071 7030295719825360 12272228967071 IBAN: NL34ABNA0243240058 Kenmerk: 26-09-2025 17:38 7030295719825360 Valutadatum: 26-09-2025",
+    "counterparty": "Infomedics B.V.",
+    "amount": -7.21,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-26",
+    "description": "mallorca offshore boat ESP Pasvolgnr: 900 25-09-2025 10:37 Transactie: P00929 Term: 01329489 Apple Pay Valutadatum: 26-09-2025",
+    "counterparty": "mallorca offshore boat ESP",
+    "amount": -45.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-26",
+    "description": "SUPER JUMI MAGALUF ESP Pasvolgnr: 900 25-09-2025 12:40 Transactie: C00894 Term: 51990236 Apple Pay Valutadatum: 26-09-2025",
+    "counterparty": "SUPER JUMI MAGALUF ESP",
+    "amount": -14.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-26",
+    "description": "FARMACIA TRUYOLS ENRIQ ESP Pasvolgnr: 901 25-09-2025 10:30 Transactie: P00928 Term: 00669906 Apple Pay Valutadatum: 26-09-2025",
+    "counterparty": "FARMACIA TRUYOLS ENRIQ ESP",
+    "amount": -8.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-26",
+    "description": "ZAFIRO SUPERMERCADO ESP Pasvolgnr: 901 25-09-2025 08:07 Transactie: D00892 Term: 04319094 Apple Pay Valutadatum: 26-09-2025",
+    "counterparty": "ZAFIRO SUPERMERCADO ESP",
+    "amount": -2.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-26",
+    "description": "ZAFIRO SUPERMERCADO ESP Pasvolgnr: 901 25-09-2025 10:20 Transactie: C00893 Term: 04319094 Apple Pay Valutadatum: 26-09-2025",
+    "counterparty": "ZAFIRO SUPERMERCADO ESP",
+    "amount": -16.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-09 - Beleggingsrekening - NL02BNDA0100330918 IBAN: NL23ABNA0548026866 Kenmerk: 60967306b2256 Machtiging ID: 298423 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-09-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-09 - Beleggingsrekening - NL52BNDA0100277541 IBAN: NL23ABNA0548026866 Kenmerk: 59748011b2256 Machtiging ID: 166105 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-09-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-27",
+    "description": "Boetiek Philippine v.o.f. via Tikkie Zakelijk Naam: Boetiek Philippine v.o.f. via Tikkie Zakelijk Omschrijving: B20250927X00MSAX001098374790 0031344237822603 Kimschut NL30ABNA0437831248 IBAN: NL61ABNA0811086496 Kenmerk: 27-09-2025 17:08 0031344237822603 Valutadatum: 27-09-2025",
+    "counterparty": "Boetiek Philippine v.o.f. via Tikkie Zakelijk",
+    "amount": -25.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-27",
+    "description": "FARMACIA TRUYOLS ENRIQ ESP Pasvolgnr: 900 26-09-2025 11:21 Transactie: P00932 Term: 00669906 Apple Pay Valutadatum: 27-09-2025",
+    "counterparty": "FARMACIA TRUYOLS ENRIQ ESP",
+    "amount": -20.51,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-27",
+    "description": "FARMACIA TRUYOLS ENRIQ ESP Pasvolgnr: 900 26-09-2025 10:14 Transactie: W00930 Term: 00669906 Apple Pay Valutadatum: 27-09-2025",
+    "counterparty": "FARMACIA TRUYOLS ENRIQ ESP",
+    "amount": -3.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-27",
+    "description": "JUANEDA URGENCIAS MEDI PALMA ESP Pasvolgnr: 900 26-09-2025 11:13 Transactie: W00931 Term: 55877677 Apple Pay Valutadatum: 27-09-2025",
+    "counterparty": "JUANEDA URGENCIAS MEDI PALMA ESP",
+    "amount": -105.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-28",
+    "description": "Zaalvoetbalvereniging Onberekenbaar Sandow Naam: Zaalvoetbalvereniging Onberekenbaar Sandow Omschrijving: 3115268883Xe8d4c 7370304513791457 8448398/1 Contributie ZVVO Sando IBAN: NL35RABO0117713678 Kenmerk: 28-09-2025 12:22 7370304513791457 Valutadatum: 28-09-2025",
+    "counterparty": "Zaalvoetbalvereniging Onberekenbaar Sandow",
+    "amount": -175.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "Belastingdienst Apeldoorn Naam: Belastingdienst Apeldoorn Omschrijving: 7205232425501211 IBAN: NL86INGB0002445588 Datum/Tijd: 29-09-2025 12:50:31 Valutadatum: 29-09-2025",
+    "counterparty": "Belastingdienst Apeldoorn",
+    "amount": -1351.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "AREAS S.A.U. REAL DE GANDI ESP Pasvolgnr: 900 28-09-2025 15:23 Transactie: C00895 Term: 03174600 Apple Pay Valutadatum: 29-09-2025",
+    "counterparty": "AREAS S.A.U. REAL DE GANDI ESP",
+    "amount": -1.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "AREAS S.A.U. REAL DE GANDI ESP Pasvolgnr: 900 28-09-2025 15:24 Transactie: P00934 Term: 03174600 Apple Pay Valutadatum: 29-09-2025",
+    "counterparty": "AREAS S.A.U. REAL DE GANDI ESP",
+    "amount": -1.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "bol.com Naam: bol.com Omschrijving: P1595538114 7051554231816114 bol.com A0009AP417 IBAN: NL27INGB0000026500 Kenmerk: 29-09-2025 09:54 7051554231816114 Valutadatum: 29-09-2025",
+    "counterparty": "bol.com",
+    "amount": -30.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "ZAFIRO RECEPCION PALMANOVA ESP Pasvolgnr: 900 28-09-2025 11:59 Transactie: W00933 Term: 90009647 Apple Pay Valutadatum: 29-09-2025",
+    "counterparty": "ZAFIRO RECEPCION PALMANOVA ESP",
+    "amount": -13.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "ZWEMSCHOOL WEIDEVENNE Naam: ZWEMSCHOOL WEIDEVENNE Omschrijving: /IncassobatchId/35/OpdrachtId/5327/ Incasso Zwemschool Weidevenne Incasso fact. 252742 IBAN: NL93ABNA0130343897 Kenmerk: 6205 Machtiging ID: 505-jAZf-TQAPTA1v Incassant ID: NL54ZZZ922830200000 Doorlopende incasso",
+    "counterparty": "ZWEMSCHOOL WEIDEVENNE",
+    "amount": -74.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "De Wit Schijndel via MultiSafepay Naam: De Wit Schijndel via MultiSafepay Omschrijving: 1268459966 8151116934663777 Payment for order ?DWS250930400377 De Wit Schijndel IBAN: NL17DEUT0265262879 Kenmerk: 30-09-2025 16:52 8151116934663777 Valutadatum: 30-09-2025",
+    "counterparty": "De Wit Schijndel via MultiSafepay",
+    "amount": -25.94,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "Grote Clubactie Naam: Grote Clubactie Omschrijving: 51518105018X14e7 7370004534813267 WMAARWALW - Loten Turncentrum Wa IBAN: NL48INGB0676087604 Kenmerk: 30-09-2025 14:26 7370004534813267 Valutadatum: 30-09-2025",
+    "counterparty": "Grote Clubactie",
+    "amount": -3.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "Mw V Pomaro-Santi,Hr O Santi Naam: Mw V Pomaro-Santi,Hr O Santi Omschrijving: J IBAN: NL60INGB0700673202 Valutadatum: 30-09-2025",
+    "counterparty": "Mw V Pomaro-Santi,Hr O Santi",
+    "amount": -25.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "Amazon EU SARL Naam: Amazon EU SARL Omschrijving: BCHIZCA 0220235125781398 a404-7414897-2083530 Amazon Retail IBAN: NL58CITI2032329913 Kenmerk: 01-10-2025 09:20 0220235125781398 Valutadatum: 01-10-2025",
+    "counterparty": "Amazon EU SARL",
+    "amount": -31.92,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "CCV*De Goudgele Patat LIMMEN NLD Pasvolgnr: 900 30-09-2025 12:40 Transactie: C00901 Term: CT853035 Apple Pay Valutadatum: 01-10-2025",
+    "counterparty": "CCV*De Goudgele Patat LIMMEN NLD",
+    "amount": -11.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 30-09-2025 13:06 Transactie: D00902 Term: 07L39C Apple Pay Valutadatum: 01-10-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "Amazon Payments Europe SCA Naam: Amazon Payments Europe SCA Omschrijving: OJVBTSJ 0220554222358317 a404-9888403-8454707 Amazon IBAN: NL58CITI2032329913 Kenmerk: 02-10-2025 19:27 0220554222358317 Valutadatum: 02-10-2025",
+    "counterparty": "Amazon Payments Europe SCA",
+    "amount": -35.14,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "Bos via Tikkie Naam: Bos via Tikkie Omschrijving: 001100899778 0031546613387417 Body NL82ABNA0454948581 IBAN: NL13ABNA0506417344 Kenmerk: 02-10-2025 07:21 0031546613387417 Valutadatum: 02-10-2025",
+    "counterparty": "Bos via Tikkie",
+    "amount": -32.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "Kosten                             Rabo DirectPakket                  Periode 01-10-2025 t/m 31-10-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -3.45,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "Kosten                             (Extra) Rabo Wereldpas             Periode 01-10-2025 t/m 31-10-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -1.4,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-05",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 7c60259cfb0959c878e65a1c3d45d9e6 8152114837590871 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 05-10-2025 14:49 8152114837590871 Valutadatum: 05-10-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -74.45,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-06",
+    "description": "bol.com Naam: bol.com Omschrijving: P1598195345 7051854237436374 bol.com A0009J77N9 IBAN: NL27INGB0000026500 Kenmerk: 06-10-2025 20:55 7051854237436374 Valutadatum: 06-10-2025",
+    "counterparty": "bol.com",
+    "amount": -13.55,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-06",
+    "description": "TEMU.COM DUBLIN 2 IRL Pasvolgnr: 900 05-10-2025 15:05 Transactie: W00949 Term: WPGTID01 Apple Pay Valutadatum: 06-10-2025",
+    "counterparty": "TEMU.COM DUBLIN 2 IRL",
+    "amount": -31.24,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-06",
+    "description": "Mw V Pomaro-Santi,Hr O Santi Naam: Mw V Pomaro-Santi,Hr O Santi Omschrijving: J IBAN: NL60INGB0700673202 Valutadatum: 06-10-2025",
+    "counterparty": "Mw V Pomaro-Santi,Hr O Santi",
+    "amount": -134.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-06",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 05-10-2025 16:09 Transactie: P00947 Term: 07L39C Apple Pay Valutadatum: 06-10-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "Dekker via Tikkie Naam: Dekker via Tikkie Omschrijving: 001104114785 0031895425374130 Cadeaus Denies en Kem NL16INGB0754473589 IBAN: NL13ABNA0506417344 Kenmerk: 07-10-2025 20:28 0031895425374130 Valutadatum: 07-10-2025",
+    "counterparty": "Dekker via Tikkie",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "zevering via Tikkie Naam: zevering via Tikkie Omschrijving: 001103968912 0031514222402360 Pokemon NL07ABNA0877592608 IBAN: NL13ABNA0506417344 Kenmerk: 07-10-2025 16:24 0031514222402360 Valutadatum: 07-10-2025",
+    "counterparty": "zevering via Tikkie",
+    "amount": -35.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "Amazon EU SARL Naam: Amazon EU SARL Omschrijving: RISZDQJ 0220306931343164 a404-9140011-6865922 Amazon Retail IBAN: NL58CITI2032329913 Kenmerk: 07-10-2025 08:06 0220306931343164 Valutadatum: 07-10-2025",
+    "counterparty": "Amazon EU SARL",
+    "amount": -13.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "STPARKEERGELDEN VIA RIVERTY Naam: STPARKEERGELDEN VIA RIVERTY Omschrijving: Id 2900114626140041, EasyPark B.V., Re Nr. 4161937506215, Ku Nr. 40241814 IBAN: NL96DEUT0265287162 Kenmerk: 8A268E8B4A71434C9B53CF4F42C6AD40 Machtiging ID: EC00416190002135156 Incassant ID: DE23ZZZ00001986600 Doorlopende incasso Valutadatum: 07-10-2025",
+    "counterparty": "STPARKEERGELDEN VIA RIVERTY",
+    "amount": -7.24,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "Incasso ING creditcard Accountnr 210024788254 Periode september 2025 Voor info zie creditcardoverzicht Valutadatum: 07-10-2025",
+    "counterparty": "Incasso ING creditcard",
+    "amount": -448.02,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-08",
+    "description": "Marktplaats via Online Payments Stichting Naam: Marktplaats via Online Payments Stichting Omschrijving: mtx6b02b2db4961 8152264513341466 Transaction: mtr?e76ce5aaf866 Marktplaats IBAN: NL42DEUT0265288134 Kenmerk: 08-10-2025 10:19 8152264513341466 Valutadatum: 08-10-2025",
+    "counterparty": "Marktplaats via Online Payments Stichting",
+    "amount": -47.85,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-08",
+    "description": "BCK*Harry de Groot Wei PURMEREND Pasvolgnr: 901 07-10-2025 08:59 Transactie: P00953 Term: CT920366 Apple Pay Valutadatum: 08-10-2025",
+    "counterparty": "BCK*Harry de Groot Wei PURMEREND",
+    "amount": -4.65,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-08",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 07-10-2025 12:54 Transactie: P00954 Term: 07L39C Apple Pay Valutadatum: 08-10-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-09",
+    "description": "Marktplaats via Online Payments Stichting Naam: Marktplaats via Online Payments Stichting Omschrijving: mtxe01be31110a0 8152625137458970 Transaction: mtr?c0cc084d5f17 Marktplaats IBAN: NL42DEUT0265288134 Kenmerk: 09-10-2025 10:52 8152625137458970 Valutadatum: 09-10-2025",
+    "counterparty": "Marktplaats via Online Payments Stichting",
+    "amount": -14.94,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-09",
+    "description": "Dietisten nierziekten nederland Naam: Dietisten nierziekten nederland Omschrijving: Factuurnr: 2025-1367 IBAN: NL92INGB0000823543 Datum/Tijd: 09-10-2025 10:29:38 Valutadatum: 09-10-2025",
+    "counterparty": "Dietisten nierziekten nederland",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-09",
+    "description": "OPNAME ING Purmerend               920432 PASVOLGNR 000 09-10-2025 08:34 TRANSACTIENR 528208882491 Valutadatum: 09-10-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-09",
+    "description": "BCK*Kaashandel Habben NLD Pasvolgnr: 901 08-10-2025 09:35 Transactie: C00911 Term: 80013940 Apple Pay Valutadatum: 09-10-2025",
+    "counterparty": "BCK*Kaashandel Habben NLD",
+    "amount": -11.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-10",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 09-10-2025 16:56 Transactie: W00956 Term: 07L39C Apple Pay Valutadatum: 10-10-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -20.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-11",
+    "description": "LS TCG GEERT GEERTRUIDENBE NLD Pasvolgnr: 900 11-10-2025 05:52 Transactie: D00919 Term: FPUQ0EUQ Apple Pay Valutadatum: 11-10-2025",
+    "counterparty": "LS TCG GEERT GEERTRUIDENBE NLD",
+    "amount": -35.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-11",
+    "description": "FoodConceptsWork B.V. UTRECHT Pasvolgnr: 901 10-10-2025 10:51 Transactie: C00917 Term: ET068589 Apple Pay Valutadatum: 11-10-2025",
+    "counterparty": "FoodConceptsWork B.V. UTRECHT",
+    "amount": -1.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-11",
+    "description": "BBQ Outside PURMEREND NLD Pasvolgnr: 900 10-10-2025 11:56 Transactie: W00959 Term: 081852EQ Apple Pay Valutadatum: 11-10-2025",
+    "counterparty": "BBQ Outside PURMEREND NLD",
+    "amount": -10.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-11",
+    "description": "BP EXPRESS PURMEREND PURMEREND Pasvolgnr: 900 10-10-2025 08:39 Transactie: P00958 Term: 41120694 Apple Pay Valutadatum: 11-10-2025",
+    "counterparty": "BP EXPRESS PURMEREND PURMEREND",
+    "amount": -92.45,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-12",
+    "description": "CCV*Mister Chi B.V. PURMEREND Pasvolgnr: 900 11-10-2025 17:24 Transactie: W00964 Term: CT869278 Apple Pay Valutadatum: 12-10-2025",
+    "counterparty": "CCV*Mister Chi B.V. PURMEREND",
+    "amount": -195.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-12",
+    "description": "TCGARTIKEL PURMEREND NLD Pasvolgnr: 900 11-10-2025 12:45 Transactie: C00918 Term: 80329311 Apple Pay Valutadatum: 12-10-2025",
+    "counterparty": "TCGARTIKEL PURMEREND NLD",
+    "amount": -42.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-12",
+    "description": "Temu.com Naam: Temu.com Omschrijving: MZ77V8DV5B5HCBH62GJT3 7180766910299133 Temu.com IBAN: NL04ADYB2017400157 Kenmerk: 12-10-2025 07:46 7180766910299133 Valutadatum: 12-10-2025",
+    "counterparty": "Temu.com",
+    "amount": -23.29,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-13",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: b9f90e14df74c93debbb62f37fe672f0 8152696610085068 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 13-10-2025 19:51 8152696610085068 Valutadatum: 13-10-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -36.47,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-13",
+    "description": "Mw V Pomaro-Santi,Hr O Santi Naam: Mw V Pomaro-Santi,Hr O Santi Omschrijving: J IBAN: NL60INGB0700673202 Valutadatum: 13-10-2025",
+    "counterparty": "Mw V Pomaro-Santi,Hr O Santi",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-13",
+    "description": "Kosten tweede rekeninghouder 1 sep t/m 30 sep 2025 ING BANK N.V. Valutadatum: 13-10-2025",
+    "counterparty": "Kosten tweede rekeninghouder",
+    "amount": -1.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-13",
+    "description": "Kosten OranjePakket 1 sep t/m 30 sep 2025 ING BANK N.V. Valutadatum: 13-10-2025",
+    "counterparty": "Kosten OranjePakket",
+    "amount": -3.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-14",
+    "description": "Marktplaats via Online Payments Stichting Naam: Marktplaats via Online Payments Stichting Omschrijving: mtx68c764ef236c 8152316919261996 Transaction: mtr?f6deb720fa46 Marktplaats IBAN: NL42DEUT0265288134 Kenmerk: 14-10-2025 20:09 8152316919261996 Valutadatum: 14-10-2025",
+    "counterparty": "Marktplaats via Online Payments Stichting",
+    "amount": -64.65,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-15",
+    "description": "Henesys B.V. via Stripe Technology Europe Ltd Naam: Henesys B.V. via Stripe Technology Europe Ltd Omschrijving: 74OP1W9 7140404210018198 Purchase Henesys B.V. IBAN: LU484080000052808974 Kenmerk: 15-10-2025 19:57 7140404210018198 Valutadatum: 15-10-2025",
+    "counterparty": "Henesys B.V. via Stripe Technology Europe Ltd",
+    "amount": -17.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-15",
+    "description": "Bos via Tikkie Naam: Bos via Tikkie Omschrijving: 001108113859 0031095113140829 Cil NL82ABNA0454948581 IBAN: NL13ABNA0506417344 Kenmerk: 15-10-2025 12:20 0031095113140829 Valutadatum: 15-10-2025",
+    "counterparty": "Bos via Tikkie",
+    "amount": -30.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-16",
+    "description": "TMC*EggertUit1L AMSTERDAM DUI Pasvolgnr: 901 15-10-2025 10:52 Transactie: D00925 Term: CT935208 Apple Pay Valutadatum: 16-10-2025",
+    "counterparty": "TMC*EggertUit1L AMSTERDAM DUI",
+    "amount": -1.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-17",
+    "description": "Stomerij Zeekant BV NLD Pasvolgnr: 900 16-10-2025 18:48 Transactie: W00973 Term: 16310769 Apple Pay Valutadatum: 17-10-2025",
+    "counterparty": "Stomerij Zeekant BV NLD",
+    "amount": -58.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-17",
+    "description": "C. Visser via Rabo Betaalverzoek Naam: C. Visser via Rabo Betaalverzoek Omschrijving: NL36RABO0329746251 0022036928104871 C. Visser:Escape game en borrelpla: C. Visser IBAN: NL42RABO0114668043 Kenmerk: 17-10-2025 09:32 0022036928104871 Valutadatum: 17-10-2025",
+    "counterparty": "C. Visser via Rabo Betaalverzoek",
+    "amount": -39.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-18",
+    "description": "Gall & Gall 7106 PURMEREND NLD Pasvolgnr: 900 17-10-2025 12:34 Transactie: C00928 Term: 16F667 Apple Pay Valutadatum: 18-10-2025",
+    "counterparty": "Gall & Gall 7106 PURMEREND NLD",
+    "amount": -26.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-18",
+    "description": "Sligro ZB 5004 PURMEREND NLD Pasvolgnr: 900 17-10-2025 12:59 Transactie: P00975 Term: QG83M1 Apple Pay Valutadatum: 18-10-2025",
+    "counterparty": "Sligro ZB 5004 PURMEREND NLD",
+    "amount": -13.23,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-18",
+    "description": "bol.com Naam: bol.com Omschrijving: P1601917096 7051125137219066 bol.com A0009TXN87 IBAN: NL27INGB0000026500 Kenmerk: 18-10-2025 10:23 7051125137219066 Valutadatum: 18-10-2025",
+    "counterparty": "bol.com",
+    "amount": -29.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-18",
+    "description": "Declaratie ziektekosten mallorca fbto   ",
+    "counterparty": "K schut en j lek",
+    "amount": -115.0,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-19",
+    "description": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Naam: Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Omschrijving: NL83INGB0665811667 7051336319216690 Albert Heijn 1516 NL83INGB0665811667 IBAN: NL10INGB0005300114 Kenmerk: 19-10-2025 15:49 7051336319216690 Valutadatum: 19-10-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-19",
+    "description": "CCV*Stichting De Speel PURMEREND Pasvolgnr: 901 18-10-2025 15:59 Transactie: C00932 Term: CT852372 Apple Pay Valutadatum: 19-10-2025",
+    "counterparty": "CCV*Stichting De Speel PURMEREND",
+    "amount": -4.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-19",
+    "description": "Most Wanted B.V. via Stripe Technology Europe Ltd Naam: Most Wanted B.V. via Stripe Technology Europe Ltd Omschrijving: 74QAAV2 7140374519098787 via Stripe Most Wanted B.V. IBAN: DE04202208000095254874 Kenmerk: 19-10-2025 08:31 7140374519098787 Valutadatum: 19-10-2025",
+    "counterparty": "Most Wanted B.V. via Stripe Technology Europe Ltd",
+    "amount": -139.97,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-19",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 18-10-2025 15:36 Transactie: P00977 Term: 07L39C Apple Pay Valutadatum: 19-10-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-19",
+    "description": "Johan Cruijff ArenA Amsterdam Pasvolgnr: 900 18-10-2025 21:53 Transactie: W00978 Term: 42814572 Apple Pay Valutadatum: 19-10-2025",
+    "counterparty": "Johan Cruijff ArenA Amsterdam",
+    "amount": -29.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-20",
+    "description": "Hr KC Lau,Mw KP Man Naam: Hr KC Lau,Mw KP Man Omschrijving: 2025 IBAN: NL91INGB0689371659 Valutadatum: 20-10-2025",
+    "counterparty": "Hr KC Lau,Mw KP Man",
+    "amount": -21.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-20",
+    "description": "FEBO Arena AMSTERDAM NLD Pasvolgnr: 900 18-10-2025 23:30 Transactie: W00979 Term: 061247EQ Apple Pay Valutadatum: 20-10-2025",
+    "counterparty": "FEBO Arena AMSTERDAM NLD",
+    "amount": -4.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-20",
+    "description": "FEBO Arena AMSTERDAM NLD Pasvolgnr: 900 18-10-2025 23:32 Transactie: C00934 Term: 061237EQ Apple Pay Valutadatum: 20-10-2025",
+    "counterparty": "FEBO Arena AMSTERDAM NLD",
+    "amount": -4.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-20",
+    "description": "FEBO Arena AMSTERDAM NLD Pasvolgnr: 900 18-10-2025 23:27 Transactie: D00933 Term: 061241EQ Apple Pay Valutadatum: 20-10-2025",
+    "counterparty": "FEBO Arena AMSTERDAM NLD",
+    "amount": -3.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-21",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Ajax IBAN: NL83INGB0665811667 Valutadatum: 21-10-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": -48.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-21",
+    "description": "Vellema via Tikkie Naam: Vellema via Tikkie Omschrijving: 001111383845 0031016331152103 Bier en bet NL37ABNA0111483255 IBAN: NL13ABNA0506417344 Kenmerk: 21-10-2025 15:25 0031016331152103 Valutadatum: 21-10-2025",
+    "counterparty": "Vellema via Tikkie",
+    "amount": -11.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-21",
+    "description": "Schut via Tikkie Naam: Schut via Tikkie Omschrijving: 001111383480 0031405122030951 Ajax NL57INGB0004961708 IBAN: NL13ABNA0506417344 Kenmerk: 21-10-2025 15:24 0031405122030951 Valutadatum: 21-10-2025",
+    "counterparty": "Schut via Tikkie",
+    "amount": -57.7,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-21",
+    "description": "PayPal Europe S.a.r.l. et Cie S.C.A Naam: PayPal Europe S.a.r.l. et Cie S.C.A Omschrijving: 1045604677178/PAYPAL IBAN: LU89751000135104200E Kenmerk: 1045604677178 Machtiging ID: 4NUJ224Q6LS4W Incassant ID: LU96ZZZ0000000000000000058 Doorlopende incasso Valutadatum: 21-10-2025",
+    "counterparty": "PayPal Europe S.a.r.l. et Cie S.C.A",
+    "amount": -48.43,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-21",
+    "description": "PayPal Europe S.a.r.l. et Cie S.C.A Naam: PayPal Europe S.a.r.l. et Cie S.C.A Omschrijving: 1045604686922/PAYPAL IBAN: LU89751000135104200E Kenmerk: 1045604686922 Machtiging ID: 4NUJ224Q6LS4W Incassant ID: LU96ZZZ0000000000000000058 Doorlopende incasso Valutadatum: 21-10-2025",
+    "counterparty": "PayPal Europe S.a.r.l. et Cie S.C.A",
+    "amount": -2.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-22",
+    "description": "CCV*MONKEY TOWN PURMER PURMEREND Pasvolgnr: 900 21-10-2025 10:22 Transactie: W00982 Term: CT872287 Apple Pay Valutadatum: 22-10-2025",
+    "counterparty": "CCV*MONKEY TOWN PURMER PURMEREND",
+    "amount": -21.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-23",
+    "description": "Dijklander Ziekenhuis PURMEREND Pasvolgnr: 901 23-10-2025 08:19 Transactie: C00936 Term: H2T7XJ Apple Pay Valutadatum: 23-10-2025",
+    "counterparty": "Dijklander Ziekenhuis PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-23",
+    "description": "BCK*Kaashandel Habben NLD Pasvolgnr: 901 22-10-2025 09:58 Transactie: W00984 Term: 80013940 Apple Pay Valutadatum: 23-10-2025",
+    "counterparty": "BCK*Kaashandel Habben NLD",
+    "amount": -18.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-23",
+    "description": "OPNAME ING Purmerend               920432 PASVOLGNR 000 23-10-2025 07:22 TRANSACTIENR 529607414805 Valutadatum: 23-10-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -40.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-24",
+    "description": "Paula's Choice Europe B.V. Naam: Paula's Choice Europe B.V. Omschrijving: H7MNBB9NZJWK7QF62LUVD 7180405382811363 EU06129647 IBAN: NL04ADYB2017400157 Kenmerk: 24-10-2025 23:37 7180405382811363 Valutadatum: 24-10-2025",
+    "counterparty": "Paula's Choice Europe B.V.",
+    "amount": -100.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-24",
+    "description": "Dijklander Ziekenhuis PURMEREND Pasvolgnr: 901 24-10-2025 08:41 Transactie: W00986 Term: H2T7XJ Apple Pay Valutadatum: 24-10-2025",
+    "counterparty": "Dijklander Ziekenhuis PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-24",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 1826006036621f4fc58dfc1e17601a2d 8152325385751336 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 24-10-2025 09:00 8152325385751336 Valutadatum: 24-10-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -194.96,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-25",
+    "description": "Bos via Tikkie Naam: Bos via Tikkie Omschrijving: 001113440275 0031464203838708 Eten NL82ABNA0454948581 IBAN: NL13ABNA0506417344 Kenmerk: 25-10-2025 09:31 0031464203838708 Valutadatum: 25-10-2025",
+    "counterparty": "Bos via Tikkie",
+    "amount": -97.25,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-26",
+    "description": "BCK*Stichting Beheer P Rotterdam Pasvolgnr: 901 25-10-2025 15:26 Transactie: P00988 Term: CT858903 Apple Pay Valutadatum: 26-10-2025",
+    "counterparty": "BCK*Stichting Beheer P Rotterdam",
+    "amount": -0.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-26",
+    "description": "bol.com Naam: bol.com Omschrijving: P1604918643 7051136000745882 bol.com A000A37LKT IBAN: NL27INGB0000026500 Kenmerk: 26-10-2025 12:01 7051136000745882 Valutadatum: 26-10-2025",
+    "counterparty": "bol.com",
+    "amount": -59.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "Karaca via Tikkie Naam: Karaca via Tikkie Omschrijving: 001114957401 0031544506744835 Pokemon NL42ABNA0487244966 IBAN: NL13ABNA0506417344 Kenmerk: 27-10-2025 19:45 0031544506744835 Valutadatum: 27-10-2025",
+    "counterparty": "Karaca via Tikkie",
+    "amount": -70.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "Dijklander Ziekenhuis PURMEREND Pasvolgnr: 901 27-10-2025 09:39 Transactie: D00942 Term: H2T7XJ Apple Pay Valutadatum: 27-10-2025",
+    "counterparty": "Dijklander Ziekenhuis PURMEREND",
+    "amount": -6.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "OPNAME ING Purmerend               921665 PASVOLGNR 000 27-10-2025 14:44 TRANSACTIENR 530014353119 Valutadatum: 27-10-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -20.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "NLOV6PJ6M8QLMG959V www.ovpay.nl Pasvolgnr: 901 24-10-2025 19:16 Transactie: P00987 Term: PT3099B9 Apple Pay Valutadatum: 27-10-2025",
+    "counterparty": "NLOV6PJ6M8QLMG959V www.ovpay.nl",
+    "amount": -4.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-10 - Beleggingsrekening - NL02BNDA0100330918 IBAN: NL23ABNA0548026866 Kenmerk: 60967306b2286 Machtiging ID: 298423 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 27-10-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-10 - Beleggingsrekening - NL52BNDA0100277541 IBAN: NL23ABNA0548026866 Kenmerk: 59748011b2286 Machtiging ID: 166105 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 27-10-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "Dijklander Ziekenhuis PURMEREND Pasvolgnr: 901 28-10-2025 08:31 Transactie: P00995 Term: H2T7XJ Apple Pay Valutadatum: 28-10-2025",
+    "counterparty": "Dijklander Ziekenhuis PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "NYX*Skylarkgames Purmerend NLD Pasvolgnr: 901 27-10-2025 14:01 Transactie: W00994 Term: NX469099 Apple Pay Valutadatum: 28-10-2025",
+    "counterparty": "NYX*Skylarkgames Purmerend NLD",
+    "amount": -1.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Broodje IBAN: NL83INGB0665811667 Valutadatum: 28-10-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-29",
+    "description": "Amazon Payments Europe SCA Naam: Amazon Payments Europe SCA Omschrijving: 552TKYQ 0220524806737509 a404-5611891-1225969 Amazon IBAN: NL58CITI2032329913 Kenmerk: 29-10-2025 22:15 0220524806737509 Valutadatum: 29-10-2025",
+    "counterparty": "Amazon Payments Europe SCA",
+    "amount": -19.81,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-30",
+    "description": "Dijklander Ziekenhuis PURMEREND Pasvolgnr: 901 30-10-2025 08:44 Transactie: P00998 Term: H2T7XJ Apple Pay Valutadatum: 30-10-2025",
+    "counterparty": "Dijklander Ziekenhuis PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-30",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 29-10-2025 12:47 Transactie: C00945 Term: 07L39C Apple Pay Valutadatum: 30-10-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -3.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-31",
+    "description": "Dijklander Ziekenhuis PURMEREND Pasvolgnr: 901 31-10-2025 08:48 Transactie: D00947 Term: H2T7XJ Apple Pay Valutadatum: 31-10-2025",
+    "counterparty": "Dijklander Ziekenhuis PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-10-31",
+    "description": "ZWEMSCHOOL WEIDEVENNE Naam: ZWEMSCHOOL WEIDEVENNE Omschrijving: /IncassobatchId/37/OpdrachtId/5647/ Incasso Zwemschool Weidevenne Incasso fact. 253228 IBAN: NL93ABNA0130343897 Kenmerk: 6697 Machtiging ID: 505-jAZf-TQAPTA1v Incassant ID: NL54ZZZ922830200000 Doorlopende incasso",
+    "counterparty": "ZWEMSCHOOL WEIDEVENNE",
+    "amount": -74.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-01",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 31-10-2025 17:44 Transactie: P00999 Term: 07L39C Apple Pay Valutadatum: 01-11-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -13.55,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-02",
+    "description": "BCK*V.O.F D.J van Dam Winkel NLD Pasvolgnr: 901 01-11-2025 14:46 Transactie: W01003 Term: 81002933 Apple Pay Valutadatum: 02-11-2025",
+    "counterparty": "BCK*V.O.F D.J van Dam Winkel NLD",
+    "amount": -3.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-02",
+    "description": "ING Punten Naam: ING Punten Omschrijving: Aankoop ING winkel Bestelnummer 21392544 02-11-2025 IBAN: NL56INGB0005172119 Kenmerk: 02-11-2025 12:48 Valutadatum: 02-11-2025",
+    "counterparty": "ING Punten",
+    "amount": -175.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-02",
+    "description": "Tuincentrum de Boet HOOGWOUD NLD Pasvolgnr: 900 01-11-2025 16:07 Transactie: W01004 Term: 394W6G Apple Pay Valutadatum: 02-11-2025",
+    "counterparty": "Tuincentrum de Boet HOOGWOUD NLD",
+    "amount": -129.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-03",
+    "description": "wolters via Tikkie Naam: wolters via Tikkie Omschrijving: 001118749713 0031774203691201 Pokemon NL29INGB0008850942 IBAN: NL13ABNA0506417344 Kenmerk: 03-11-2025 20:31 0031774203691201 Valutadatum: 03-11-2025",
+    "counterparty": "wolters via Tikkie",
+    "amount": -60.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-03",
+    "description": "OPNAME ING Purmerend               921627 PASVOLGNR 000 03-11-2025 08:52 TRANSACTIENR 530708498200 Valutadatum: 03-11-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "Hr JJ Bouva Naam: Hr JJ Bouva Omschrijving: Lisabon IBAN: NL28INGB0003550977 Valutadatum: 04-11-2025",
+    "counterparty": "Hr JJ Bouva",
+    "amount": -427.59,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 04-11-2025 12:06 Transactie: D00955 Term: 6GB9YV Apple Pay Valutadatum: 04-11-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "Dijklander Ziekenhuis PURMEREND Pasvolgnr: 901 04-11-2025 09:20 Transactie: W01009 Term: H2T7XJ Apple Pay Valutadatum: 04-11-2025",
+    "counterparty": "Dijklander Ziekenhuis PURMEREND",
+    "amount": -16.45,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "Tui Nederland NV via Worldline NV/SA Naam: Tui Nederland NV via Worldline NV/SA Omschrijving: 9052360713000 7020915700599734 ACK23X Tui Nederland NV IBAN: NL39RABO0301242844 Kenmerk: 04-11-2025 13:17 7020915700599734 Valutadatum: 04-11-2025",
+    "counterparty": "Tui Nederland NV via Worldline NV/SA",
+    "amount": -84.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Speciaalbier IBAN: NL83INGB0665811667 Valutadatum: 04-11-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": -20.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "Kosten                             Rabo DirectPakket                  Periode 01-11-2025 t/m 30-11-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -3.45,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "Kosten                             (Extra) Rabo Wereldpas             Periode 01-11-2025 t/m 30-11-2025   ",
+    "counterparty": "Rabobank",
+    "amount": -1.4,
+    "account": "Rabobank",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-05",
+    "description": "Hr J Schut, Mw B Schut-Boekelman Naam: Hr J Schut, Mw B Schut-Boekelman Omschrijving: Ketting IBAN: NL57INGB0004961708 Valutadatum: 05-11-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman",
+    "amount": -920.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-05",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 901 05-11-2025 09:52 Transactie: P01010 Term: 07L39C Apple Pay Valutadatum: 05-11-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -10.35,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-05",
+    "description": "Incasso ING creditcard Accountnr 210024788254 Periode oktober 2025 Voor info zie creditcardoverzicht Valutadatum: 05-11-2025",
+    "counterparty": "Incasso ING creditcard",
+    "amount": -146.34,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-05",
+    "description": "STPARKEERGELDEN VIA RIVERTY Naam: STPARKEERGELDEN VIA RIVERTY Omschrijving: Id 9900114626140043, EasyPark B.V., Re Nr. 4161939001654, Ku Nr. 40241814 IBAN: NL96DEUT0265287162 Kenmerk: AA73F5994C104B158350D3C7608026EB Machtiging ID: EC00416190002135156 Incassant ID: DE23ZZZ00001986600 Doorlopende incasso Valutadatum: 05-11-2025",
+    "counterparty": "STPARKEERGELDEN VIA RIVERTY",
+    "amount": -51.85,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-06",
+    "description": "Vethaak via Tikkie Naam: Vethaak via Tikkie Omschrijving: 001120262359 0031564482472513 Aanbetaling pokemon kaarten NL51RABO0307633764 IBAN: NL13ABNA0506417344 Kenmerk: 06-11-2025 19:11 0031564482472513 Valutadatum: 06-11-2025",
+    "counterparty": "Vethaak via Tikkie",
+    "amount": -20.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-06",
+    "description": "bol.com Naam: bol.com Omschrijving: P1609126412 7051315988593704 bol.com A000AD2T1T IBAN: NL27INGB0000026500 Kenmerk: 06-11-2025 13:42 7051315988593704 Valutadatum: 06-11-2025",
+    "counterparty": "bol.com",
+    "amount": -11.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-07",
+    "description": "Paula's Choice Europe B.V. Naam: Paula's Choice Europe B.V. Omschrijving: PL4L59TV5VHBW3R92LUVD 7180026582680341 EU06144352 IBAN: NL04ADYB2017400157 Kenmerk: 07-11-2025 18:46 7180026582680341 Valutadatum: 07-11-2025",
+    "counterparty": "Paula's Choice Europe B.V.",
+    "amount": -36.8,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-07",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 06-11-2025 12:22 Transactie: D00957 Term: 07L39C Apple Pay Valutadatum: 07-11-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -5.65,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-08",
+    "description": "Bruna 2306 Lounge 3 Bo SCHIPHOL Pasvolgnr: 901 08-11-2025 07:50 Transactie: W01014 Term: 1G8Z2P Apple Pay Valutadatum: 08-11-2025",
+    "counterparty": "Bruna 2306 Lounge 3 Bo SCHIPHOL",
+    "amount": -11.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-09",
+    "description": "Liqour Tobacco Confect Schiphol Pasvolgnr: 900 08-11-2025 07:59 Transactie: W01015 Term: 76760202 Apple Pay Valutadatum: 09-11-2025",
+    "counterparty": "Liqour Tobacco Confect Schiphol",
+    "amount": -24.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-09",
+    "description": "Sunglasses AX Schiphol NLD Pasvolgnr: 900 08-11-2025 07:24 Transactie: P01013 Term: 76762201 Apple Pay Valutadatum: 09-11-2025",
+    "counterparty": "Sunglasses AX Schiphol NLD",
+    "amount": -113.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-10",
+    "description": "TUI INFLI SCHIPHOL RIJK NLD Pasvolgnr: 900 08-11-2025 11:38 Transactie: P01017 Term: 47681201 Apple Pay Valutadatum: 10-11-2025",
+    "counterparty": "TUI INFLI SCHIPHOL RIJK NLD",
+    "amount": -3.3,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-10",
+    "description": "TUI INFLI SCHIPHOL RIJK NLD Pasvolgnr: 900 08-11-2025 11:36 Transactie: W01016 Term: 47681201 Apple Pay Valutadatum: 10-11-2025",
+    "counterparty": "TUI INFLI SCHIPHOL RIJK NLD",
+    "amount": -16.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-11",
+    "description": "Estrid Sweden AB Naam: Estrid Sweden AB Omschrijving: estrid.com IBAN: IE30CITI99005132956548 Kenmerk: STR16NATOAEQXFHF9ADDTRANYSDMNJ5BK4 Machtiging ID: VHMRRJL3GC2DPK52 Incassant ID: SE95ZZZ5591972400 Doorlopende incasso Valutadatum: 11-11-2025",
+    "counterparty": "Estrid Sweden AB",
+    "amount": -11.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-12",
+    "description": "Rootjes via Tikkie Naam: Rootjes via Tikkie Omschrijving: 001123218708 0031855388214735 Afscheidscadeau Belinda NL20RABO0336444001 IBAN: NL13ABNA0506417344 Kenmerk: 12-11-2025 08:04 0031855388214735 Valutadatum: 12-11-2025",
+    "counterparty": "Rootjes via Tikkie",
+    "amount": -7.36,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-12",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: c1dcde882df0cb02aa1fadd37d7a4b98 8152214791186613 Klarna klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 12-11-2025 07:24 8152214791186613 Valutadatum: 12-11-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -218.55,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-13",
+    "description": "bol.com Naam: bol.com Omschrijving: P1611666368 7051434485302413 bol.com A000AKJAEX IBAN: NL27INGB0000026500 Kenmerk: 13-11-2025 10:19 7051434485302413 Valutadatum: 13-11-2025",
+    "counterparty": "bol.com",
+    "amount": -15.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-13",
+    "description": "Kosten OranjePakket 1 okt t/m 31 okt 2025 ING BANK N.V. Valutadatum: 13-11-2025",
+    "counterparty": "Kosten OranjePakket",
+    "amount": -3.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-13",
+    "description": "Kosten tweede rekeninghouder 1 okt t/m 31 okt 2025 ING BANK N.V. Valutadatum: 13-11-2025",
+    "counterparty": "Kosten tweede rekeninghouder",
+    "amount": -1.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "bol.com Naam: bol.com Omschrijving: P1612707954 7051135991202225 bol.com A000AMTJXP IBAN: NL27INGB0000026500 Kenmerk: 16-11-2025 09:20 7051135991202225 Valutadatum: 16-11-2025",
+    "counterparty": "bol.com",
+    "amount": -13.49,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "TUI INFLI SCHIPHOL RIJK NLD Pasvolgnr: 900 15-11-2025 18:23 Transactie: C00958 Term: 47681201 Apple Pay Valutadatum: 16-11-2025",
+    "counterparty": "TUI INFLI SCHIPHOL RIJK NLD",
+    "amount": -13.2,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "TUI INFLI SCHIPHOL RIJK NLD Pasvolgnr: 900 15-11-2025 18:26 Transactie: P01022 Term: 47681201 Apple Pay Valutadatum: 16-11-2025",
+    "counterparty": "TUI INFLI SCHIPHOL RIJK NLD",
+    "amount": -6.6,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "AUSTRIAN COMPANY FOR CAIRO EGY Pasvolgnr: 901 15-11-2025 14:25 Transactie: P01020 Term: 85231388 Valuta: 3021,00 EGP Koers: 0,0185331 Opslag: 0,78 EUR Apple Pay Valutadatum: 16-11-2025",
+    "counterparty": "AUSTRIAN COMPANY FOR CAIRO EGY",
+    "amount": -55.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "AUSTRIAN COMPANY FOR CAIRO EGY Pasvolgnr: 901 15-11-2025 14:32 Transactie: P01021 Term: 85231388 Valuta: 2280,00 EGP Koers: 0,0185331 Opslag: 0,58 EUR Apple Pay Valutadatum: 16-11-2025",
+    "counterparty": "AUSTRIAN COMPANY FOR CAIRO EGY",
+    "amount": -42.26,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-17",
+    "description": "Most Wanted B.V. via Stripe Technology Europe Ltd Naam: Most Wanted B.V. via Stripe Technology Europe Ltd Omschrijving: 756N6NI 7140194803201058 via Stripe Most Wanted B.V. IBAN: DE04202208000095254874 Kenmerk: 17-11-2025 19:45 7140194803201058 Valutadatum: 17-11-2025",
+    "counterparty": "Most Wanted B.V. via Stripe Technology Europe Ltd",
+    "amount": -89.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-17",
+    "description": "bol.com Naam: bol.com Omschrijving: P1613225910 7051386885231061 bol.com A000AP2PH2 IBAN: NL27INGB0000026500 Kenmerk: 17-11-2025 13:29 7051386885231061 Valutadatum: 17-11-2025",
+    "counterparty": "bol.com",
+    "amount": -71.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-17",
+    "description": "Lucardi Juwelier Naam: Lucardi Juwelier Omschrijving: CT6MVXB9HXF7B2F32EVAM 7180264782110419 60705185 IBAN: NL04ADYB2017400157 Kenmerk: 17-11-2025 12:47 7180264782110419 Valutadatum: 17-11-2025",
+    "counterparty": "Lucardi Juwelier",
+    "amount": -31.93,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-17",
+    "description": "VOF PietersGeeris PURMEREND NLD Pasvolgnr: 900 16-11-2025 16:39 Transactie: C00959 Term: 068236EQ Apple Pay Valutadatum: 17-11-2025",
+    "counterparty": "VOF PietersGeeris PURMEREND NLD",
+    "amount": -6.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-17",
+    "description": "DE KEET PURMEREND PURMEREND NLD Pasvolgnr: 900 16-11-2025 16:34 Transactie: W01024 Term: 80241535 Apple Pay Valutadatum: 17-11-2025",
+    "counterparty": "DE KEET PURMEREND PURMEREND NLD",
+    "amount": -230.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-18",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 17-11-2025 16:37 Transactie: P01026 Term: 07L39C Apple Pay Valutadatum: 18-11-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -2.62,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-19",
+    "description": "OPNAME ING Purmerend               921627 PASVOLGNR 000 19-11-2025 09:03 TRANSACTIENR 532309185029 Valutadatum: 19-11-2025",
+    "counterparty": "OPNAME ING",
+    "amount": -40.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-20",
+    "description": "Marktplaats via Online Payments Stichting Naam: Marktplaats via Online Payments Stichting Omschrijving: tradd247a5a7aef 8152775988311107 m2334286469: Pokemon Marktplaats IBAN: NL42DEUT0265288134 Kenmerk: 20-11-2025 16:45 8152775988311107 Valutadatum: 20-11-2025",
+    "counterparty": "Marktplaats via Online Payments Stichting",
+    "amount": -20.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-20",
+    "description": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Naam: P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek Omschrijving: NL42RABO0354141740 0022666003340414 P. Lek eo S.M.M. Lek-Her:Dirk 20 n: P. Lek eo S.M.M. Lek-Hertogs IBAN: NL42RABO0114668043 Kenmerk: 20-11-2025 14:04 0022666003340414 Valutadatum: 20-11-2025",
+    "counterparty": "P. Lek eo S.M.M. Lek-Hertogs via Rabo Betaalverzoek",
+    "amount": -18.13,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-21",
+    "description": "DHL eCommerce (Services) B.V. Naam: DHL eCommerce (Services) B.V. Omschrijving: PCN4XKJX5SL85TF33A1PI 7180775088067021 36f769c2-efa8-4d7f-9b1a-4f0da7af80c IBAN: NL04ADYB2017400157 Kenmerk: 21-11-2025 21:01 7180775088067021 Valutadatum: 21-11-2025",
+    "counterparty": "DHL eCommerce (Services) B.V.",
+    "amount": -3.65,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-21",
+    "description": "Mr. Hop via Stichting Mollie Payments Naam: Mr. Hop via Stichting Mollie Payments Omschrijving: 8c83ecaead108271a38528075c9e9637 8152356296919289 Order 00231507 misterhop.com Mr. Hop IBAN: NL51DEUT0265262461 Kenmerk: 21-11-2025 11:28 8152356296919289 Valutadatum: 21-11-2025",
+    "counterparty": "Mr. Hop via Stichting Mollie Payments",
+    "amount": -113.55,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-22",
+    "description": "Hr M Schaatsbergen Naam: Hr M Schaatsbergen Omschrijving: Kaarten IBAN: NL10INGB0688887341 Valutadatum: 22-11-2025",
+    "counterparty": "Hr M Schaatsbergen",
+    "amount": -180.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-23",
+    "description": "Ventilatieland.nl via MultiSafepay Naam: Ventilatieland.nl via MultiSafepay Omschrijving: 1320533955 8151795388003214 CS?281379 / Justin Lek - Uw best... Ventilatieland.nl IBAN: NL17DEUT0265262879 Kenmerk: 23-11-2025 17:53 8151795388003214 Valutadatum: 23-11-2025",
+    "counterparty": "Ventilatieland.nl via MultiSafepay",
+    "amount": -260.71,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-23",
+    "description": "CYBEX Naam: CYBEX Omschrijving: T38V8K8RSPMN3RF62O6CQ 7180016288003739 NL10673062 IBAN: NL04ADYB2017400157 Kenmerk: 23-11-2025 16:30 7180016288003739 Valutadatum: 23-11-2025",
+    "counterparty": "CYBEX",
+    "amount": -249.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-23",
+    "description": "Hr J Schut, Mw B Schut-Boekelman via ING Betaalverzoek Naam: Hr J Schut, Mw B Schut-Boekelman via ING Betaalverzoek Omschrijving: NL57INGB0004961708 7051834191002398 Kaas NL57INGB0004961708 IBAN: NL10INGB0005300114 Kenmerk: 23-11-2025 11:40 7051834191002398 Valutadatum: 23-11-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman via ING Betaalverzoek",
+    "amount": -16.59,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-24",
+    "description": "KLARNA BANK AB via Stichting Mollie Payments Naam: KLARNA BANK AB via Stichting Mollie Payments Omschrijving: 10ea5291c873f0e09333d2b09486771a 8152096002818195 H?M Online NL klarna.com KLARNA BANK AB IBAN: NL51DEUT0265262461 Kenmerk: 24-11-2025 12:26 8152096002818195 Valutadatum: 24-11-2025",
+    "counterparty": "KLARNA BANK AB via Stichting Mollie Payments",
+    "amount": -105.28,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-24",
+    "description": "Most Wanted B.V. via Stripe Technology Europe Ltd Naam: Most Wanted B.V. via Stripe Technology Europe Ltd Omschrijving: 75A92ZE 7140125682000625 via Stripe Most Wanted B.V. IBAN: DE04202208000095254874 Kenmerk: 24-11-2025 06:14 7140125682000625 Valutadatum: 24-11-2025",
+    "counterparty": "Most Wanted B.V. via Stripe Technology Europe Ltd",
+    "amount": -23.69,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-25",
+    "description": "BCK*Harry de Groot Wei PURMEREND Pasvolgnr: 901 24-11-2025 08:48 Transactie: D00965 Term: CT920366 Apple Pay Valutadatum: 25-11-2025",
+    "counterparty": "BCK*Harry de Groot Wei PURMEREND",
+    "amount": -37.1,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-25",
+    "description": "bol.com Naam: bol.com Omschrijving: P1617478761 7051616881907844 bol.com A000C2X2X5 IBAN: NL27INGB0000026500 Kenmerk: 25-11-2025 10:45 7051616881907844 Valutadatum: 25-11-2025",
+    "counterparty": "bol.com",
+    "amount": -29.95,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "Esuals via Stichting Mollie Payments Naam: Esuals via Stichting Mollie Payments Omschrijving: d5419cff6bdab84aa1423c7ff4bb84f1 8152424806024604 rX7GSIpPgYeAnUQxUSHjBZzX3 esuals.nl Esuals IBAN: NL51DEUT0265262461 Kenmerk: 26-11-2025 20:40 8152424806024604 Valutadatum: 26-11-2025",
+    "counterparty": "Esuals via Stichting Mollie Payments",
+    "amount": -49.98,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "BCK*AVIA Verzetslaan PURMEREND Pasvolgnr: 901 25-11-2025 16:23 Transactie: W01037 Term: 21324051 Apple Pay Valutadatum: 26-11-2025",
+    "counterparty": "BCK*AVIA Verzetslaan PURMEREND",
+    "amount": -95.74,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-11 - Beleggingsrekening - NL02BNDA0100330918 IBAN: NL23ABNA0548026866 Kenmerk: 60967306b2312 Machtiging ID: 298423 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-11-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "BRAND NEW DAY BANK NV Naam: BRAND NEW DAY BANK NV Omschrijving: Brand New Day Incasso 2025-11 - Beleggingsrekening - NL52BNDA0100277541 IBAN: NL23ABNA0548026866 Kenmerk: 59748011b2312 Machtiging ID: 166105 Incassant ID: NL16ZZZ300671020000 Doorlopende incasso Valutadatum: 26-11-2025",
+    "counterparty": "BRAND NEW DAY BANK NV",
+    "amount": -50.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "Infomedics B.V. Naam: Infomedics B.V. Omschrijving: 92277526443071 7030026603019204 92277526443071 IBAN: NL34ABNA0243240058 Kenmerk: 27-11-2025 19:17 7030026603019204 Valutadatum: 27-11-2025",
+    "counterparty": "Infomedics B.V.",
+    "amount": -122.99,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "Koninklijke PostNL B.V. Naam: Koninklijke PostNL B.V. Omschrijving: PnlFrank5ZFVP4H 8030644494019624 Versturen Ordernummer: 5ZFVP4H IBAN: NL56DEUT0265186420 Kenmerk: 27-11-2025 14:34 8030644494019624 Valutadatum: 27-11-2025",
+    "counterparty": "Koninklijke PostNL B.V.",
+    "amount": -12.75,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "BCK*Harry de Groot Wei PURMEREND Pasvolgnr: 901 26-11-2025 15:06 Transactie: P01039 Term: CT920366 Apple Pay Valutadatum: 27-11-2025",
+    "counterparty": "BCK*Harry de Groot Wei PURMEREND",
+    "amount": -3.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Mr. Hop via Stichting Mollie Payments IBAN: NL83INGB0665811667 Valutadatum: 27-11-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": -23.12,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 26-11-2025 21:51 Transactie: W01040 Term: 88BN4V Apple Pay Valutadatum: 27-11-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -7.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-28",
+    "description": "Charly s via Stripe Technology Europe Ltd Naam: Charly s via Stripe Technology Europe Ltd Omschrijving: 75DNZ9R 7140525105836645 via Stripe Charly s IBAN: DE22202208000093051098 Kenmerk: 28-11-2025 20:46 7140525105836645 Valutadatum: 28-11-2025",
+    "counterparty": "Charly s via Stripe Technology Europe Ltd",
+    "amount": -29.85,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-28",
+    "description": "Belastingdienst Naam: Belastingdienst Omschrijving: 3204823112650013 7051275987837290 Kindgebonden budget 2025 IBAN: NL86INGB0002445588 Kenmerk: 28-11-2025 13:11 7051275987837290 Valutadatum: 28-11-2025",
+    "counterparty": "Belastingdienst",
+    "amount": -1866.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-28",
+    "description": "Elckerlyc Twelve kassa PURMEREND Pasvolgnr: 900 27-11-2025 21:42 Transactie: D00971 Term: 88BN4V Apple Pay Valutadatum: 28-11-2025",
+    "counterparty": "Elckerlyc Twelve kassa PURMEREND",
+    "amount": -7.4,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-28",
+    "description": "Primera Swartsenburg PURMEREND Pasvolgnr: 900 27-11-2025 14:49 Transactie: P01041 Term: 07L39C Apple Pay Valutadatum: 28-11-2025",
+    "counterparty": "Primera Swartsenburg PURMEREND",
+    "amount": -4.9,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-28",
+    "description": "ZWEMSCHOOL WEIDEVENNE Naam: ZWEMSCHOOL WEIDEVENNE Omschrijving: /IncassobatchId/39/OpdrachtId/5952/ Incasso Zwemschool Weidevenne Incasso fact. 253548 IBAN: NL93ABNA0130343897 Kenmerk: 7022 Machtiging ID: 505-jAZf-TQAPTA1v Incassant ID: NL54ZZZ922830200000 Doorlopende incasso",
+    "counterparty": "ZWEMSCHOOL WEIDEVENNE",
+    "amount": -74.5,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-29",
+    "description": "Dekker via Tikkie Naam: Dekker via Tikkie Omschrijving: 001133095198 0031324208804614 Cadeaus Kim NL16INGB0754473589 IBAN: NL13ABNA0506417344 Kenmerk: 29-11-2025 17:30 0031324208804614 Valutadatum: 29-11-2025",
+    "counterparty": "Dekker via Tikkie",
+    "amount": -30.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-29",
+    "description": "PrenatalMoederenKindBV Naam: PrenatalMoederenKindBV Omschrijving: S7FXVR5NJD5RTHG32NLCB 7180316908985832 1001666954 IBAN: NL04ADYB2017400157 Kenmerk: 29-11-2025 11:33 7180316908985832 Valutadatum: 29-11-2025",
+    "counterparty": "PrenatalMoederenKindBV",
+    "amount": -34.32,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-30",
+    "description": "bol.com Naam: bol.com Omschrijving: P1620872910 7051746909042655 bol.com A000CA3TCT IBAN: NL27INGB0000026500 Kenmerk: 30-11-2025 15:56 7051746909042655 Valutadatum: 30-11-2025",
+    "counterparty": "bol.com",
+    "amount": -87.55,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  },
+  {
+    "date": "2025-11-30",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Mp IBAN: NL83INGB0665811667 Valutadatum: 30-11-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": -15.0,
+    "account": "ING",
+    "subcategory": "Onbekend"
+  }
+]

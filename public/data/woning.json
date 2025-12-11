@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2025-05-29",
+    "description": "Verschuldigd bedrag. Bekijk uw actuele hypotheekinformatie op https://munt.mijnhypotheekonline.nl. PERIODE 05-2025   ",
+    "counterparty": "ST ONTVANGST MUNT HYP",
+    "amount": -1471.89,
+    "account": "Rabobank",
+    "subcategory": "Huur / Hypotheeklasten"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "Verschuldigd bedrag. Bekijk uw actuele hypotheekinformatie op https://munt.mijnhypotheekonline.nl. PERIODE 06-2025   ",
+    "counterparty": "ST ONTVANGST MUNT HYP",
+    "amount": -1471.21,
+    "account": "Rabobank",
+    "subcategory": "Huur / Hypotheeklasten"
+  },
+  {
+    "date": "2025-07-30",
+    "description": "Verschuldigd bedrag. Bekijk uw actuele hypotheekinformatie op https://munt.mijnhypotheekonline.nl. PERIODE 07-2025   ",
+    "counterparty": "ST ONTVANGST MUNT HYP",
+    "amount": -1470.53,
+    "account": "Rabobank",
+    "subcategory": "Huur / Hypotheeklasten"
+  },
+  {
+    "date": "2025-08-28",
+    "description": "Verschuldigd bedrag. Bekijk uw actuele hypotheekinformatie op https://munt.mijnhypotheekonline.nl. PERIODE 08-2025   ",
+    "counterparty": "ST ONTVANGST MUNT HYP",
+    "amount": -1469.84,
+    "account": "Rabobank",
+    "subcategory": "Huur / Hypotheeklasten"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "Verschuldigd bedrag. Bekijk uw actuele hypotheekinformatie op https://munt.mijnhypotheekonline.nl. PERIODE 09-2025   ",
+    "counterparty": "ST ONTVANGST MUNT HYP",
+    "amount": -1469.16,
+    "account": "Rabobank",
+    "subcategory": "Huur / Hypotheeklasten"
+  },
+  {
+    "date": "2025-10-30",
+    "description": "Verschuldigd bedrag. Bekijk uw actuele hypotheekinformatie op https //   ",
+    "counterparty": "ST ONTVANGST MUNT HYP",
+    "amount": -1468.48,
+    "account": "Rabobank",
+    "subcategory": "Huur / Hypotheeklasten"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "Verschuldigd bedrag. Bekijk uw actuele hypotheekinformatie op https //   ",
+    "counterparty": "ST ONTVANGST MUNT HYP",
+    "amount": -1461.5,
+    "account": "Rabobank",
+    "subcategory": "Huur / Hypotheeklasten"
+  }
+]

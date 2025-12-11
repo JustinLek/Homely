@@ -1,0 +1,2498 @@
+[
+  {
+    "date": "2025-05-01",
+    "description": "BCK*Etos Purmerend PURMEREND NLD Pasvolgnr: 901 30-04-2025 10:02 Transactie: D00637 Term: BS172699 Apple Pay Valutadatum: 01-05-2025",
+    "counterparty": "BCK*Etos Purmerend PURMEREND NLD",
+    "amount": -8.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-01",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 30-04-2025 10:11 Transactie: P00661 Term: BS053661 Apple Pay Valutadatum: 01-05-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -30.73,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-02",
+    "description": "CCV*AS Delicatessen V. PURMEREND Pasvolgnr: 900 01-05-2025 12:09 Transactie: P00664 Term: CT835785 Apple Pay Valutadatum: 02-05-2025",
+    "counterparty": "CCV*AS Delicatessen V. PURMEREND",
+    "amount": -6.0,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-02",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 900 01-05-2025 12:25 Transactie: C00641 Term: BS174560 Apple Pay Valutadatum: 02-05-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -23.98,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-02",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 01-05-2025 12:20 Transactie: P00665 Term: 48B44G Apple Pay Valutadatum: 02-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -17.36,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-05",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 04-05-2025 17:42 Transactie: W00671 Term: XC3W64 Apple Pay Valutadatum: 05-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -12.41,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-05",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 04-05-2025 13:31 Transactie: W00670 Term: XC3W64 Apple Pay Valutadatum: 05-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -74.86,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-06",
+    "description": "Albert Heijn ZAANDAM NLD Pasvolgnr: 900 05-05-2025 16:38 Transactie: C00649 Term: L98YV0 Apple Pay Valutadatum: 06-05-2025",
+    "counterparty": "Albert Heijn ZAANDAM NLD",
+    "amount": -125.69,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-06",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 05-05-2025 12:19 Transactie: C00648 Term: 48B44G Apple Pay Valutadatum: 06-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -22.9,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 07-05-2025 11:15 Transactie: W00674 Term: G4TWB7 Apple Pay Valutadatum: 07-05-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -17.45,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-07",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 07-05-2025 11:29 Transactie: C00651 Term: XC3W64 Apple Pay Valutadatum: 07-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -11.63,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-07",
+    "description": "Tjin's International Foodstore via MultiSafepay Naam: Tjin's International Foodstore via MultiSafepay Omschrijving: 1152491660 8151855747821291 Order: ORD230018 Tjin's International Foodstore IBAN: NL17DEUT0265262879 Kenmerk: 07-05-2025 09:29 8151855747821291 Valutadatum: 07-05-2025",
+    "counterparty": "Tjin's International Foodstore via MultiSafepay",
+    "amount": -27.4,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-08",
+    "description": "BCK*Etos Purmerend PURMEREND NLD Pasvolgnr: 901 07-05-2025 11:34 Transactie: P00675 Term: BS172700 Apple Pay Valutadatum: 08-05-2025",
+    "counterparty": "BCK*Etos Purmerend PURMEREND NLD",
+    "amount": -44.29,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-08",
+    "description": "Kinki kappers Purmeren PURMEREND Pasvolgnr: 900 07-05-2025 14:50 Transactie: C00652 Term: 515NB4 Apple Pay Valutadatum: 08-05-2025",
+    "counterparty": "Kinki kappers Purmeren PURMEREND",
+    "amount": -62.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-10",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 10-05-2025 11:53 Transactie: P00684 Term: G4TWB7 Apple Pay Valutadatum: 10-05-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -1.49,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-10",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 10-05-2025 11:47 Transactie: P00683 Term: L8X730 Apple Pay Valutadatum: 10-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -9.36,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-10",
+    "description": "Albert Heijn Online ROTTERDAM Pasvolgnr: 901 09-05-2025 16:01 Transactie: W00681 Term: 607R00 Apple Pay Valutadatum: 10-05-2025",
+    "counterparty": "Albert Heijn Online ROTTERDAM",
+    "amount": -85.94,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-11",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 10-05-2025 11:40 Transactie: W00682 Term: BS053660 Apple Pay Valutadatum: 11-05-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -5.85,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-11",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 10-05-2025 17:33 Transactie: P00686 Term: 642PV8 Apple Pay Valutadatum: 11-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -10.65,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-11",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 10-05-2025 14:06 Transactie: C00658 Term: XC3W64 Apple Pay Valutadatum: 11-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -3.98,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-11",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 10-05-2025 12:00 Transactie: W00685 Term: 06432249 Apple Pay Valutadatum: 11-05-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -3.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-12",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 12-05-2025 10:25 Transactie: P00690 Term: XC3W64 Apple Pay Valutadatum: 12-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -7.65,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-12",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 12-05-2025 10:21 Transactie: P00689 Term: G4TWB7 Apple Pay Valutadatum: 12-05-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -23.87,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-12",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 11-05-2025 09:21 Transactie: W00687 Term: 2Q8LBR Apple Pay Valutadatum: 12-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -40.22,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-13",
+    "description": "Albert Heijn Online ROTTERDAM Pasvolgnr: 900 12-05-2025 16:19 Transactie: W00691 Term: VDM407 Apple Pay Valutadatum: 13-05-2025",
+    "counterparty": "Albert Heijn Online ROTTERDAM",
+    "amount": -115.5,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-14",
+    "description": "ALBERT HEIJN 2266 PURMEREND NLD Pasvolgnr: 901 14-05-2025 11:56 Transactie: W00696 Term: KDZ6N6 Apple Pay Valutadatum: 14-05-2025",
+    "counterparty": "ALBERT HEIJN 2266 PURMEREND NLD",
+    "amount": -21.99,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-15",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 14-05-2025 17:10 Transactie: C00661 Term: L8X730 Apple Pay Valutadatum: 15-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -2.69,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "JUMBO ORDELMAN WENUM WIESEL NLD Pasvolgnr: 900 17-05-2025 13:12 Transactie: C00664 Term: 80240256 Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "JUMBO ORDELMAN WENUM WIESEL NLD",
+    "amount": -7.0,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "Cheyennes IJssalon PURMEREND NLD Pasvolgnr: 900 17-05-2025 14:34 Transactie: D00667 Term: 648FRX Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "Cheyennes IJssalon PURMEREND NLD",
+    "amount": -2.3,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 17-05-2025 12:50 Transactie: W00699 Term: 7GF8GC Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -26.69,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 17-05-2025 12:57 Transactie: D00663 Term: 723GTX Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -24.75,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-19",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 19-05-2025 12:04 Transactie: W00708 Term: 723GTX Apple Pay Valutadatum: 19-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -14.44,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-19",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 19-05-2025 11:58 Transactie: C00669 Term: 06432249 Apple Pay Valutadatum: 19-05-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -5.94,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-19",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 18-05-2025 16:47 Transactie: P00707 Term: 642PV8 Apple Pay Valutadatum: 19-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -15.8,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-20",
+    "description": "Albert Heijn Online ROTTERDAM Pasvolgnr: 901 19-05-2025 15:24 Transactie: D00670 Term: K2J1YC Apple Pay Valutadatum: 20-05-2025",
+    "counterparty": "Albert Heijn Online ROTTERDAM",
+    "amount": -109.8,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-21",
+    "description": "ALBERT HEIJN 2266 PURMEREND NLD Pasvolgnr: 901 21-05-2025 11:36 Transactie: W00711 Term: B17YWR Apple Pay Valutadatum: 21-05-2025",
+    "counterparty": "ALBERT HEIJN 2266 PURMEREND NLD",
+    "amount": -42.48,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 21-05-2025 15:19 Transactie: W00712 Term: BS174560 Apple Pay Valutadatum: 22-05-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -23.83,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 21-05-2025 15:21 Transactie: P00713 Term: XC3W64 Apple Pay Valutadatum: 22-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -2.58,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 21-05-2025 15:36 Transactie: D00674 Term: 06432249 Apple Pay Valutadatum: 22-05-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -6.02,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-23",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 22-05-2025 16:54 Transactie: P00715 Term: 2Q8LBR Apple Pay Valutadatum: 23-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -10.02,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-24",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 24-05-2025 11:56 Transactie: P00717 Term: L8X730 Apple Pay Valutadatum: 24-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -19.38,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-25",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 24-05-2025 12:06 Transactie: D00677 Term: BS053661 Apple Pay Valutadatum: 25-05-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -17.11,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-26",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 26-05-2025 11:18 Transactie: D00679 Term: 7GF8GC Apple Pay Valutadatum: 26-05-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -3.79,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-26",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 26-05-2025 11:25 Transactie: C00680 Term: QKB547 Apple Pay Valutadatum: 26-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -3.88,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-26",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 25-05-2025 12:51 Transactie: C00678 Term: CQF0G9 Apple Pay Valutadatum: 26-05-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -45.16,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-27",
+    "description": "BCK*Etos Purmerend PURMEREND NLD Pasvolgnr: 901 26-05-2025 11:22 Transactie: W00718 Term: BS172700 Apple Pay Valutadatum: 27-05-2025",
+    "counterparty": "BCK*Etos Purmerend PURMEREND NLD",
+    "amount": -18.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-27",
+    "description": "Albert Heijn Online ROTTERDAM Pasvolgnr: 901 26-05-2025 16:35 Transactie: P00719 Term: VDM407 Apple Pay Valutadatum: 27-05-2025",
+    "counterparty": "Albert Heijn Online ROTTERDAM",
+    "amount": -106.19,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-28",
+    "description": "Kinki kappers Purmeren PURMEREND Pasvolgnr: 901 28-05-2025 10:20 Transactie: P00721 Term: 515NB4 Apple Pay Valutadatum: 28-05-2025",
+    "counterparty": "Kinki kappers Purmeren PURMEREND",
+    "amount": -62.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-05-28",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 28-05-2025 11:19 Transactie: W00722 Term: QKB547 Apple Pay Valutadatum: 28-05-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -5.18,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-29",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 28-05-2025 11:23 Transactie: P00723 Term: BS053661 Apple Pay Valutadatum: 29-05-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -19.88,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-05-31",
+    "description": "Albert Heijn 1354 AMSTERDAM NLD Pasvolgnr: 901 31-05-2025 10:29 Transactie: C00685 Term: 4P285P Apple Pay Valutadatum: 31-05-2025",
+    "counterparty": "Albert Heijn 1354 AMSTERDAM NLD",
+    "amount": -31.48,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-01",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 31-05-2025 18:50 Transactie: C00686 Term: XC3W64 Apple Pay Valutadatum: 01-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -17.71,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-02",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 01-06-2025 16:53 Transactie: P00729 Term: 723GTX Apple Pay Valutadatum: 02-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -26.68,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-03",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 03-06-2025 09:04 Transactie: W00733 Term: 7GF8GC Apple Pay Valutadatum: 03-06-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -7.17,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-06-03",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 03-06-2025 09:02 Transactie: P00731 Term: 642PV8 Apple Pay Valutadatum: 03-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -18.1,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-03",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 03-06-2025 09:18 Transactie: W00734 Term: 06432249 Apple Pay Valutadatum: 03-06-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -13.36,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-06-03",
+    "description": "Albert Heijn Online ROTTERDAM Pasvolgnr: 901 02-06-2025 15:44 Transactie: W00730 Term: 51W6C9 Apple Pay Valutadatum: 03-06-2025",
+    "counterparty": "Albert Heijn Online ROTTERDAM",
+    "amount": -89.02,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-04",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 04-06-2025 08:50 Transactie: C00689 Term: XC3W64 Apple Pay Valutadatum: 04-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -4.07,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-08",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 901 07-06-2025 13:29 Transactie: D00692 Term: CQF0G9 Apple Pay Valutadatum: 08-06-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -42.92,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-09",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 08-06-2025 10:31 Transactie: W00743 Term: 723GTX Apple Pay Valutadatum: 09-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -39.36,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-10",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 10-06-2025 10:04 Transactie: C00695 Term: XC3W64 Apple Pay Valutadatum: 10-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -10.12,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-10",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 09-06-2025 15:54 Transactie: W00745 Term: QKB547 Apple Pay Valutadatum: 10-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -21.7,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-10",
+    "description": "ALBERT HEIJN BV ZAANDAM NLD Pasvolgnr: 900 09-06-2025 15:32 Transactie: D00694 Term: X4R951 Apple Pay Valutadatum: 10-06-2025",
+    "counterparty": "ALBERT HEIJN BV ZAANDAM NLD",
+    "amount": -106.16,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-11",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 11-06-2025 10:47 Transactie: P00751 Term: QKB547 Apple Pay Valutadatum: 11-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -23.09,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-12",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 12-06-2025 08:42 Transactie: C00697 Term: 48B44G Apple Pay Valutadatum: 12-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -10.99,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-12",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 11-06-2025 10:36 Transactie: P00750 Term: BS174560 Apple Pay Valutadatum: 12-06-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -18.88,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-06-13",
+    "description": "CCV*AS Delicatessen V. PURMEREND Pasvolgnr: 900 12-06-2025 15:04 Transactie: P00753 Term: CT835785 Apple Pay Valutadatum: 13-06-2025",
+    "counterparty": "CCV*AS Delicatessen V. PURMEREND",
+    "amount": -4.5,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-14",
+    "description": "Karwei Purmerend WIJDEWORMER NLD Pasvolgnr: 900 14-06-2025 11:31 Transactie: W00755 Term: 3NXF05 Apple Pay Valutadatum: 14-06-2025",
+    "counterparty": "Karwei Purmerend WIJDEWORMER NLD",
+    "amount": -19.48,
+    "account": "ING",
+    "subcategory": "Diversen (zakgeld, cadeaus, bloemen etc)"
+  },
+  {
+    "date": "2025-06-15",
+    "description": "ALBERT HEIJN 1831 PURMEREND NLD Pasvolgnr: 901 14-06-2025 14:28 Transactie: D00701 Term: 5GL0PT Apple Pay Valutadatum: 15-06-2025",
+    "counterparty": "ALBERT HEIJN 1831 PURMEREND NLD",
+    "amount": -1.19,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-15",
+    "description": "Cheyennes IJssalon PURMEREND NLD Pasvolgnr: 901 14-06-2025 14:11 Transactie: C00700 Term: 648FRX Apple Pay Valutadatum: 15-06-2025",
+    "counterparty": "Cheyennes IJssalon PURMEREND NLD",
+    "amount": -7.5,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-06-16",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 15-06-2025 16:29 Transactie: P00756 Term: 48B44G Apple Pay Valutadatum: 16-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -18.84,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-16",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 15-06-2025 17:24 Transactie: W00757 Term: XC3W64 Apple Pay Valutadatum: 16-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -6.79,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-16",
+    "description": "Lidl 579 Purmerend PURMEREND NLD Pasvolgnr: 900 15-06-2025 12:05 Transactie: C00702 Term: 7PRN5C Apple Pay Valutadatum: 16-06-2025",
+    "counterparty": "Lidl 579 Purmerend PURMEREND NLD",
+    "amount": -39.18,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-16",
+    "description": "Lidl 579 Purmerend PURMEREND NLD Pasvolgnr: 900 15-06-2025 12:06 Transactie: D00703 Term: 7PRN5C Apple Pay Valutadatum: 16-06-2025",
+    "counterparty": "Lidl 579 Purmerend PURMEREND NLD",
+    "amount": -3.42,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-17",
+    "description": "Albert Heijn ZAANDAM NLD Pasvolgnr: 901 16-06-2025 15:22 Transactie: W00758 Term: 58BTN5 Apple Pay Valutadatum: 17-06-2025",
+    "counterparty": "Albert Heijn ZAANDAM NLD",
+    "amount": -101.46,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-18",
+    "description": "Royal Nails Amsterdam via Knab N.V. Naam: Royal Nails Amsterdam via Knab N.V. Omschrijving: 47704759013X4427 7370584264826278 Wkkgz Royal Nails Amsterdam IBAN: NL27KNAB0259270040 Kenmerk: 18-06-2025 20:48 7370584264826278 Valutadatum: 18-06-2025",
+    "counterparty": "Royal Nails Amsterdam via Knab N.V.",
+    "amount": -45.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-06-18",
+    "description": "ALBERT HEIJN 1831 PURMEREND NLD Pasvolgnr: 901 18-06-2025 10:54 Transactie: P00761 Term: GRH3FS Apple Pay Valutadatum: 18-06-2025",
+    "counterparty": "ALBERT HEIJN 1831 PURMEREND NLD",
+    "amount": -2.18,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-19",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 19-06-2025 12:03 Transactie: C00714 Term: QKB547 Apple Pay Valutadatum: 19-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -5.48,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 21-06-2025 08:27 Transactie: W00766 Term: 06432249 Apple Pay Valutadatum: 21-06-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -10.92,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 20-06-2025 20:12 Transactie: D00715 Term: 8YLY6Y Apple Pay Valutadatum: 21-06-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -17.51,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Lidl 579 Purmerend PURMEREND NLD Pasvolgnr: 900 20-06-2025 19:53 Transactie: P00765 Term: 7JYB3M Apple Pay Valutadatum: 21-06-2025",
+    "counterparty": "Lidl 579 Purmerend PURMEREND NLD",
+    "amount": -17.25,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 23-06-2025 11:53 Transactie: D00719 Term: XC3W64 Apple Pay Valutadatum: 23-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -23.98,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Albert Heijn Online ROTTERDAM Pasvolgnr: 900 23-06-2025 09:12 Transactie: C00718 Term: PYX737 Apple Pay Valutadatum: 23-06-2025",
+    "counterparty": "Albert Heijn Online ROTTERDAM",
+    "amount": -98.46,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 22-06-2025 09:44 Transactie: D00717 Term: XC3W64 Apple Pay Valutadatum: 23-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -56.8,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-24",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 23-06-2025 14:22 Transactie: D00721 Term: BS053661 Apple Pay Valutadatum: 24-06-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -0.6,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-24",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 23-06-2025 11:56 Transactie: C00720 Term: BS174560 Apple Pay Valutadatum: 24-06-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -15.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-06-25",
+    "description": "ETOS 7360 PURMEREND NLD Pasvolgnr: 901 25-06-2025 11:06 Transactie: C00723 Term: 8SS953 Apple Pay Valutadatum: 25-06-2025",
+    "counterparty": "ETOS 7360 PURMEREND NLD",
+    "amount": -13.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-06-26",
+    "description": "Xenos Naam: Xenos Omschrijving: 813059657 8030684543472083 Xenos IBAN: NL64DEUT0265250781 Kenmerk: 26-06-2025 19:37 8030684543472083 Valutadatum: 26-06-2025",
+    "counterparty": "Xenos",
+    "amount": -39.3,
+    "account": "ING",
+    "subcategory": "Diversen (zakgeld, cadeaus, bloemen etc)"
+  },
+  {
+    "date": "2025-06-26",
+    "description": "BCK*Plus de Gors Purme Purmerend Pasvolgnr: 901 25-06-2025 11:34 Transactie: P00770 Term: BS179930 Apple Pay Valutadatum: 26-06-2025",
+    "counterparty": "BCK*Plus de Gors Purme Purmerend",
+    "amount": -37.78,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-28",
+    "description": "ALBERT HEIJN 1831 PURMEREND NLD Pasvolgnr: 900 28-06-2025 12:05 Transactie: C00730 Term: GRH3FS Apple Pay Valutadatum: 28-06-2025",
+    "counterparty": "ALBERT HEIJN 1831 PURMEREND NLD",
+    "amount": -0.25,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-28",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 27-06-2025 13:44 Transactie: D00727 Term: 2Q8LBR Apple Pay Valutadatum: 28-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -38.15,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-28",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 27-06-2025 13:45 Transactie: P00773 Term: RD7S55 Apple Pay Valutadatum: 28-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -3.0,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 30-06-2025 10:43 Transactie: D00737 Term: 06432237 Apple Pay Valutadatum: 30-06-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -14.77,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 30-06-2025 10:31 Transactie: P00776 Term: XC3W64 Apple Pay Valutadatum: 30-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -5.53,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 29-06-2025 14:14 Transactie: C00732 Term: 8YM7DD Apple Pay Valutadatum: 30-06-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -44.8,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 29-06-2025 15:57 Transactie: D00734 Term: RD7S55 Apple Pay Valutadatum: 30-06-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -10.0,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Action 1408 Purmerend NLD Pasvolgnr: 900 29-06-2025 14:17 Transactie: C00733 Term: 03566979 Apple Pay Valutadatum: 30-06-2025",
+    "counterparty": "Action 1408 Purmerend NLD",
+    "amount": -4.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 30-06-2025 10:46 Transactie: D00738 Term: BS053661 Apple Pay Valutadatum: 01-07-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -14.82,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "Tjin's International Foodstore via MultiSafepay Naam: Tjin's International Foodstore via MultiSafepay Omschrijving: 1197311616 8151285161578787 Order: ORD235263 Tjin's International Foodstore IBAN: NL17DEUT0265262879 Kenmerk: 01-07-2025 08:53 8151285161578787 Valutadatum: 01-07-2025",
+    "counterparty": "Tjin's International Foodstore via MultiSafepay",
+    "amount": -31.45,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-02",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 02-07-2025 12:11 Transactie: D00741 Term: 48B44G Apple Pay Valutadatum: 02-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -14.82,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-02",
+    "description": "ALBERT HEIJN 2266 PURMEREND NLD Pasvolgnr: 901 02-07-2025 10:13 Transactie: D00740 Term: B17YWR Apple Pay Valutadatum: 02-07-2025",
+    "counterparty": "ALBERT HEIJN 2266 PURMEREND NLD",
+    "amount": -11.99,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-03",
+    "description": "Albert Heijn B.V. Naam: Albert Heijn B.V. Omschrijving: AE589045456 IBAN: NL46INGB0702493368 Kenmerk: AR0011794125 Machtiging ID: ALBERT.HEIJN.AE589045456.003857755 Incassant ID: NL06ZZZ350120850000 Eenmalige incasso Valutadatum: 03-07-2025",
+    "counterparty": "Albert Heijn B.V.",
+    "amount": -114.79,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-04",
+    "description": "Albert Heijn BV ROTTERDAM NLD Pasvolgnr: 900 04-07-2025 09:21 Transactie: C00752 Term: J7B3Y9 Apple Pay Valutadatum: 04-07-2025",
+    "counterparty": "Albert Heijn BV ROTTERDAM NLD",
+    "amount": -212.73,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-04",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 03-07-2025 14:29 Transactie: C00748 Term: XC3W64 Apple Pay Valutadatum: 04-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -6.98,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-04",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 03-07-2025 12:51 Transactie: C00746 Term: QKB547 Apple Pay Valutadatum: 04-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -7.77,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-04",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 900 03-07-2025 13:59 Transactie: C00747 Term: 06432249 Apple Pay Valutadatum: 04-07-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -7.98,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-05",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 04-07-2025 20:57 Transactie: P00781 Term: QKB547 Apple Pay Valutadatum: 05-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -23.15,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-05",
+    "description": "Kinki kappers Purmeren PURMEREND Pasvolgnr: 900 04-07-2025 14:52 Transactie: D00753 Term: 515NB4 Apple Pay Valutadatum: 05-07-2025",
+    "counterparty": "Kinki kappers Purmeren PURMEREND",
+    "amount": -90.5,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-05",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 04-07-2025 16:54 Transactie: D00754 Term: XC3W64 Apple Pay Valutadatum: 05-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -28.95,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-06",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 05-07-2025 13:20 Transactie: D00755 Term: QKB547 Apple Pay Valutadatum: 06-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -11.58,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-06",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 05-07-2025 13:12 Transactie: P00782 Term: 06432249 Apple Pay Valutadatum: 06-07-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -13.2,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-07",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 06-07-2025 09:31 Transactie: C00756 Term: ZQQ28P Apple Pay Valutadatum: 07-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -48.86,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-09",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 09-07-2025 08:58 Transactie: D00759 Term: 7GF8GC Apple Pay Valutadatum: 09-07-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -15.26,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-09",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 09-07-2025 08:54 Transactie: P00784 Term: XC3W64 Apple Pay Valutadatum: 09-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -6.27,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-10",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 09-07-2025 09:01 Transactie: P00785 Term: BS174560 Apple Pay Valutadatum: 10-07-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -20.98,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-10",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 09-07-2025 09:03 Transactie: W00786 Term: BS053661 Apple Pay Valutadatum: 10-07-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -15.65,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-10",
+    "description": "Albert Heijn B.V. Naam: Albert Heijn B.V. Omschrijving: AE385466668 IBAN: NL46INGB0702493368 Kenmerk: AR0011846642 Machtiging ID: ALBERT.HEIJN.AE385466668.003871394 Incassant ID: NL06ZZZ350120850000 Eenmalige incasso Valutadatum: 10-07-2025",
+    "counterparty": "Albert Heijn B.V.",
+    "amount": -100.73,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-11",
+    "description": "Lidl 579 Purmerend PURMEREND NLD Pasvolgnr: 900 11-07-2025 09:00 Transactie: P00788 Term: 7PRN5C Apple Pay Valutadatum: 11-07-2025",
+    "counterparty": "Lidl 579 Purmerend PURMEREND NLD",
+    "amount": -24.88,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-12",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 900 12-07-2025 11:36 Transactie: W00793 Term: 06432237 Apple Pay Valutadatum: 12-07-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -9.94,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-12",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 11-07-2025 16:23 Transactie: D00761 Term: QKB547 Apple Pay Valutadatum: 12-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -4.87,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-13",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 900 12-07-2025 11:27 Transactie: W00792 Term: BS053660 Apple Pay Valutadatum: 13-07-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -13.91,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-14",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 13-07-2025 13:55 Transactie: W00794 Term: XC3W64 Apple Pay Valutadatum: 14-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -31.99,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-15",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 14-07-2025 20:14 Transactie: W00795 Term: 642PV8 Apple Pay Valutadatum: 15-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -5.29,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-15",
+    "description": "ALBERT HEIJN 2941 EINDHOVEN NLD Pasvolgnr: 900 14-07-2025 15:15 Transactie: C00764 Term: KD117S Apple Pay Valutadatum: 15-07-2025",
+    "counterparty": "ALBERT HEIJN 2941 EINDHOVEN NLD",
+    "amount": -88.35,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-16",
+    "description": "ALBERT HEIJN 2266 PURMEREND NLD Pasvolgnr: 901 16-07-2025 10:16 Transactie: D00768 Term: 211GH4 Apple Pay Valutadatum: 16-07-2025",
+    "counterparty": "ALBERT HEIJN 2266 PURMEREND NLD",
+    "amount": -16.47,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-18",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 18-07-2025 09:02 Transactie: W00801 Term: 8YLY6Y Apple Pay Valutadatum: 18-07-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -35.49,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-20",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 900 20-07-2025 10:02 Transactie: D00774 Term: 06432249 Apple Pay Valutadatum: 20-07-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -26.59,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-21",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 21-07-2025 09:16 Transactie: D00775 Term: XC3W64 Apple Pay Valutadatum: 21-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -17.1,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-21",
+    "description": "Karwei Purmerend WIJDEWORMER NLD Pasvolgnr: 900 20-07-2025 12:18 Transactie: W00807 Term: 3NXF05 Apple Pay Valutadatum: 21-07-2025",
+    "counterparty": "Karwei Purmerend WIJDEWORMER NLD",
+    "amount": -83.02,
+    "account": "ING",
+    "subcategory": "Diversen (zakgeld, cadeaus, bloemen etc)"
+  },
+  {
+    "date": "2025-07-21",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 20-07-2025 11:42 Transactie: P00806 Term: 8YLY6Y Apple Pay Valutadatum: 21-07-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -7.14,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-21",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 20-07-2025 09:41 Transactie: C00772 Term: 48B44G Apple Pay Valutadatum: 21-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -16.71,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-22",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 21-07-2025 09:22 Transactie: P00808 Term: BS174560 Apple Pay Valutadatum: 22-07-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -3.7,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-22",
+    "description": "Albert Heijn Online ROTTERDAM Pasvolgnr: 901 21-07-2025 15:38 Transactie: W00809 Term: 4N27DR Apple Pay Valutadatum: 22-07-2025",
+    "counterparty": "Albert Heijn Online ROTTERDAM",
+    "amount": -111.17,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-23",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 22-07-2025 17:20 Transactie: D00779 Term: XC3W64 Apple Pay Valutadatum: 23-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -1.63,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-24",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 23-07-2025 14:09 Transactie: D00780 Term: 06432249 Apple Pay Valutadatum: 24-07-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -9.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-25",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 24-07-2025 15:07 Transactie: W00811 Term: CP706T Apple Pay Valutadatum: 25-07-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -1.99,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-26",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 26-07-2025 11:00 Transactie: C00782 Term: RNG5DS Apple Pay Valutadatum: 26-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -29.73,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-26",
+    "description": "Kruidvat 7997 AMSTERDAM NLD Pasvolgnr: 901 26-07-2025 11:40 Transactie: C00783 Term: Q818J9 Apple Pay Valutadatum: 26-07-2025",
+    "counterparty": "Kruidvat 7997 AMSTERDAM NLD",
+    "amount": -18.76,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 28-07-2025 09:36 Transactie: P00817 Term: XC3W64 Apple Pay Valutadatum: 28-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -2.49,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 900 27-07-2025 11:53 Transactie: C00785 Term: 8F64H1 Apple Pay Valutadatum: 28-07-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -7.46,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 27-07-2025 11:55 Transactie: W00816 Term: QKB547 Apple Pay Valutadatum: 28-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -2.18,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 27-07-2025 11:13 Transactie: D00784 Term: XC3W64 Apple Pay Valutadatum: 28-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -60.56,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-29",
+    "description": "Albert Heijn 487318450 Zaandam Pasvolgnr: 901 28-07-2025 16:05 Transactie: D00786 Term: --- Valutadatum: 29-07-2025",
+    "counterparty": "Albert Heijn 487318450 Zaandam",
+    "amount": -114.71,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-30",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 30-07-2025 11:08 Transactie: W00820 Term: 7GF8GC Apple Pay Valutadatum: 30-07-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -6.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-30",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 30-07-2025 10:56 Transactie: D00790 Term: QKB547 Apple Pay Valutadatum: 30-07-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -13.66,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-07-31",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 30-07-2025 11:02 Transactie: P00819 Term: BS174560 Apple Pay Valutadatum: 31-07-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -18.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-31",
+    "description": "Kruidvat 2534 PURMEREND NLD Pasvolgnr: 901 30-07-2025 14:30 Transactie: P00822 Term: 17PK04 Apple Pay Valutadatum: 31-07-2025",
+    "counterparty": "Kruidvat 2534 PURMEREND NLD",
+    "amount": -9.77,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-07-31",
+    "description": "Kinki kappers Purmeren PURMEREND Pasvolgnr: 901 30-07-2025 14:03 Transactie: W00821 Term: 515NB4 Apple Pay Valutadatum: 31-07-2025",
+    "counterparty": "Kinki kappers Purmeren PURMEREND",
+    "amount": -62.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-02",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 02-08-2025 11:14 Transactie: C00793 Term: 7GF8GC Apple Pay Valutadatum: 02-08-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -15.49,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-02",
+    "description": "BCK*Etos Purmerend PURMEREND NLD Pasvolgnr: 900 01-08-2025 15:18 Transactie: P00824 Term: BS172699 Apple Pay Valutadatum: 02-08-2025",
+    "counterparty": "BCK*Etos Purmerend PURMEREND NLD",
+    "amount": -29.28,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-03",
+    "description": "ALBERT HEIJN 5622 AMSTERDAM NLD Pasvolgnr: 901 02-08-2025 13:27 Transactie: W00826 Term: 571B56 Apple Pay Valutadatum: 03-08-2025",
+    "counterparty": "ALBERT HEIJN 5622 AMSTERDAM NLD",
+    "amount": -1.8,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-03",
+    "description": "ALBERT HEIJN 1458 AMSTERDAM NLD Pasvolgnr: 901 02-08-2025 17:05 Transactie: P00828 Term: 6PG3P7 Apple Pay Valutadatum: 03-08-2025",
+    "counterparty": "ALBERT HEIJN 1458 AMSTERDAM NLD",
+    "amount": -25.85,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-04",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 04-08-2025 12:03 Transactie: W00837 Term: XC3W64 Apple Pay Valutadatum: 04-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -5.82,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-04",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 03-08-2025 12:41 Transactie: P00835 Term: 8YM7DD Apple Pay Valutadatum: 04-08-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -17.86,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-05",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 04-08-2025 15:17 Transactie: D00795 Term: CT950388 Apple Pay Valutadatum: 05-08-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -128.02,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-06",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 06-08-2025 08:28 Transactie: C00796 Term: L8X730 Apple Pay Valutadatum: 06-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -3.98,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-08",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 07-08-2025 12:43 Transactie: W00840 Term: L8X730 Apple Pay Valutadatum: 08-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -72.86,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-08",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 900 07-08-2025 12:52 Transactie: C00797 Term: 06432249 Apple Pay Valutadatum: 08-08-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -1.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-09",
+    "description": "ALBERT HEIJN 1185 DEN BURG NLD Pasvolgnr: 900 08-08-2025 16:50 Transactie: P00847 Term: 429NTY Apple Pay Valutadatum: 09-08-2025",
+    "counterparty": "ALBERT HEIJN 1185 DEN BURG NLD",
+    "amount": -47.3,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-11",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 11-08-2025 12:10 Transactie: W00853 Term: L8X730 Apple Pay Valutadatum: 11-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -24.05,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 11-08-2025 18:36 Transactie: P00857 Term: CT950612 Apple Pay Valutadatum: 12-08-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -97.21,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-13",
+    "description": "Royal Nails Amsterdam via Knab N.V. Naam: Royal Nails Amsterdam via Knab N.V. Omschrijving: 47309163035X4408 7370536033068545 wkkgz Royal Nails Amsterdam IBAN: NL27KNAB0259270040 Kenmerk: 13-08-2025 18:46 7370536033068545 Valutadatum: 13-08-2025",
+    "counterparty": "Royal Nails Amsterdam via Knab N.V.",
+    "amount": -45.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-14",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 13-08-2025 16:17 Transactie: W00858 Term: XC3W64 Apple Pay Valutadatum: 14-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -23.25,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-15",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 15-08-2025 08:16 Transactie: D00815 Term: QKB547 Apple Pay Valutadatum: 15-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -44.36,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-15",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 14-08-2025 16:24 Transactie: C00814 Term: L8X730 Apple Pay Valutadatum: 15-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -11.46,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-16",
+    "description": "Lidl 579 Purmerend PURMEREND NLD Pasvolgnr: 900 16-08-2025 07:13 Transactie: D00816 Term: J741BY Apple Pay Valutadatum: 16-08-2025",
+    "counterparty": "Lidl 579 Purmerend PURMEREND NLD",
+    "amount": -42.58,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-17",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 16-08-2025 13:39 Transactie: P00862 Term: 8Z29RY Apple Pay Valutadatum: 17-08-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -65.81,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-18",
+    "description": "BCK*Etos Purmerend PURMEREND NLD Pasvolgnr: 901 17-08-2025 16:00 Transactie: W00864 Term: BS172700 Apple Pay Valutadatum: 18-08-2025",
+    "counterparty": "BCK*Etos Purmerend PURMEREND NLD",
+    "amount": -38.96,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-18",
+    "description": "Lidl 579 Purmerend PURMEREND NLD Pasvolgnr: 901 17-08-2025 09:43 Transactie: P00863 Term: 7J588Q Apple Pay Valutadatum: 18-08-2025",
+    "counterparty": "Lidl 579 Purmerend PURMEREND NLD",
+    "amount": -79.66,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-18",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 17-08-2025 15:56 Transactie: C00820 Term: 48B44G Apple Pay Valutadatum: 18-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -47.64,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-20",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 20-08-2025 10:15 Transactie: P00868 Term: QKB547 Apple Pay Valutadatum: 20-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -33.83,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-20",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 20-08-2025 09:58 Transactie: W00867 Term: G4TWB7 Apple Pay Valutadatum: 20-08-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -30.57,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-20",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 19-08-2025 16:15 Transactie: C00824 Term: BS053661 Apple Pay Valutadatum: 20-08-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -15.05,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-23",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 900 23-08-2025 11:17 Transactie: W00872 Term: 7GF8GC Apple Pay Valutadatum: 23-08-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -8.37,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-23",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 22-08-2025 16:14 Transactie: W00871 Term: XC3W64 Apple Pay Valutadatum: 23-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -25.23,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-24",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 23-08-2025 12:32 Transactie: W00873 Term: CWK3L9 Apple Pay Valutadatum: 24-08-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -122.62,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-24",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 23-08-2025 16:42 Transactie: D00827 Term: XC3W64 Apple Pay Valutadatum: 24-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -4.34,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-25",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 25-08-2025 11:56 Transactie: D00831 Term: XC3W64 Apple Pay Valutadatum: 25-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -2.1,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-25",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 25-08-2025 09:57 Transactie: P00874 Term: QKB547 Apple Pay Valutadatum: 25-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -2.44,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-25",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 25-08-2025 10:02 Transactie: C00830 Term: G4TWB7 Apple Pay Valutadatum: 25-08-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -21.98,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-25",
+    "description": "Lidl 579 Purmerend PURMEREND NLD Pasvolgnr: 901 24-08-2025 12:13 Transactie: D00828 Term: 87107757 Apple Pay Valutadatum: 25-08-2025",
+    "counterparty": "Lidl 579 Purmerend PURMEREND NLD",
+    "amount": -61.37,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-26",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 25-08-2025 15:43 Transactie: W00875 Term: CT950563 Apple Pay Valutadatum: 26-08-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -87.23,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 27-08-2025 09:03 Transactie: W00884 Term: 7GF8GC Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -12.56,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 27-08-2025 09:00 Transactie: P00883 Term: D4HXY6 Apple Pay Valutadatum: 27-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -8.12,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-30",
+    "description": "ALBERT HEIJN 5622 AMSTERDAM NLD Pasvolgnr: 900 30-08-2025 10:36 Transactie: W00889 Term: C2Q1P8 Apple Pay Valutadatum: 30-08-2025",
+    "counterparty": "ALBERT HEIJN 5622 AMSTERDAM NLD",
+    "amount": -1.9,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-08-30",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 29-08-2025 17:27 Transactie: P00888 Term: 2Q8LBR Apple Pay Valutadatum: 30-08-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -28.37,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-01",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 01-09-2025 08:50 Transactie: W00891 Term: 48B44G Apple Pay Valutadatum: 01-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -15.52,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-01",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 31-08-2025 16:52 Transactie: W00890 Term: 48B44G Apple Pay Valutadatum: 01-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -9.91,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-02",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 01-09-2025 15:26 Transactie: C00846 Term: CT951096 Apple Pay Valutadatum: 02-09-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -113.86,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-02",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 01-09-2025 16:37 Transactie: P00892 Term: RNG5DS Apple Pay Valutadatum: 02-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -4.58,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-04",
+    "description": "Jumbo Uitendaal PURMEREND NLD Pasvolgnr: 901 03-09-2025 14:48 Transactie: P00894 Term: 1H00L8 Apple Pay Valutadatum: 04-09-2025",
+    "counterparty": "Jumbo Uitendaal PURMEREND NLD",
+    "amount": -8.22,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-05",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 900 04-09-2025 13:13 Transactie: W00896 Term: BS053661 Apple Pay Valutadatum: 05-09-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -4.5,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-07",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 900 07-09-2025 10:36 Transactie: W00903 Term: 06432249 Apple Pay Valutadatum: 07-09-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -29.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-07",
+    "description": "Cheyennes IJssalon PURMEREND NLD Pasvolgnr: 901 06-09-2025 15:53 Transactie: P00899 Term: 648FRX Apple Pay Valutadatum: 07-09-2025",
+    "counterparty": "Cheyennes IJssalon PURMEREND NLD",
+    "amount": -7.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-07",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 06-09-2025 17:18 Transactie: W00901 Term: ZQQ28P Apple Pay Valutadatum: 07-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -44.08,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-08",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 08-09-2025 10:56 Transactie: P00905 Term: N4X3S6 Apple Pay Valutadatum: 08-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -3.0,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-08",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 08-09-2025 10:53 Transactie: P00904 Term: 48B44G Apple Pay Valutadatum: 08-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -19.49,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-08",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 07-09-2025 09:47 Transactie: C00852 Term: 7GF8GC Apple Pay Valutadatum: 08-09-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -17.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-08",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 07-09-2025 09:44 Transactie: W00902 Term: 642PV8 Apple Pay Valutadatum: 08-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -27.49,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-09",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 08-09-2025 16:21 Transactie: C00853 Term: CT950429 Apple Pay Valutadatum: 09-09-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -115.75,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-10",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 10-09-2025 08:47 Transactie: D00856 Term: 48B44G Apple Pay Valutadatum: 10-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -1.09,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-10",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 10-09-2025 08:45 Transactie: D00855 Term: 48B44G Apple Pay Valutadatum: 10-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -8.44,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-10",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 10-09-2025 08:56 Transactie: W00909 Term: 06432249 Apple Pay Valutadatum: 10-09-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -9.76,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-11",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 11-09-2025 12:06 Transactie: W00912 Term: RNG5DS Apple Pay Valutadatum: 11-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -5.89,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-11",
+    "description": "CCV*KAPPERS INCLUSIEF PURMEREND Pasvolgnr: 901 10-09-2025 14:56 Transactie: D00858 Term: CT399096 Apple Pay Valutadatum: 11-09-2025",
+    "counterparty": "CCV*KAPPERS INCLUSIEF PURMEREND",
+    "amount": -22.5,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-11",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 10-09-2025 08:59 Transactie: D00857 Term: BS174560 Apple Pay Valutadatum: 11-09-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -18.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-13",
+    "description": "ALBERT HEIJN 1354 AMSTERDAM NLD Pasvolgnr: 901 13-09-2025 10:15 Transactie: C00864 Term: GRT33P Apple Pay Valutadatum: 13-09-2025",
+    "counterparty": "ALBERT HEIJN 1354 AMSTERDAM NLD",
+    "amount": -5.08,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-14",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 13-09-2025 16:13 Transactie: C00866 Term: 48B44G Apple Pay Valutadatum: 14-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -22.51,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-15",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 15-09-2025 11:42 Transactie: D00871 Term: L8X730 Apple Pay Valutadatum: 15-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -22.52,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-15",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 15-09-2025 08:59 Transactie: C00870 Term: 7GF8GC Apple Pay Valutadatum: 15-09-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -60.91,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-15",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 15-09-2025 08:53 Transactie: D00869 Term: XC3W64 Apple Pay Valutadatum: 15-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -7.11,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-15",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 15-09-2025 08:48 Transactie: W00916 Term: 06432249 Apple Pay Valutadatum: 15-09-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -10.22,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-15",
+    "description": "BCK*Etos Purmerend PURMEREND NLD Pasvolgnr: 900 14-09-2025 16:31 Transactie: D00868 Term: BS172699 Apple Pay Valutadatum: 15-09-2025",
+    "counterparty": "BCK*Etos Purmerend PURMEREND NLD",
+    "amount": -20.19,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-15",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 14-09-2025 16:10 Transactie: W00915 Term: D4HXY6 Apple Pay Valutadatum: 15-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -21.33,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-15",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 14-09-2025 16:28 Transactie: C00867 Term: L8X730 Apple Pay Valutadatum: 15-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -3.99,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-16",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 15-09-2025 16:02 Transactie: C00872 Term: CT950232 Apple Pay Valutadatum: 16-09-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -124.67,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-17",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 17-09-2025 08:51 Transactie: D00880 Term: G4TWB7 Apple Pay Valutadatum: 17-09-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -0.69,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-17",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 17-09-2025 08:47 Transactie: C00879 Term: XC3W64 Apple Pay Valutadatum: 17-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -6.23,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-17",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 17-09-2025 08:05 Transactie: C00878 Term: 48B44G Apple Pay Valutadatum: 17-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -13.39,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-18",
+    "description": "CULINAIRE SLAGERIJ WAL PURMEREND Pasvolgnr: 901 17-09-2025 10:29 Transactie: D00881 Term: 50319402 Apple Pay Valutadatum: 18-09-2025",
+    "counterparty": "CULINAIRE SLAGERIJ WAL PURMEREND",
+    "amount": -4.01,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-18",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 17-09-2025 19:10 Transactie: C00882 Term: XC3W64 Apple Pay Valutadatum: 18-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -13.81,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-20",
+    "description": "BCK*Etos Purmerend PURMEREND NLD Pasvolgnr: 900 19-09-2025 16:13 Transactie: P00922 Term: BS172699 Apple Pay Valutadatum: 20-09-2025",
+    "counterparty": "BCK*Etos Purmerend PURMEREND NLD",
+    "amount": -14.98,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-20",
+    "description": "Kinki kappers Purmeren PURMEREND Pasvolgnr: 900 19-09-2025 15:32 Transactie: D00887 Term: 515NB4 Apple Pay Valutadatum: 20-09-2025",
+    "counterparty": "Kinki kappers Purmeren PURMEREND",
+    "amount": -62.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-21",
+    "description": "ALDI CALVIA CC LA VILA CALVI ESP Pasvolgnr: 900 20-09-2025 17:07 Transactie: P00926 Term: 04251003 Apple Pay Valutadatum: 21-09-2025",
+    "counterparty": "ALDI CALVIA CC LA VILA CALVI ESP",
+    "amount": -12.8,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-24",
+    "description": "Royal Nails Amsterdam via Knab N.V. Naam: Royal Nails Amsterdam via Knab N.V. Omschrijving: 44607778020X117a 7370495137893835 wkkgz Royal Nails Amsterdam IBAN: NL27KNAB0259270040 Kenmerk: 24-09-2025 17:31 7370495137893835 Valutadatum: 24-09-2025",
+    "counterparty": "Royal Nails Amsterdam via Knab N.V.",
+    "amount": -45.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 29-09-2025 08:25 Transactie: D00898 Term: 48B44G Apple Pay Valutadatum: 29-09-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -24.99,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 29-09-2025 11:36 Transactie: D00899 Term: CT951111 Apple Pay Valutadatum: 30-09-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -97.81,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 01-10-2025 08:34 Transactie: W00938 Term: 48B44G Apple Pay Valutadatum: 01-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -7.66,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 30-09-2025 10:44 Transactie: P00936 Term: BS174560 Apple Pay Valutadatum: 01-10-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -14.29,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "BCK*Xenos Purmerend 02 PURMEREND Pasvolgnr: 901 30-09-2025 10:16 Transactie: C00900 Term: CT653510 Apple Pay Valutadatum: 01-10-2025",
+    "counterparty": "BCK*Xenos Purmerend 02 PURMEREND",
+    "amount": -13.96,
+    "account": "ING",
+    "subcategory": "Diversen (zakgeld, cadeaus, bloemen etc)"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 30-09-2025 10:53 Transactie: P00937 Term: BS174560 Apple Pay Valutadatum: 01-10-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -24.48,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 30-09-2025 16:20 Transactie: C00903 Term: XC3W64 Apple Pay Valutadatum: 01-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -12.52,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "Kinki kappers Purmeren PURMEREND Pasvolgnr: 901 02-10-2025 11:14 Transactie: P00942 Term: 515NB4 Apple Pay Valutadatum: 02-10-2025",
+    "counterparty": "Kinki kappers Purmeren PURMEREND",
+    "amount": -62.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "ALBERT HEIJN 1831 PURMEREND NLD Pasvolgnr: 901 02-10-2025 11:45 Transactie: W00943 Term: F20CFZ Apple Pay Valutadatum: 02-10-2025",
+    "counterparty": "ALBERT HEIJN 1831 PURMEREND NLD",
+    "amount": -17.18,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "BCK*Plus de Gors Purme Purmerend Pasvolgnr: 901 01-10-2025 13:01 Transactie: W00939 Term: BS179921 Apple Pay Valutadatum: 02-10-2025",
+    "counterparty": "BCK*Plus de Gors Purme Purmerend",
+    "amount": -66.36,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "Lidl 229 Purmerend PURMEREND NLD Pasvolgnr: 901 01-10-2025 16:30 Transactie: P00940 Term: 3CNW04 Apple Pay Valutadatum: 02-10-2025",
+    "counterparty": "Lidl 229 Purmerend PURMEREND NLD",
+    "amount": -4.84,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-03",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 03-10-2025 09:01 Transactie: W00946 Term: RD7S55 Apple Pay Valutadatum: 03-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -15.0,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-03",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 03-10-2025 09:00 Transactie: W00945 Term: L8X730 Apple Pay Valutadatum: 03-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -35.53,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-06",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 06-10-2025 08:41 Transactie: C00906 Term: 48B44G Apple Pay Valutadatum: 06-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -8.9,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-06",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 06-10-2025 08:52 Transactie: D00907 Term: 06432249 Apple Pay Valutadatum: 06-10-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -11.55,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-06",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 05-10-2025 16:18 Transactie: W00948 Term: 2Q8LBR Apple Pay Valutadatum: 06-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -33.77,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 07-10-2025 08:55 Transactie: C00908 Term: QKB547 Apple Pay Valutadatum: 07-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -13.53,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "PolierSlagerij Tromp PURMERLAND Pasvolgnr: 901 07-10-2025 08:38 Transactie: P00952 Term: C468X3 Apple Pay Valutadatum: 07-10-2025",
+    "counterparty": "PolierSlagerij Tromp PURMERLAND",
+    "amount": -32.52,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "BCK*Etos Purmerend PURMEREND NLD Pasvolgnr: 901 06-10-2025 08:58 Transactie: P00950 Term: BS172699 Apple Pay Valutadatum: 07-10-2025",
+    "counterparty": "BCK*Etos Purmerend PURMEREND NLD",
+    "amount": -18.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 06-10-2025 16:05 Transactie: W00951 Term: CT951104 Apple Pay Valutadatum: 07-10-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -93.91,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-08",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 08-10-2025 10:21 Transactie: D00912 Term: G4TWB7 Apple Pay Valutadatum: 08-10-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -17.23,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-08",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 07-10-2025 14:25 Transactie: D00909 Term: BS053661 Apple Pay Valutadatum: 08-10-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -16.6,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-09",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 09-10-2025 08:38 Transactie: C00916 Term: XC3W64 Apple Pay Valutadatum: 09-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -3.37,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-10",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 09-10-2025 16:59 Transactie: P00957 Term: D4HXY6 Apple Pay Valutadatum: 10-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -3.38,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-11",
+    "description": "PoelierSlagerij Tromp PURMERLAND Pasvolgnr: 900 10-10-2025 13:30 Transactie: P00960 Term: DQ28C7 Apple Pay Valutadatum: 11-10-2025",
+    "counterparty": "PoelierSlagerij Tromp PURMERLAND",
+    "amount": -14.5,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-12",
+    "description": "BCK*Xenos Purmerend 02 PURMEREND Pasvolgnr: 900 11-10-2025 14:10 Transactie: W00963 Term: CT653512 Apple Pay Valutadatum: 12-10-2025",
+    "counterparty": "BCK*Xenos Purmerend 02 PURMEREND",
+    "amount": -4.57,
+    "account": "ING",
+    "subcategory": "Diversen (zakgeld, cadeaus, bloemen etc)"
+  },
+  {
+    "date": "2025-10-12",
+    "description": "Jumbo Uitendaal PURMEREND NLD Pasvolgnr: 900 11-10-2025 14:06 Transactie: W00962 Term: 1DLS1C Apple Pay Valutadatum: 12-10-2025",
+    "counterparty": "Jumbo Uitendaal PURMEREND NLD",
+    "amount": -4.19,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-13",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 13-10-2025 08:46 Transactie: P00966 Term: 48B44G Apple Pay Valutadatum: 13-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -10.67,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-13",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 13-10-2025 08:58 Transactie: P00967 Term: 06432249 Apple Pay Valutadatum: 13-10-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -4.68,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-13",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 12-10-2025 09:55 Transactie: P00965 Term: XC3W64 Apple Pay Valutadatum: 13-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -27.54,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-13",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 12-10-2025 09:58 Transactie: C00920 Term: 2Q8LBR Apple Pay Valutadatum: 13-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -4.0,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-14",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 900 13-10-2025 16:30 Transactie: D00922 Term: CT950974 Apple Pay Valutadatum: 14-10-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -101.32,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-15",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 15-10-2025 08:53 Transactie: P00968 Term: QKB547 Apple Pay Valutadatum: 15-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -17.78,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-15",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 15-10-2025 08:43 Transactie: D00924 Term: 7GF8GC Apple Pay Valutadatum: 15-10-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -3.58,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-16",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 15-10-2025 15:33 Transactie: D00927 Term: ZQQ28P Apple Pay Valutadatum: 16-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -10.07,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-17",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 17-10-2025 08:41 Transactie: P00974 Term: 8YM7DD Apple Pay Valutadatum: 17-10-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -16.34,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-18",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 18-10-2025 09:57 Transactie: D00931 Term: 723GTX Apple Pay Valutadatum: 18-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -17.14,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-18",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 17-10-2025 18:42 Transactie: W00976 Term: 723GTX Apple Pay Valutadatum: 18-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -30.88,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-21",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 20-10-2025 15:50 Transactie: W00981 Term: CT950167 Apple Pay Valutadatum: 21-10-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -140.41,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-21",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 20-10-2025 12:21 Transactie: W00980 Term: XC3W64 Apple Pay Valutadatum: 21-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -25.01,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-22",
+    "description": "ALBERT HEIJN 2266 PURMEREND NLD Pasvolgnr: 901 22-10-2025 09:48 Transactie: W00983 Term: 7F2T30 Apple Pay Valutadatum: 22-10-2025",
+    "counterparty": "ALBERT HEIJN 2266 PURMEREND NLD",
+    "amount": -5.77,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-24",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 24-10-2025 12:05 Transactie: D00937 Term: 8Y69D3 Apple Pay Valutadatum: 24-10-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -44.97,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-26",
+    "description": "ALBERT HEIJN 1354 AMSTERDAM NLD Pasvolgnr: 901 25-10-2025 15:15 Transactie: C00938 Term: GRT33P Apple Pay Valutadatum: 26-10-2025",
+    "counterparty": "ALBERT HEIJN 1354 AMSTERDAM NLD",
+    "amount": -23.87,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-26",
+    "description": "ETOS BV  Fil.nr 7805 AMSTERDAM Pasvolgnr: 901 25-10-2025 15:17 Transactie: D00939 Term: VMK9D7 Apple Pay Valutadatum: 26-10-2025",
+    "counterparty": "ETOS BV  Fil.nr 7805 AMSTERDAM",
+    "amount": -9.44,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-26",
+    "description": "Kruidvat 7997 AMSTERDAM NLD Pasvolgnr: 901 25-10-2025 15:23 Transactie: D00940 Term: Q818J9 Apple Pay Valutadatum: 26-10-2025",
+    "counterparty": "Kruidvat 7997 AMSTERDAM NLD",
+    "amount": -3.98,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 26-10-2025 14:51 Transactie: D00941 Term: 2Q8LBR Apple Pay Valutadatum: 27-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -40.48,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 900 26-10-2025 15:01 Transactie: W00989 Term: 06432249 Apple Pay Valutadatum: 27-10-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -13.92,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 27-10-2025 16:42 Transactie: D00944 Term: CT950274 Apple Pay Valutadatum: 28-10-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -101.41,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 901 27-10-2025 14:42 Transactie: P00991 Term: CP706T Apple Pay Valutadatum: 28-10-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -23.51,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-29",
+    "description": "Royal Nails Amsterdam via Knab N.V. Naam: Royal Nails Amsterdam via Knab N.V. Omschrijving: 52918444055X2393 7370174809826036 wkkgz Royal Nails Amsterdam IBAN: NL27KNAB0259270040 Kenmerk: 29-10-2025 16:50 7370174809826036 Valutadatum: 29-10-2025",
+    "counterparty": "Royal Nails Amsterdam via Knab N.V.",
+    "amount": -45.0,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-10-29",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 29-10-2025 10:36 Transactie: P00996 Term: D4HXY6 Apple Pay Valutadatum: 29-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -18.86,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-10-30",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 29-10-2025 17:36 Transactie: W00997 Term: 642PV8 Apple Pay Valutadatum: 30-10-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -2.99,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-01",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 01-11-2025 10:00 Transactie: W01001 Term: QKB547 Apple Pay Valutadatum: 01-11-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -13.98,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-01",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 01-11-2025 09:52 Transactie: P01000 Term: 7GF8GC Apple Pay Valutadatum: 01-11-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -28.31,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-02",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 01-11-2025 10:07 Transactie: P01002 Term: BS053660 Apple Pay Valutadatum: 02-11-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -18.01,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-03",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 03-11-2025 08:55 Transactie: W01007 Term: G4TWB7 Apple Pay Valutadatum: 03-11-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -12.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-03",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 03-11-2025 08:51 Transactie: W01006 Term: 48B44G Apple Pay Valutadatum: 03-11-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -5.83,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-03",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 03-11-2025 08:48 Transactie: W01005 Term: 06432249 Apple Pay Valutadatum: 03-11-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -1.99,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-03",
+    "description": "Albert Heijn 1516 PURMEREND NLD Pasvolgnr: 900 02-11-2025 10:34 Transactie: C00951 Term: 8YM7DD Apple Pay Valutadatum: 03-11-2025",
+    "counterparty": "Albert Heijn 1516 PURMEREND NLD",
+    "amount": -39.41,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 900 04-11-2025 12:11 Transactie: D00956 Term: D4HXY6 Apple Pay Valutadatum: 04-11-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -7.86,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 03-11-2025 09:00 Transactie: C00953 Term: BS174560 Apple Pay Valutadatum: 04-11-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -18.88,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 901 03-11-2025 15:24 Transactie: W01008 Term: CT950847 Apple Pay Valutadatum: 04-11-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -121.96,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 03-11-2025 09:01 Transactie: C00954 Term: BS174560 Apple Pay Valutadatum: 04-11-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -2.59,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-05",
+    "description": "ALBERT HEIJN 2267 PURMEREND NLD Pasvolgnr: 901 05-11-2025 10:08 Transactie: P01011 Term: L8X730 Apple Pay Valutadatum: 05-11-2025",
+    "counterparty": "ALBERT HEIJN 2267 PURMEREND NLD",
+    "amount": -22.4,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-07",
+    "description": "ALBERT HEIJN 2265 PURMEREND NLD Pasvolgnr: 901 07-11-2025 10:22 Transactie: P01012 Term: 10K3DM Apple Pay Valutadatum: 07-11-2025",
+    "counterparty": "ALBERT HEIJN 2265 PURMEREND NLD",
+    "amount": -25.75,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-17",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 901 16-11-2025 11:19 Transactie: P01023 Term: BS159950 Apple Pay Valutadatum: 17-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -80.89,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-17",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 900 16-11-2025 18:44 Transactie: W01025 Term: CT950730 Apple Pay Valutadatum: 17-11-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -129.4,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-18",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 901 17-11-2025 14:44 Transactie: D00960 Term: BS159943 Apple Pay Valutadatum: 18-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -17.73,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-19",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 901 19-11-2025 08:52 Transactie: W01027 Term: 06432249 Apple Pay Valutadatum: 19-11-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -2.05,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-19",
+    "description": "Etos B.V. Naam: Etos B.V. Omschrijving: ZB7CB4GV5SL85TF32JRLV 7180305382283438 010314905 IBAN: NL04ADYB2017400157 Kenmerk: 19-11-2025 13:06 7180305382283438 Valutadatum: 19-11-2025",
+    "counterparty": "Etos B.V.",
+    "amount": -35.31,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-20",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 19-11-2025 09:08 Transactie: P01029 Term: BS174560 Apple Pay Valutadatum: 20-11-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -48.45,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-20",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 901 19-11-2025 09:02 Transactie: D00961 Term: BS159950 Apple Pay Valutadatum: 20-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -16.53,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-22",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 900 21-11-2025 11:59 Transactie: D00962 Term: BS159950 Apple Pay Valutadatum: 22-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -40.42,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-23",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 900 22-11-2025 12:51 Transactie: D00963 Term: BS159943 Apple Pay Valutadatum: 23-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -13.71,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-24",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 24-11-2025 08:53 Transactie: D00966 Term: 7GF8GC Apple Pay Valutadatum: 24-11-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -15.98,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-24",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 901 23-11-2025 13:00 Transactie: C00964 Term: BS159938 Apple Pay Valutadatum: 24-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -78.65,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-25",
+    "description": "Albert Heijn Online ZAANDAM NLD Pasvolgnr: 900 24-11-2025 15:58 Transactie: D00967 Term: CT950795 Apple Pay Valutadatum: 25-11-2025",
+    "counterparty": "Albert Heijn Online ZAANDAM NLD",
+    "amount": -99.66,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "Kruidvat 6119 PURMEREND NLD Pasvolgnr: 901 26-11-2025 08:53 Transactie: W01038 Term: G4TWB7 Apple Pay Valutadatum: 26-11-2025",
+    "counterparty": "Kruidvat 6119 PURMEREND NLD",
+    "amount": -29.46,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 900 25-11-2025 12:49 Transactie: W01034 Term: BS053661 Apple Pay Valutadatum: 26-11-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -21.62,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "Action 1006 Purmerend NLD Pasvolgnr: 900 25-11-2025 12:56 Transactie: P01035 Term: 06432237 Apple Pay Valutadatum: 26-11-2025",
+    "counterparty": "Action 1006 Purmerend NLD",
+    "amount": -8.97,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "Etos B.V. Naam: Etos B.V. Omschrijving: X92CDBS4D3KMFMQ92JRLV 7180206582020347 010402468 IBAN: NL04ADYB2017400157 Kenmerk: 27-11-2025 15:38 7180206582020347 Valutadatum: 27-11-2025",
+    "counterparty": "Etos B.V.",
+    "amount": -40.43,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 901 26-11-2025 15:12 Transactie: C00969 Term: BS159941 Apple Pay Valutadatum: 27-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -4.23,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 901 26-11-2025 08:45 Transactie: C00968 Term: BS159937 Apple Pay Valutadatum: 27-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -1.09,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-30",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 901 29-11-2025 11:20 Transactie: C00973 Term: BS159944 Apple Pay Valutadatum: 30-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -4.98,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-30",
+    "description": "BCK*Etos Purmerned PURMEREND NLD Pasvolgnr: 901 29-11-2025 11:24 Transactie: P01042 Term: BS174560 Apple Pay Valutadatum: 30-11-2025",
+    "counterparty": "BCK*Etos Purmerned PURMEREND NLD",
+    "amount": -14.98,
+    "account": "ING",
+    "subcategory": "Persoonlijke verzorging"
+  },
+  {
+    "date": "2025-11-30",
+    "description": "BCK*De Viswinkel PURMEREND NLD Pasvolgnr: 901 29-11-2025 11:34 Transactie: P01043 Term: BS053661 Apple Pay Valutadatum: 30-11-2025",
+    "counterparty": "BCK*De Viswinkel PURMEREND NLD",
+    "amount": -20.54,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  },
+  {
+    "date": "2025-11-30",
+    "description": "Albert Heijn 2267 PURMEREND NLD Pasvolgnr: 901 29-11-2025 11:21 Transactie: C00974 Term: BS159939 Apple Pay Valutadatum: 30-11-2025",
+    "counterparty": "Albert Heijn 2267 PURMEREND NLD",
+    "amount": -2.98,
+    "account": "ING",
+    "subcategory": "Boodschappen"
+  }
+]

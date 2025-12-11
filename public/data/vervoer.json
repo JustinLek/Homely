@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2025-05-27",
+    "description": "39-ZXF-7 LET OP, NIEUW TARIEF 05-05-2025 t/m 04-06-2025 MEER INFO WWW.BELASTINGDIENST.NL   ",
+    "counterparty": "BELASTINGDIENST",
+    "amount": -47.0,
+    "account": "Rabobank",
+    "subcategory": "Motorrijtuigenbelasting"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "39-ZXF-7 05-06-2025 t/m 04-07-2025 MEER INFO WWW.BELASTINGDIENST.NL   ",
+    "counterparty": "BELASTINGDIENST",
+    "amount": -46.0,
+    "account": "Rabobank",
+    "subcategory": "Motorrijtuigenbelasting"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "39-ZXF-7 05-07-2025 t/m 04-08-2025 MEER INFO WWW.BELASTINGDIENST.NL   ",
+    "counterparty": "BELASTINGDIENST",
+    "amount": -47.0,
+    "account": "Rabobank",
+    "subcategory": "Motorrijtuigenbelasting"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "39-ZXF-7 05-08-2025 t/m 04-09-2025 MEER INFO WWW.BELASTINGDIENST.NL   ",
+    "counterparty": "BELASTINGDIENST",
+    "amount": -47.0,
+    "account": "Rabobank",
+    "subcategory": "Motorrijtuigenbelasting"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "39-ZXF-7 05-09-2025 t/m 04-10-2025 MEER INFO WWW.BELASTINGDIENST.NL   ",
+    "counterparty": "BELASTINGDIENST",
+    "amount": -46.0,
+    "account": "Rabobank",
+    "subcategory": "Motorrijtuigenbelasting"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "39-ZXF-7 05-10-2025 t/m 04-11-2025 MEER INFO WWW.BELASTINGDIENST.NL   ",
+    "counterparty": "BELASTINGDIENST",
+    "amount": -47.0,
+    "account": "Rabobank",
+    "subcategory": "Motorrijtuigenbelasting"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "39-ZXF-7 05-11-2025 t/m 04-12-2025 MEER INFO WWW.BELASTINGDIENST.NL   ",
+    "counterparty": "BELASTINGDIENST",
+    "amount": -47.0,
+    "account": "Rabobank",
+    "subcategory": "Motorrijtuigenbelasting"
+  }
+]

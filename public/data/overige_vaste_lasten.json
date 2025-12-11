@@ -1,0 +1,106 @@
+[
+  {
+    "date": "2025-05-28",
+    "description": "14288991   ",
+    "counterparty": "KINDEROPVANG PURMEREND",
+    "amount": -748.05,
+    "account": "Rabobank",
+    "subcategory": "Kinderopvang"
+  },
+  {
+    "date": "2025-06-05",
+    "description": "Factuur: 1540 Groepslessen 2, 39.50 (2025 06 01 2025 06 30)   ",
+    "counterparty": "YourPerfection",
+    "amount": -39.5,
+    "account": "Rabobank",
+    "subcategory": "Overig"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "14290795   ",
+    "counterparty": "KINDEROPVANG PURMEREND",
+    "amount": -748.05,
+    "account": "Rabobank",
+    "subcategory": "Kinderopvang"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "Factuur: 2602 Groepslessen 2, 39.50 (2025 07 01 2025 07 31)   ",
+    "counterparty": "YourPerfection",
+    "amount": -39.5,
+    "account": "Rabobank",
+    "subcategory": "Overig"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "14293369   ",
+    "counterparty": "KINDEROPVANG PURMEREND",
+    "amount": -748.05,
+    "account": "Rabobank",
+    "subcategory": "Kinderopvang"
+  },
+  {
+    "date": "2025-07-29",
+    "description": "Factuur: 4603 Groepslessen 2, 39.50 (2025 08 01 2025 08 31)   ",
+    "counterparty": "YourPerfection",
+    "amount": -39.5,
+    "account": "Rabobank",
+    "subcategory": "Overig"
+  },
+  {
+    "date": "2025-08-28",
+    "description": "14295019   ",
+    "counterparty": "KINDEROPVANG PURMEREND",
+    "amount": -748.05,
+    "account": "Rabobank",
+    "subcategory": "Kinderopvang"
+  },
+  {
+    "date": "2025-08-28",
+    "description": "Factuur: 5750 Groepslessen 2, 39.50 (2025 09 01 2025 09 30)   ",
+    "counterparty": "YourPerfection",
+    "amount": -39.5,
+    "account": "Rabobank",
+    "subcategory": "Overig"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "14298273   ",
+    "counterparty": "KINDEROPVANG PURMEREND",
+    "amount": -748.05,
+    "account": "Rabobank",
+    "subcategory": "Kinderopvang"
+  },
+  {
+    "date": "2025-10-06",
+    "description": "Factuur: 6877 Groepslessen 2, 39.50 (2025 10 01 2025 10 31)   ",
+    "counterparty": "YourPerfection",
+    "amount": -39.5,
+    "account": "Rabobank",
+    "subcategory": "Overig"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "14300510   ",
+    "counterparty": "KINDEROPVANG PURMEREND",
+    "amount": -748.05,
+    "account": "Rabobank",
+    "subcategory": "Kinderopvang"
+  },
+  {
+    "date": "2025-10-29",
+    "description": "Factuur: 8370 Groepslessen 2, 39.50 (2025 11 01 2025 11 30)   ",
+    "counterparty": "YourPerfection",
+    "amount": -39.5,
+    "account": "Rabobank",
+    "subcategory": "Overig"
+  },
+  {
+    "date": "2025-11-28",
+    "description": "14301745   ",
+    "counterparty": "KINDEROPVANG PURMEREND",
+    "amount": -748.05,
+    "account": "Rabobank",
+    "subcategory": "Kinderopvang"
+  }
+]

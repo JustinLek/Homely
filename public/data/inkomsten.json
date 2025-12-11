@@ -1,0 +1,1066 @@
+[
+  {
+    "date": "2025-05-03",
+    "description": "STEFAN VERHEUL Naam: STEFAN VERHEUL Omschrijving: Betaling van STEFAN VERHEUL NL56ABNA0543135047 Mannenweekend IBAN: NL56ABNA0543135047 Kenmerk: 03-05-2025 19:18 7051104560224449 Valutadatum: 03-05-2025",
+    "counterparty": "STEFAN VERHEUL",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-04",
+    "description": "TIM VELLEMA Naam: TIM VELLEMA Omschrijving: Betaling van TIM VELLEMA NL66ABNA0628274483 Mannenweekend IBAN: NL66ABNA0628274483 Kenmerk: 04-05-2025 17:58 7051404263252340 Valutadatum: 04-05-2025",
+    "counterparty": "TIM VELLEMA",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-05",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Mannenweekend IBAN: NL83INGB0665811667 Valutadatum: 05-05-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-14",
+    "description": "Mw DE Dekker,Hr NT Koopmann Naam: Mw DE Dekker,Hr NT Koopmann Omschrijving: Mannenweekend IBAN: NL97INGB0748898026 Valutadatum: 14-05-2025",
+    "counterparty": "Mw DE Dekker,Hr NT Koopmann",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-17",
+    "description": "R.G. Wiering Naam: R.G. Wiering Omschrijving: Betaling van R.G. Wiering NL20RABO0310083281 Mp IBAN: NL20RABO0310083281 Kenmerk: 17-05-2025 08:42 7051714256582473 Valutadatum: 17-05-2025",
+    "counterparty": "R.G. Wiering",
+    "amount": 60.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-19",
+    "description": "Zara.com Naam: Zara.com Omschrijving: TX926811160XT Refund for FASHION RETAIL S.A. ref:53718194433 IBAN: NL92ADYB2017400998 Kenmerk: TX926811160XT Valutadatum: 19-05-2025",
+    "counterparty": "Zara.com",
+    "amount": 192.85,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-20",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: MAAND JUN. NR. 205232425T500001 VOORSCHOT KINDEROPVANG 2025 (LEK ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX810534040202505151030107572688 Valutadatum: 20-05-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 420.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "L LOSWIJK Naam: L LOSWIJK Omschrijving: Betaling van L LOSWIJK NL26ABNA0531251438 Houtskool IBAN: NL26ABNA0531251438 Kenmerk: 22-05-2025 12:01 7051676941747296 Valutadatum: 22-05-2025",
+    "counterparty": "L LOSWIJK",
+    "amount": 25.67,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "P. Lek eo S.M.M. Lek-Hertogs Naam: P. Lek eo S.M.M. Lek-Hertogs Omschrijving: Betaling van P. Lek eo S.M.M. Lek-Hertogs NL42RABO0354141740 Houtskool IBAN: NL42RABO0354141740 Kenmerk: 22-05-2025 11:50 7051824550536978 Valutadatum: 22-05-2025",
+    "counterparty": "P. Lek eo S.M.M. Lek-Hertogs",
+    "amount": 25.67,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "Hr JJ Bouva Naam: Hr JJ Bouva Omschrijving: Houtskool IBAN: NL28INGB0003550977 Valutadatum: 22-05-2025",
+    "counterparty": "Hr JJ Bouva",
+    "amount": 25.67,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "Just In Dev B.V. Naam: Just In Dev B.V. Omschrijving: Salaris 2025-5 IBAN: NL13KNAB0776140418 Datum/Tijd: 22-05-2025 10:11:06 Valutadatum: 22-05-2025",
+    "counterparty": "Just In Dev B.V.",
+    "amount": 1453.46,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "Stichting Dijklander Zie Naam: Stichting Dijklander Zie Omschrijving: Salaris Mei IBAN: NL97RABO0117262676 Kenmerk: A3C0F26D319A472A851671A7AB5FBC48 Valutadatum: 22-05-2025",
+    "counterparty": "Stichting Dijklander Zie",
+    "amount": 4876.85,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "Vaste lasten   ",
+    "counterparty": "Mw K Schut, Hr J Lek",
+    "amount": 3100.0,
+    "account": "Rabobank",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-05-31",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Bowlen IBAN: NL83INGB0665811667 Valutadatum: 31-05-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 60.97,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-01",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Bowlen IBAN: NL83INGB0665811667 Valutadatum: 01-06-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 14.75,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-02",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Mannenweekend IBAN: NL83INGB0665811667 Valutadatum: 02-06-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-02",
+    "description": "TIM VELLEMA Naam: TIM VELLEMA Omschrijving: Betaling van TIM VELLEMA NL66ABNA0628274483 Mannenweekend IBAN: NL66ABNA0628274483 Kenmerk: 02-06-2025 13:52 7051245153353654 Valutadatum: 02-06-2025",
+    "counterparty": "TIM VELLEMA",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-02",
+    "description": "STICHTING DERDENGELDEN BUCKAROO Naam: STICHTING DERDENGELDEN BUCKAROO Omschrijving: Refund:Expert BuckID: J038KNMU0WIHSLGJD4HB IBAN: NL06DEUT0265186447 Kenmerk: J038KNMU0WIHSLGJD4HB Valutadatum: 02-06-2025",
+    "counterparty": "STICHTING DERDENGELDEN BUCKAROO",
+    "amount": 89.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-02",
+    "description": "STEFAN VERHEUL Naam: STEFAN VERHEUL Omschrijving: Betaling van STEFAN VERHEUL NL56ABNA0543135047 Mannenweekend IBAN: NL56ABNA0543135047 Kenmerk: 02-06-2025 07:56 7051166953203750 Valutadatum: 02-06-2025",
+    "counterparty": "STEFAN VERHEUL",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-05",
+    "description": "Mw DE Dekker,Hr NT Koopmann Naam: Mw DE Dekker,Hr NT Koopmann Omschrijving: Mannenweekend IBAN: NL97INGB0748898026 Valutadatum: 05-06-2025",
+    "counterparty": "Mw DE Dekker,Hr NT Koopmann",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-09",
+    "description": "Mw K Vriens Naam: Mw K Vriens Omschrijving: Cadeau babyshower IBAN: NL26INGB0009389346 Valutadatum: 09-06-2025",
+    "counterparty": "Mw K Vriens",
+    "amount": 22.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-09",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Cadeau babyshower IBAN: NL83INGB0665811667 Valutadatum: 09-06-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 22.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-09",
+    "description": "Mw SW Dekker Naam: Mw SW Dekker Omschrijving: Cadeau babyshower IBAN: NL32INGB0100892248 Valutadatum: 09-06-2025",
+    "counterparty": "Mw SW Dekker",
+    "amount": 22.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-09",
+    "description": "KIM OOSTERVINK CJ Naam: KIM OOSTERVINK CJ Omschrijving: Betaling van KIM OOSTERVINK CJ NL82ABNA0454948581 Cadeau babyshower IBAN: NL82ABNA0454948581 Kenmerk: 09-06-2025 17:55 7051025141033677 Valutadatum: 09-06-2025",
+    "counterparty": "KIM OOSTERVINK CJ",
+    "amount": 42.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-12",
+    "description": "Mw DE Dekker,Hr NT Koopmann Naam: Mw DE Dekker,Hr NT Koopmann Omschrijving: Cadeau babyshower IBAN: NL97INGB0748898026 Valutadatum: 12-06-2025",
+    "counterparty": "Mw DE Dekker,Hr NT Koopmann",
+    "amount": 22.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-14",
+    "description": "Studentendrukwerk Naam: Studentendrukwerk Omschrijving: Retour order 1268019 Studentendrukwerk IBAN: NL86INGB0006768490 Valutadatum: 14-06-2025",
+    "counterparty": "Studentendrukwerk",
+    "amount": 21.3,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-17",
+    "description": "Stichting Pay.nl Naam: Stichting Pay.nl Omschrijving: Pay.nl inzake The Wildflower Club / jetjim rhM1JicloG5yojh3fqZhhWagx / The Wildflower Club / RF-9014-0036-9640 IBAN: NL35RABO0117713678 Kenmerk: SSXY-C9EA Valutadatum: 17-06-2025",
+    "counterparty": "Stichting Pay.nl",
+    "amount": 99.94,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-20",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: JAN-JUL NR. 204823110T500014 VOORSCHOT KIT/Kgb 2025 (SCHUT ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX576262572202506171020092957806 Valutadatum: 20-06-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 1939.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-20",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: JUN-JUL NR. 205232425T500001 VOORSCHOT KINDEROPVANG 2025 (LEK ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX188882715202506171030183045955 Valutadatum: 20-06-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 1362.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-22",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Lunch strand IBAN: NL83INGB0665811667 Valutadatum: 22-06-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 42.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-22",
+    "description": "KIM OOSTERVINK CJ Naam: KIM OOSTERVINK CJ Omschrijving: Betaling van KIM OOSTERVINK CJ NL82ABNA0454948581 Lunch strand IBAN: NL82ABNA0454948581 Kenmerk: 22-06-2025 09:23 7051505761694476 Valutadatum: 22-06-2025",
+    "counterparty": "KIM OOSTERVINK CJ",
+    "amount": 36.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Stichting Dijklander Zie Naam: Stichting Dijklander Zie Omschrijving: Salaris Juni IBAN: NL97RABO0117262676 Kenmerk: 50C42DBB67874D1BBF20EE8F8D7CCBEA Valutadatum: 23-06-2025",
+    "counterparty": "Stichting Dijklander Zie",
+    "amount": 2522.77,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Just In Dev B.V. Naam: Just In Dev B.V. Omschrijving: Salaris 2025-6 IBAN: NL13KNAB0776140418 Datum/Tijd: 25-06-2025 06:35:19 Valutadatum: 25-06-2025",
+    "counterparty": "Just In Dev B.V.",
+    "amount": 925.73,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Vaste lasten   ",
+    "counterparty": "Mw K Schut, Hr J Lek",
+    "amount": 3000.0,
+    "account": "Rabobank",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-28",
+    "description": "MJ PEN Naam: MJ PEN Omschrijving: Betaling van MJ PEN NL87ABNA0608483001 Fiets IBAN: NL87ABNA0608483001 Kenmerk: 28-06-2025 08:11 7051125161497574 Valutadatum: 28-06-2025",
+    "counterparty": "MJ PEN",
+    "amount": 420.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-29",
+    "description": "S KOOIMAN CJ Naam: S KOOIMAN CJ Omschrijving: Betaling van S KOOIMAN CJ NL73ABNA0980441781 Mannenweekend IBAN: NL73ABNA0980441781 Kenmerk: 29-06-2025 12:00 7051316952494571 Valutadatum: 29-06-2025",
+    "counterparty": "S KOOIMAN CJ",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Sterk Springkussens Naam: Sterk Springkussens Omschrijving: Annulering Krokodil 4-7 IBAN: NL67RABO0189640251 Datum/Tijd: 30-06-2025 22:40:55 Valutadatum: 30-06-2025",
+    "counterparty": "Sterk Springkussens",
+    "amount": 111.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "TIM VELLEMA Naam: TIM VELLEMA Omschrijving: Betaling van TIM VELLEMA NL66ABNA0628274483 Mannenweekend IBAN: NL66ABNA0628274483 Kenmerk: 01-07-2025 18:30 7051885164308493 Valutadatum: 01-07-2025",
+    "counterparty": "TIM VELLEMA",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Mannenweekend IBAN: NL83INGB0665811667 Valutadatum: 01-07-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "Sociale Verzekeringsbank Naam: Sociale Verzekeringsbank Omschrijving: KINDERBIJSLAG 2e kwart. 25 PC20891630 WWW.SVB.NL Sociale Verzekeringsbank IBAN: NL16RABO0317347780 Kenmerk: PC2089163007022025062601 Valutadatum: 01-07-2025",
+    "counterparty": "Sociale Verzekeringsbank",
+    "amount": 572.9,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-13",
+    "description": "Mw DE Dekker,Hr NT Koopmann Naam: Mw DE Dekker,Hr NT Koopmann Omschrijving: Uiteten IBAN: NL97INGB0748898026 Valutadatum: 13-07-2025",
+    "counterparty": "Mw DE Dekker,Hr NT Koopmann",
+    "amount": 65.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-13",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Snackbar IBAN: NL83INGB0665811667 Valutadatum: 13-07-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 27.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-21",
+    "description": "Just In Dev B.V. Naam: Just In Dev B.V. Omschrijving: Salaris 2025-7 IBAN: NL13KNAB0776140418 Datum/Tijd: 21-07-2025 08:41:26 Valutadatum: 21-07-2025",
+    "counterparty": "Just In Dev B.V.",
+    "amount": 925.73,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-07-21",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: MAAND AUG. NR. 205232425T500001 VOORSCHOT KINDEROPVANG 2025 (LEK ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX699988894202507161030139870026 Valutadatum: 21-07-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 553.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-21",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: MAAND AUG. NR. 204823110T500014 VOORSCHOT KIT/Kgb 2025 (SCHUT ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX765146972202507161020104632625 Valutadatum: 21-07-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 278.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-22",
+    "description": "Stichting Dijklander Zie Naam: Stichting Dijklander Zie Omschrijving: Salaris Juli IBAN: NL97RABO0117262676 Kenmerk: B3FBE15567F643C8AE933203C8F1DCAA Valutadatum: 22-07-2025",
+    "counterparty": "Stichting Dijklander Zie",
+    "amount": 2407.31,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-07-22",
+    "description": "    ",
+    "counterparty": "Mw K Schut, Hr J Lek",
+    "amount": 3000.0,
+    "account": "Rabobank",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-27",
+    "description": "GROEN VAN STRAATEN A CJ Naam: GROEN VAN STRAATEN A CJ Omschrijving: Betaling van GROEN VAN STRAATEN A CJ NL88ABNA0826719597 Houtskool IBAN: NL88ABNA0826719597 Kenmerk: 27-07-2025 08:01 7051266027628327 Valutadatum: 27-07-2025",
+    "counterparty": "GROEN VAN STRAATEN A CJ",
+    "amount": 25.67,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-29",
+    "description": "TIM VELLEMA Naam: TIM VELLEMA Omschrijving: Betaling van TIM VELLEMA NL66ABNA0628274483 Mannenweekend IBAN: NL66ABNA0628274483 Kenmerk: 29-07-2025 19:43 7051216630442804 Valutadatum: 29-07-2025",
+    "counterparty": "TIM VELLEMA",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-29",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Mannenweekend IBAN: NL83INGB0665811667 Valutadatum: 29-07-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-29",
+    "description": "STEFAN VERHEUL Naam: STEFAN VERHEUL Omschrijving: Betaling van STEFAN VERHEUL NL56ABNA0543135047 Mannenweekend IBAN: NL56ABNA0543135047 Kenmerk: 29-07-2025 06:46 7051395439684709 Valutadatum: 29-07-2025",
+    "counterparty": "STEFAN VERHEUL",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-07-30",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Kruidvat IBAN: NL83INGB0665811667 Valutadatum: 30-07-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 9.77,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-04",
+    "description": "A FLEMINKS Naam: A FLEMINKS Omschrijving: Dikke kus van oma. Voor de kleintjes want het is uitverkoop IBAN: NL78ABNA0533249090 Datum/Tijd: 04-08-2025 15:53:41 Valutadatum: 04-08-2025",
+    "counterparty": "A FLEMINKS",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-04",
+    "description": "Zalando Payments GmbH Naam: Zalando Payments GmbH Omschrijving: 10206185188868 ZALANDO IBAN: DE34100700000462603200 Kenmerk: 010503937923 Valutadatum: 04-08-2025",
+    "counterparty": "Zalando Payments GmbH",
+    "amount": 77.99,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-06",
+    "description": "Hr JJ Bouva Naam: Hr JJ Bouva Omschrijving: Houtskool IBAN: NL28INGB0003550977 Valutadatum: 06-08-2025",
+    "counterparty": "Hr JJ Bouva",
+    "amount": 25.67,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Snackbar IBAN: NL83INGB0665811667 Valutadatum: 12-08-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 28.3,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: CCVMister Chi B.V. IBAN: NL83INGB0665811667 Valutadatum: 12-08-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 39.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-15",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Puddle jumper IBAN: NL83INGB0665811667 Valutadatum: 15-08-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 31.96,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-17",
+    "description": "KIM OOSTERVINK CJ Naam: KIM OOSTERVINK CJ Omschrijving: Betaling van KIM OOSTERVINK CJ NL82ABNA0454948581 Lunch IBAN: NL82ABNA0454948581 Kenmerk: 17-08-2025 19:17 7051386938965921 Valutadatum: 17-08-2025",
+    "counterparty": "KIM OOSTERVINK CJ",
+    "amount": 35.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-18",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Linneaushof IBAN: NL83INGB0665811667 Valutadatum: 18-08-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 8.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-18",
+    "description": "PK STOELTJES Naam: PK STOELTJES Omschrijving: Betaling van PK STOELTJES NL42ABNA0511226470 Lunch IBAN: NL42ABNA0511226470 Kenmerk: 18-08-2025 13:18 7051896932962075 Valutadatum: 18-08-2025",
+    "counterparty": "PK STOELTJES",
+    "amount": 35.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-20",
+    "description": "Just In Dev B.V. Naam: Just In Dev B.V. Omschrijving: Salaris 2025-8 IBAN: NL13KNAB0776140418 Datum/Tijd: 20-08-2025 08:57:51 Valutadatum: 20-08-2025",
+    "counterparty": "Just In Dev B.V.",
+    "amount": 925.73,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-08-20",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: MAAND SEP. NR. 204823110T500014 VOORSCHOT KIT/Kgb 2025 (SCHUT ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX270004801202508151020086395780 Valutadatum: 20-08-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 278.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-20",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: MAAND SEP. NR. 205232425T500001 VOORSCHOT KINDEROPVANG 2025 (LEK ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX287395101202508151030195738566 Valutadatum: 20-08-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 555.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-22",
+    "description": "Stichting Dijklander Zie Naam: Stichting Dijklander Zie Omschrijving: Salaris Augustus IBAN: NL97RABO0117262676 Kenmerk: 3A313791C58742078B24CE5BD1A51DB2 Valutadatum: 22-08-2025",
+    "counterparty": "Stichting Dijklander Zie",
+    "amount": 2403.66,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-08-22",
+    "description": "Vaste lasten   ",
+    "counterparty": "Mw K Schut, Hr J Lek",
+    "amount": 3300.0,
+    "account": "Rabobank",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-24",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Mac IBAN: NL83INGB0665811667 Valutadatum: 24-08-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 25.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-28",
+    "description": "Online Payment Stichting Naam: Online Payment Stichting Omschrijving: Betaling m2301660089: Buddha to Buddha armband Chain Big zilver 925 - Marktplaats IBAN: NL56RABO0347848516 Kenmerk: tra-5bbe65d48133 Datum/Tijd: 28-08-2025 10:16:26 Valutadatum: 28-08-2025",
+    "counterparty": "Online Payment Stichting",
+    "amount": 175.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-30",
+    "description": "STEFAN VERHEUL Naam: STEFAN VERHEUL Omschrijving: Betaling van STEFAN VERHEUL NL56ABNA0543135047 Mannenweekend IBAN: NL56ABNA0543135047 Kenmerk: 30-08-2025 14:27 7051266629507914 Valutadatum: 30-08-2025",
+    "counterparty": "STEFAN VERHEUL",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-30",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Mannenweekend IBAN: NL83INGB0665811667 Valutadatum: 30-08-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-08-30",
+    "description": "TIM VELLEMA Naam: TIM VELLEMA Omschrijving: Betaling van TIM VELLEMA NL66ABNA0628274483 Mannenweekend IBAN: NL66ABNA0628274483 Kenmerk: 30-08-2025 06:56 7051916917687995 Valutadatum: 30-08-2025",
+    "counterparty": "TIM VELLEMA",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-02",
+    "description": "9717ASR Hotspot UTRECHT NLD Pasvolgnr: 900 01-09-2025 14:41 Transactie: B44294 Term: 2T6N9V Retourpintransactie Valutadatum: 02-09-2025",
+    "counterparty": "9717ASR Hotspot UTRECHT NLD",
+    "amount": 1.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-04",
+    "description": "Hr J Schut, Mw B Schut-Boekelman Naam: Hr J Schut, Mw B Schut-Boekelman Omschrijving: 1 zak houtskool. IBAN: NL57INGB0004961708 Datum/Tijd: 04-09-2025 16:44:32 Valutadatum: 04-09-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman",
+    "amount": 25.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-08",
+    "description": "SAMMELKARTENMARKT GMBH + CO Naam: SAMMELKARTENMARKT GMBH + CO Omschrijving: (0.13) ........................... CARDMARKET SELLER ACTIVATION IBAN: DE80100400000107541500 Kenmerk: 992855770-SAR1865555 Valutadatum: 08-09-2025",
+    "counterparty": "SAMMELKARTENMARKT GMBH + CO",
+    "amount": 0.13,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-08",
+    "description": "SAMMELKARTENMARKT GMBH + CO Naam: SAMMELKARTENMARKT GMBH + CO Omschrijving: (0.04) ........................... CARDMARKET SELLER ACTIVATION IBAN: DE80100400000107541500 Kenmerk: 992855770-SAR2865555 Valutadatum: 08-09-2025",
+    "counterparty": "SAMMELKARTENMARKT GMBH + CO",
+    "amount": 0.04,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-08",
+    "description": "Hr JJ Bouva Naam: Hr JJ Bouva Omschrijving: Houtskool IBAN: NL28INGB0003550977 Valutadatum: 08-09-2025",
+    "counterparty": "Hr JJ Bouva",
+    "amount": 25.67,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-09",
+    "description": "Online Payment Stichting Naam: Online Payment Stichting Omschrijving: Betaling m2305174282: Casio LA680WEA Gouden Dameshorloge - Marktplaats IBAN: NL56RABO0347848516 Kenmerk: tra-bcfc9737ccfe Datum/Tijd: 09-09-2025 05:21:33 Valutadatum: 09-09-2025",
+    "counterparty": "Online Payment Stichting",
+    "amount": 30.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Hr J Schut, Mw B Schut-Boekelman Naam: Hr J Schut, Mw B Schut-Boekelman Omschrijving: Snackbar IBAN: NL57INGB0004961708 Valutadatum: 13-09-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman",
+    "amount": 24.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-16",
+    "description": "Just In Dev B.V. Naam: Just In Dev B.V. Omschrijving: Salaris 2025-9 IBAN: NL13KNAB0776140418 Datum/Tijd: 16-09-2025 19:04:58 Valutadatum: 16-09-2025",
+    "counterparty": "Just In Dev B.V.",
+    "amount": 5217.05,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-09-17",
+    "description": "L LOSWIJK Naam: L LOSWIJK Omschrijving: Betaling van L LOSWIJK NL26ABNA0531251438 Houtskool IBAN: NL26ABNA0531251438 Kenmerk: 17-09-2025 10:51 7051366332092039 Valutadatum: 17-09-2025",
+    "counterparty": "L LOSWIJK",
+    "amount": 25.67,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-18",
+    "description": "P. Lek eo S.M.M. Lek-Hertogs Naam: P. Lek eo S.M.M. Lek-Hertogs Omschrijving: voor de kids IBAN: NL42RABO0354141740 Datum/Tijd: 18-09-2025 20:39:40 Valutadatum: 18-09-2025",
+    "counterparty": "P. Lek eo S.M.M. Lek-Hertogs",
+    "amount": 100.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-19",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Vinted IBAN: NL83INGB0665811667 Datum/Tijd: 19-09-2025 22:22:11 Valutadatum: 19-09-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 90.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-22",
+    "description": "Stichting Dijklander Zie Naam: Stichting Dijklander Zie Omschrijving: Salaris September IBAN: NL97RABO0117262676 Kenmerk: 3496029CC26C4528B033986915ECFDEF Valutadatum: 22-09-2025",
+    "counterparty": "Stichting Dijklander Zie",
+    "amount": 2401.63,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-09-22",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: MAAND OKT. NR. 204823110T500014 VOORSCHOT KIT/Kgb 2025 (SCHUT ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX186611786202509171020230764799 Valutadatum: 22-09-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 279.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-22",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: MAAND OKT. NR. 205232425T500001 VOORSCHOT KINDEROPVANG 2025 (LEK ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX913205119202509171030135120401 Valutadatum: 22-09-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 555.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-22",
+    "description": "    ",
+    "counterparty": "Mw K Schut, Hr J Lek",
+    "amount": 3300.0,
+    "account": "Rabobank",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "STICHTING MOLLIE PAYMENTS Naam: STICHTING MOLLIE PAYMENTS Omschrijving: Klarna IBAN: NL95DEUT0265262348 Kenmerk: RE14787451674 Valutadatum: 29-09-2025",
+    "counterparty": "STICHTING MOLLIE PAYMENTS",
+    "amount": 165.55,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "STEFAN VERHEUL Naam: STEFAN VERHEUL Omschrijving: Betaling van STEFAN VERHEUL NL56ABNA0543135047 Mannenweekend IBAN: NL56ABNA0543135047 Kenmerk: 30-09-2025 14:21 7051734819693297 Valutadatum: 30-09-2025",
+    "counterparty": "STEFAN VERHEUL",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Mannenweekend IBAN: NL83INGB0665811667 Valutadatum: 30-09-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Vakantie dingen IBAN: NL83INGB0665811667 Valutadatum: 30-09-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 260.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "MW S Voogt Naam: MW S Voogt Omschrijving: Betaling van MW S Voogt NL85INGB0008729072 Boodschappen IBAN: NL85INGB0008729072 Kenmerk: 01-10-2025 11:35 7051654837720996 Valutadatum: 01-10-2025",
+    "counterparty": "MW S Voogt",
+    "amount": 66.36,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-01",
+    "description": "Sociale Verzekeringsbank Naam: Sociale Verzekeringsbank Omschrijving: KINDERBIJSLAG 3e kwart. 25 PC20891630 WWW.SVB.NL Sociale Verzekeringsbank IBAN: NL16RABO0317347780 Kenmerk: PC2089163010022025092601 Valutadatum: 01-10-2025",
+    "counterparty": "Sociale Verzekeringsbank",
+    "amount": 582.98,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "Mw MMB Klein Naam: Mw MMB Klein Omschrijving: Nestje IBAN: NL91INGB0005162468 Valutadatum: 02-10-2025",
+    "counterparty": "Mw MMB Klein",
+    "amount": 30.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "TIM VELLEMA Naam: TIM VELLEMA Omschrijving: Betaling van TIM VELLEMA NL66ABNA0628274483 Mannenweekend IBAN: NL66ABNA0628274483 Kenmerk: 02-10-2025 07:54 7051064510569385 Valutadatum: 02-10-2025",
+    "counterparty": "TIM VELLEMA",
+    "amount": 50.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-05",
+    "description": "Online Payment Stichting Naam: Online Payment Stichting Omschrijving: Betaling m2305178733: Buddha to Buddha Nathalie Small Armband Zilver - Marktplaats IBAN: NL56RABO0347848516 Kenmerk: tra-3b74725edc0d Datum/Tijd: 05-10-2025 18:01:15 Valutadatum: 05-10-2025",
+    "counterparty": "Online Payment Stichting",
+    "amount": 85.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "SAMMELKARTENMARKT GMBH + CO. KG Naam: SAMMELKARTENMARKT GMBH + CO. KG Omschrijving: CARDMARKET.COM WITHDRAWAL USER JUSTINLEK IBAN: DE80100400000107541500 Kenmerk: 992855770-WITH6999916 Valutadatum: 07-10-2025",
+    "counterparty": "SAMMELKARTENMARKT GMBH + CO. KG",
+    "amount": 35.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-07",
+    "description": "MATTHIJS KUIPERS Naam: MATTHIJS KUIPERS Omschrijving: Betaling van MATTHIJS KUIPERS NL02ABNA0447815962 Yanmega ex IBAN: NL02ABNA0447815962 Kenmerk: 07-10-2025 08:42 7051125428403632 Valutadatum: 07-10-2025",
+    "counterparty": "MATTHIJS KUIPERS",
+    "amount": 4.4,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-09",
+    "description": "9717ASR Hotspot UTRECHT NLD Pasvolgnr: 900 08-10-2025 14:57 Transactie: B45861 Term: 2T6N9V Retourpintransactie Valutadatum: 09-10-2025",
+    "counterparty": "9717ASR Hotspot UTRECHT NLD",
+    "amount": 1.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-12",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: CCVMister Chi B.V. IBAN: NL83INGB0665811667 Valutadatum: 12-10-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 97.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-17",
+    "description": "Hr JJ Bouva Naam: Hr JJ Bouva Omschrijving: Mw V Pomaro-Santi,Hr O Santi IBAN: NL28INGB0003550977 Valutadatum: 17-10-2025",
+    "counterparty": "Hr JJ Bouva",
+    "amount": 10.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-17",
+    "description": "FBTO Afhandeling zorgkostennota's Ons kenmerk 520978681-2500003   ",
+    "counterparty": "FBTO ZORGVERZEKERINGEN NV",
+    "amount": 115.92,
+    "account": "Rabobank",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-19",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Ajax IBAN: NL83INGB0665811667 Valutadatum: 19-10-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 19.75,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-20",
+    "description": "Hr J Schut, Mw B Schut-Boekelman Naam: Hr J Schut, Mw B Schut-Boekelman Omschrijving: Ajax IBAN: NL57INGB0004961708 Valutadatum: 20-10-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman",
+    "amount": 19.75,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-20",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: MAAND NOV. NR. 205232425T500381 VOORSCHOT KINDEROPVANG 2025 (LEK ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX742147704202510151030184988071 Valutadatum: 20-10-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 18.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-22",
+    "description": "Stichting Dijklander Ziekenhuis Naam: Stichting Dijklander Ziekenhuis Omschrijving: Salaris Oktober IBAN: NL97RABO0117262676 Kenmerk: D37A1E0EF2494D3E855B4BB113958D4F Valutadatum: 22-10-2025",
+    "counterparty": "Stichting Dijklander Ziekenhuis",
+    "amount": 2399.59,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-10-23",
+    "description": "Just In Dev B.V. Naam: Just In Dev B.V. Omschrijving: Salaris 2025-10 IBAN: NL13KNAB0776140418 Datum/Tijd: 23-10-2025 11:00:09 Valutadatum: 23-10-2025",
+    "counterparty": "Just In Dev B.V.",
+    "amount": 5217.05,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-10-23",
+    "description": "Vaste lasten   ",
+    "counterparty": "Mw K Schut, Hr J Lek",
+    "amount": 3300.0,
+    "account": "Rabobank",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-24",
+    "description": "A FLEMINKS Naam: A FLEMINKS Omschrijving: Betaling van A FLEMINKS NL78ABNA0533249090 Tasje verjaardag kiek IBAN: NL78ABNA0533249090 Kenmerk: 24-10-2025 07:13 7051374188933232 Valutadatum: 24-10-2025",
+    "counterparty": "A FLEMINKS",
+    "amount": 69.99,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-24",
+    "description": "Hr J Schut, Mw B Schut-Boekelman Naam: Hr J Schut, Mw B Schut-Boekelman Omschrijving: Broek asos IBAN: NL57INGB0004961708 Valutadatum: 24-10-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman",
+    "amount": 45.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "Mw DE Dekker,Hr NT Koopmann Naam: Mw DE Dekker,Hr NT Koopmann Omschrijving: Betaling van Mw DE Dekker,Hr NT Koopmann NL97INGB0748898026 Lexy IBAN: NL97INGB0748898026 Kenmerk: 27-10-2025 18:51 7051835682863488 Valutadatum: 27-10-2025",
+    "counterparty": "Mw DE Dekker,Hr NT Koopmann",
+    "amount": 20.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "Mw SW Dekker Naam: Mw SW Dekker Omschrijving: Lexy IBAN: NL16INGB0754473589 Valutadatum: 27-10-2025",
+    "counterparty": "Mw SW Dekker",
+    "amount": 20.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "9717ASR Hotspot UTRECHT NLD Pasvolgnr: 900 27-10-2025 14:32 Transactie: B43486 Term: 2T6N9V Retourpintransactie Valutadatum: 28-10-2025",
+    "counterparty": "9717ASR Hotspot UTRECHT NLD",
+    "amount": 2.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-10-30",
+    "description": "Mw K Vriens Naam: Mw K Vriens Omschrijving: Lexy IBAN: NL26INGB0009389346 Valutadatum: 30-10-2025",
+    "counterparty": "Mw K Vriens",
+    "amount": 20.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-02",
+    "description": "AGELESS LIFE BV Naam: AGELESS LIFE BV Omschrijving: Betaling van AGELESS LIFE BV NL06ABNA0545701597 Lexy IBAN: NL06ABNA0545701597 Kenmerk: 02-11-2025 08:55 7051636003665224 Valutadatum: 02-11-2025",
+    "counterparty": "AGELESS LIFE BV",
+    "amount": 20.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-04",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Ik had een puzzel verkocht van je IBAN: NL83INGB0665811667 Datum/Tijd: 04-11-2025 14:09:47 Valutadatum: 04-11-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 6.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-05",
+    "description": "Hr J Schut, Mw B Schut-Boekelman Naam: Hr J Schut, Mw B Schut-Boekelman Omschrijving: Tui Nederland NV via Worldline NVSA IBAN: NL57INGB0004961708 Valutadatum: 05-11-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman",
+    "amount": 84.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-06",
+    "description": "SAMMELKARTENMARKT GMBH + CO Naam: SAMMELKARTENMARKT GMBH + CO Omschrijving: CARDMARKET.COM WITHDRAWAL ........ USER JUSTINLEK IBAN: DE80100400000107541500 Kenmerk: 992855770-WITH7097519 Valutadatum: 06-11-2025",
+    "counterparty": "SAMMELKARTENMARKT GMBH + CO",
+    "amount": 60.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-12",
+    "description": "Online Payment Stichting Naam: Online Payment Stichting Omschrijving: Refund for trab399485c37fc - Online Payments Foundation IBAN: NL56RABO0347848516 Kenmerk: ref-ff7e82fcff86 Datum/Tijd: 12-11-2025 14:13:36 Valutadatum: 12-11-2025",
+    "counterparty": "Online Payment Stichting",
+    "amount": 3.95,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-12",
+    "description": "Online Payment Stichting Naam: Online Payment Stichting Omschrijving: Refund for trabd4414e336bf - Online Payments Foundation IBAN: NL56RABO0347848516 Kenmerk: ref-37f9da1a70a4 Datum/Tijd: 12-11-2025 14:13:35 Valutadatum: 12-11-2025",
+    "counterparty": "Online Payment Stichting",
+    "amount": 10.99,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "P. Lek eo S.M.M. Lek-Hertogs Naam: P. Lek eo S.M.M. Lek-Hertogs Omschrijving: Betaling van P. Lek eo S.M.M. Lek-Hertogs NL42RABO0354141740 De Keet IBAN: NL42RABO0354141740 Kenmerk: 16-11-2025 16:09 7051595991352051 Valutadatum: 16-11-2025",
+    "counterparty": "P. Lek eo S.M.M. Lek-Hertogs",
+    "amount": 60.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Fooi IBAN: NL83INGB0665811667 Datum/Tijd: 16-11-2025 16:46:11 Valutadatum: 16-11-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 1.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "GROEN VAN STRAATEN A CJ Naam: GROEN VAN STRAATEN A CJ Omschrijving: Betaling van GROEN VAN STRAATEN A CJ NL88ABNA0826719597 De Keet IBAN: NL88ABNA0826719597 Kenmerk: 16-11-2025 15:42 7051116303113482 Valutadatum: 16-11-2025",
+    "counterparty": "GROEN VAN STRAATEN A CJ",
+    "amount": 30.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "Hr JJ Bouva Naam: Hr JJ Bouva Omschrijving: De Keet IBAN: NL28INGB0003550977 Valutadatum: 16-11-2025",
+    "counterparty": "Hr JJ Bouva",
+    "amount": 36.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-16",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: 2 biertjes, 1 rode wijn en de appelsap van je neefje IBAN: NL83INGB0665811667 Datum/Tijd: 16-11-2025 16:41:37 Valutadatum: 16-11-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 21.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-17",
+    "description": "Hr J Schut, Mw B Schut-Boekelman Naam: Hr J Schut, Mw B Schut-Boekelman Omschrijving: De Keet IBAN: NL57INGB0004961708 Valutadatum: 17-11-2025",
+    "counterparty": "Hr J Schut, Mw B Schut-Boekelman",
+    "amount": 53.5,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-20",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Pokemon kaarten IBAN: NL83INGB0665811667 Valutadatum: 20-11-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 25.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-20",
+    "description": "BELASTINGDIENST Naam: BELASTINGDIENST Omschrijving: MAAND DEC. NR. 205232425T500381 VOORSCHOT KINDEROPVANG 2025 (LEK ) MEER INFO OP WWW.TOESLAGEN.NL IBAN: NL86INGB0002445588 Kenmerk: COAXX291908970202511171030122124463 Valutadatum: 20-11-2025",
+    "counterparty": "BELASTINGDIENST",
+    "amount": 19.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-21",
+    "description": "G.C.M. Schipper Naam: G.C.M. Schipper Omschrijving: Betaling van G.C.M. Schipper NL61RABO0371656591 Pokemon kaarten IBAN: NL61RABO0371656591 Kenmerk: 21-11-2025 08:04 7051694799947258 Valutadatum: 21-11-2025",
+    "counterparty": "G.C.M. Schipper",
+    "amount": 80.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-21",
+    "description": "Just In Dev B.V. Naam: Just In Dev B.V. Omschrijving: Salaris 2025-11 IBAN: NL13KNAB0776140418 Datum/Tijd: 21-11-2025 09:01:27 Valutadatum: 21-11-2025",
+    "counterparty": "Just In Dev B.V.",
+    "amount": 5217.05,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-11-21",
+    "description": "Stichting Dijklander Ziekenhuis Naam: Stichting Dijklander Ziekenhuis Omschrijving: Salaris November IBAN: NL97RABO0117262676 Kenmerk: 29311565415E440FB1B71974E86F6228 Valutadatum: 21-11-2025",
+    "counterparty": "Stichting Dijklander Ziekenhuis",
+    "amount": 2461.47,
+    "account": "ING",
+    "subcategory": "Salaris"
+  },
+  {
+    "date": "2025-11-21",
+    "description": "Vaste lasten   ",
+    "counterparty": "Mw K Schut, Hr J Lek",
+    "amount": 3300.0,
+    "account": "Rabobank",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-24",
+    "description": "Hr SL Groen,Mw KT Groen-Schut Naam: Hr SL Groen,Mw KT Groen-Schut Omschrijving: Taart IBAN: NL83INGB0665811667 Valutadatum: 24-11-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut",
+    "amount": 37.1,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  },
+  {
+    "date": "2025-11-25",
+    "description": "Hr JJ Bouva Naam: Hr JJ Bouva Omschrijving: Pokemon IBAN: NL28INGB0003550977 Valutadatum: 25-11-2025",
+    "counterparty": "Hr JJ Bouva",
+    "amount": 65.0,
+    "account": "ING",
+    "subcategory": "Overige inkomsten"
+  }
+]

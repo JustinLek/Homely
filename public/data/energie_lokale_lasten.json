@@ -1,0 +1,634 @@
+[
+  {
+    "date": "2025-05-01",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 01-05-2025 09:08 Transactie: W00663 Term: 894PNY Apple Pay Valutadatum: 01-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-01",
+    "description": "CCV*TwiskeWaterland LANDSMEER Pasvolgnr: 901 30-04-2025 17:03 Transactie: P00662 Term: CT497971 Apple Pay Valutadatum: 01-05-2025",
+    "counterparty": "CCV*TwiskeWaterland LANDSMEER",
+    "amount": -3.5,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-02",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 02-05-2025 08:30 Transactie: P00666 Term: 894PNY Apple Pay Valutadatum: 02-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-02",
+    "description": "Relatienr: 1383687, 1448 PE, 61, Drinkwaterfactuur: 522515758, Periode: apr 2024 t/m apr 2025, BTW: 9.43   ",
+    "counterparty": "Nv Pwn Waterleidingbedrijf Noord Holland",
+    "amount": -114.26,
+    "account": "Rabobank",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-06",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 06-05-2025 08:26 Transactie: W00673 Term: 894PNY Apple Pay Valutadatum: 06-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-08",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 08-05-2025 08:56 Transactie: D00654 Term: 894PNY Apple Pay Valutadatum: 08-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-09",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 09-05-2025 08:26 Transactie: D00655 Term: 894PNY Apple Pay Valutadatum: 09-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-13",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 13-05-2025 08:35 Transactie: P00693 Term: 894PNY Apple Pay Valutadatum: 13-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-16",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 16-05-2025 09:07 Transactie: P00698 Term: 894PNY Apple Pay Valutadatum: 16-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-20",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 20-05-2025 09:01 Transactie: W00709 Term: 894PNY Apple Pay Valutadatum: 20-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 22-05-2025 08:56 Transactie: W00714 Term: 894PNY Apple Pay Valutadatum: 22-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-23",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 23-05-2025 09:19 Transactie: D00676 Term: 894PNY Apple Pay Valutadatum: 23-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-26",
+    "description": "2425254022   ",
+    "counterparty": "Tibber Netherlands B.V.",
+    "amount": -104.99,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-05-27",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 27-05-2025 09:23 Transactie: W00720 Term: 894PNY Apple Pay Valutadatum: 27-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-05-27",
+    "description": "Klant SVP041112 Factuur FD25164119 periode 1-5-2025 - 1-6-2025  Stadsverwarming Purmerend   ",
+    "counterparty": "SVP DISTRIBUTIE   LEVERING BV",
+    "amount": -187.94,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-05-28",
+    "description": "Autom.Incasso 28-05-2025, biljetnr 7176495subjectnr 318183, Gemeentelijke Belastingen 2025 run 1 2025   ",
+    "counterparty": "Gemeente Purmerend",
+    "amount": -99.85,
+    "account": "Rabobank",
+    "subcategory": "Onroerende zaakbelasting"
+  },
+  {
+    "date": "2025-05-28",
+    "description": "Waterschapsbelasting Termijn 1 van 10 Vervaldatum 31 mei 2025 Kenmerk 60811758 Aanslagjaar 2025   ",
+    "counterparty": "Hoogheemraadschap Hollands Noorderkwartier",
+    "amount": -65.97,
+    "account": "Rabobank",
+    "subcategory": "Waterschapslasten"
+  },
+  {
+    "date": "2025-05-30",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 30-05-2025 09:17 Transactie: D00683 Term: 894PNY Apple Pay Valutadatum: 30-05-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-06-10",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 10-06-2025 08:54 Transactie: W00746 Term: 894PNY Apple Pay Valutadatum: 10-06-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-06-12",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 12-06-2025 08:48 Transactie: W00752 Term: 894PNY Apple Pay Valutadatum: 12-06-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-06-17",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 17-06-2025 09:07 Transactie: W00760 Term: 894PNY Apple Pay Valutadatum: 17-06-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-06-20",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 20-06-2025 08:41 Transactie: P00763 Term: 894PNY Apple Pay Valutadatum: 20-06-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-06-23",
+    "description": "Relatienr: 1383687, 1448 PE, 61, Termijnfactuur: 247262777, Periode: 08 jun t/m 07 jul, BTW: 4.54   ",
+    "counterparty": "Nv Pwn Waterleidingbedrijf Noord Holland",
+    "amount": -55.0,
+    "account": "Rabobank",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-06-24",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 24-06-2025 08:01 Transactie: C00722 Term: 894PNY Apple Pay Valutadatum: 24-06-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-06-25",
+    "description": "2425254535   ",
+    "counterparty": "Tibber Netherlands B.V.",
+    "amount": -103.05,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 27-06-2025 08:37 Transactie: W00772 Term: 894PNY Apple Pay Valutadatum: 27-06-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "FD25191207   ",
+    "counterparty": "SVP DISTRIBUTIE   LEVERING BV",
+    "amount": -187.94,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "Autom.Incasso 27-06-2025, biljetnr 7176495subjectnr 318183, Gemeentelijke Belastingen 2025 run 1 2025   ",
+    "counterparty": "Gemeente Purmerend",
+    "amount": -99.85,
+    "account": "Rabobank",
+    "subcategory": "Onroerende zaakbelasting"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "Waterschapsbelasting Termijn 2 van 10 Vervaldatum 30 jun 2025 Kenmerk 60811758 Aanslagjaar 2025   ",
+    "counterparty": "Hoogheemraadschap Hollands Noorderkwartier",
+    "amount": -65.96,
+    "account": "Rabobank",
+    "subcategory": "Waterschapslasten"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 01-07-2025 08:50 Transactie: W00777 Term: 894PNY Apple Pay Valutadatum: 01-07-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-03",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 03-07-2025 08:46 Transactie: C00743 Term: 894PNY Apple Pay Valutadatum: 03-07-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-04",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 04-07-2025 08:27 Transactie: D00751 Term: 894PNY Apple Pay Valutadatum: 04-07-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-09",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 08-07-2025 13:06 Transactie: D00758 Term: 894PNY Apple Pay Valutadatum: 09-07-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -1.85,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-11",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 11-07-2025 09:01 Transactie: W00789 Term: 894PNY Apple Pay Valutadatum: 11-07-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-15",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 15-07-2025 08:51 Transactie: C00765 Term: 894PNY Apple Pay Valutadatum: 15-07-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-17",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 17-07-2025 08:49 Transactie: W00799 Term: 894PNY Apple Pay Valutadatum: 17-07-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -16.45,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-19",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 18-07-2025 14:22 Transactie: W00803 Term: 894PNY Apple Pay Valutadatum: 19-07-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-20",
+    "description": "CCV*TwiskeWaterland LANDSMEER Pasvolgnr: 900 19-07-2025 11:41 Transactie: P00805 Term: CT497971 Apple Pay Valutadatum: 20-07-2025",
+    "counterparty": "CCV*TwiskeWaterland LANDSMEER",
+    "amount": -3.5,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-23",
+    "description": "Relatienr: 1383687, 1448 PE, 61, Termijnfactuur: 251452634, Periode: 08 jul t/m 07 aug, BTW: 4.54   ",
+    "counterparty": "Nv Pwn Waterleidingbedrijf Noord Holland",
+    "amount": -55.0,
+    "account": "Rabobank",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-07-25",
+    "description": "2425254089   ",
+    "counterparty": "Tibber Netherlands B.V.",
+    "amount": -123.28,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "FD25228057 / Klant SVP041112 Factuur FD25228057 periode 1-7-2025 - 1-8-2025 SVP   ",
+    "counterparty": "SVP DISTRIBUTIE   LEVERING BV",
+    "amount": -187.94,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "Waterschapsbelasting Termijn 3 van 10 Vervaldatum 31 jul 2025 Kenmerk 60811758 Aanslagjaar 2025   ",
+    "counterparty": "Hoogheemraadschap Hollands Noorderkwartier",
+    "amount": -65.97,
+    "account": "Rabobank",
+    "subcategory": "Waterschapslasten"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "Autom.Incasso 28-07-2025, biljetnr 7176495subjectnr 318183, Gemeentelijke Belastingen 2025 run 1 2025   ",
+    "counterparty": "Gemeente Purmerend",
+    "amount": -99.86,
+    "account": "Rabobank",
+    "subcategory": "Onroerende zaakbelasting"
+  },
+  {
+    "date": "2025-08-04",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 04-08-2025 11:16 Transactie: W00836 Term: 894PNY Apple Pay Valutadatum: 04-08-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -7.71,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-08-05",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 05-08-2025 08:45 Transactie: P00838 Term: 894PNY Apple Pay Valutadatum: 05-08-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-08-12",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 12-08-2025 10:49 Transactie: D00810 Term: 894PNY Apple Pay Valutadatum: 12-08-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-08-14",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 14-08-2025 08:48 Transactie: P00860 Term: 894PNY Apple Pay Valutadatum: 14-08-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-08-19",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 19-08-2025 08:05 Transactie: C00823 Term: 894PNY Apple Pay Valutadatum: 19-08-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-08-22",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 22-08-2025 08:22 Transactie: D00825 Term: 894PNY Apple Pay Valutadatum: 22-08-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-08-25",
+    "description": "2425254485   ",
+    "counterparty": "Tibber Netherlands B.V.",
+    "amount": -169.7,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-08-25",
+    "description": "Relatienr: 1383687, 1448 PE, 61, Termijnfactuur: 295881116, Periode: 08 aug t/m 07 sep, BTW: 4.54   ",
+    "counterparty": "Nv Pwn Waterleidingbedrijf Noord Holland",
+    "amount": -55.0,
+    "account": "Rabobank",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-08-26",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 26-08-2025 09:04 Transactie: C00832 Term: 894PNY Apple Pay Valutadatum: 26-08-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-08-27",
+    "description": "FD25253909 / Klant SVP041112 Factuur FD25253909 periode 1-8-2025 - 1-9-2025 SVP   ",
+    "counterparty": "SVP DISTRIBUTIE   LEVERING BV",
+    "amount": -187.94,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-08-28",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 28-08-2025 08:22 Transactie: C00836 Term: 894PNY Apple Pay Valutadatum: 28-08-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-08-28",
+    "description": "Waterschapsbelasting Termijn 4 van 10 Vervaldatum 31 aug 2025 Kenmerk 60811758 Aanslagjaar 2025   ",
+    "counterparty": "Hoogheemraadschap Hollands Noorderkwartier",
+    "amount": -65.96,
+    "account": "Rabobank",
+    "subcategory": "Waterschapslasten"
+  },
+  {
+    "date": "2025-08-28",
+    "description": "Autom.Incasso 28-08-2025, biljetnr 7176495subjectnr 318183, Gemeentelijke Belastingen 2025 run 1 2025   ",
+    "counterparty": "Gemeente Purmerend",
+    "amount": -99.86,
+    "account": "Rabobank",
+    "subcategory": "Onroerende zaakbelasting"
+  },
+  {
+    "date": "2025-08-29",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 29-08-2025 08:05 Transactie: P00887 Term: 894PNY Apple Pay Valutadatum: 29-08-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-09-02",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 02-09-2025 08:42 Transactie: D00847 Term: 894PNY Apple Pay Valutadatum: 02-09-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-09-12",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 12-09-2025 10:56 Transactie: C00862 Term: 894PNY Apple Pay Valutadatum: 12-09-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.47,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-09-16",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 16-09-2025 09:23 Transactie: C00874 Term: 894PNY Apple Pay Valutadatum: 16-09-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-09-16",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 16-09-2025 09:20 Transactie: C00873 Term: 894PNY Apple Pay Valutadatum: 16-09-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-09-17",
+    "description": "CCV*Gemeente Purmerend PURMEREND Pasvolgnr: 900 16-09-2025 12:52 Transactie: C00877 Term: CT695764 Apple Pay Valutadatum: 17-09-2025",
+    "counterparty": "CCV*Gemeente Purmerend PURMEREND",
+    "amount": -1.08,
+    "account": "ING",
+    "subcategory": "Onroerende zaakbelasting"
+  },
+  {
+    "date": "2025-09-19",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 19-09-2025 08:30 Transactie: D00885 Term: 894PNY Apple Pay Valutadatum: 19-09-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-09-23",
+    "description": "Relatienr: 1383687, 1448 PE, 61, Termijnfactuur: 291184778, Periode: 08 sep t/m 07 okt, BTW: 4.54   ",
+    "counterparty": "Nv Pwn Waterleidingbedrijf Noord Holland",
+    "amount": -55.0,
+    "account": "Rabobank",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-09-25",
+    "description": "2425254592   ",
+    "counterparty": "Tibber Netherlands B.V.",
+    "amount": -142.67,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "Autom.Incasso 29-09-2025, biljetnr 7176495subjectnr 318183, Gemeentelijke Belastingen 2025 run 1 2025   ",
+    "counterparty": "Gemeente Purmerend",
+    "amount": -99.86,
+    "account": "Rabobank",
+    "subcategory": "Onroerende zaakbelasting"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "FD25284672 / Klant SVP041112 Factuur FD25284672 periode 1-9-2025 - 1-10-2025 SVP   ",
+    "counterparty": "SVP DISTRIBUTIE   LEVERING BV",
+    "amount": -187.94,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-09-29",
+    "description": "Waterschapsbelasting Termijn 5 van 10 Vervaldatum 30 sep 2025 Kenmerk 60811758 Aanslagjaar 2025   ",
+    "counterparty": "Hoogheemraadschap Hollands Noorderkwartier",
+    "amount": -65.97,
+    "account": "Rabobank",
+    "subcategory": "Waterschapslasten"
+  },
+  {
+    "date": "2025-10-14",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 14-10-2025 08:56 Transactie: D00923 Term: 894PNY Apple Pay Valutadatum: 14-10-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.35,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-10-16",
+    "description": "Waterland Purmerend PURMEREND Pasvolgnr: 901 16-10-2025 08:54 Transactie: P00972 Term: 894PNY Apple Pay Valutadatum: 16-10-2025",
+    "counterparty": "Waterland Purmerend PURMEREND",
+    "amount": -2.25,
+    "account": "ING",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-10-23",
+    "description": "Relatienr: 1383687, 1448 PE, 61, Termijnfactuur: 251625382, Periode: 08 okt t/m 07 nov, BTW: 4.54   ",
+    "counterparty": "Nv Pwn Waterleidingbedrijf Noord Holland",
+    "amount": -55.0,
+    "account": "Rabobank",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "FD25314680 / Klant SVP041112 Factuur FD25314680 periode 1-10-2025 - 1-11-2025 SVP   ",
+    "counterparty": "SVP DISTRIBUTIE   LEVERING BV",
+    "amount": -187.94,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-10-27",
+    "description": "2425254485   ",
+    "counterparty": "Tibber Netherlands B.V.",
+    "amount": -103.34,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "Waterschapsbelasting Termijn 6 van 10 Vervaldatum 31 okt 2025 Kenmerk 60811758 Aanslagjaar 2025   ",
+    "counterparty": "Hoogheemraadschap Hollands Noorderkwartier",
+    "amount": -65.96,
+    "account": "Rabobank",
+    "subcategory": "Waterschapslasten"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "Autom.Incasso 28-10-2025, biljetnr 7176495subjectnr 318183, Gemeentelijke Belastingen 2025 run 1 2025   ",
+    "counterparty": "Gemeente Purmerend",
+    "amount": -99.86,
+    "account": "Rabobank",
+    "subcategory": "Onroerende zaakbelasting"
+  },
+  {
+    "date": "2025-11-24",
+    "description": "Relatienr: 1383687, 1448 PE, 61, Termijnfactuur: 256359382, Periode: 08 nov t/m 07 dec, BTW: 4.54   ",
+    "counterparty": "Nv Pwn Waterleidingbedrijf Noord Holland",
+    "amount": -55.0,
+    "account": "Rabobank",
+    "subcategory": "Water"
+  },
+  {
+    "date": "2025-11-27",
+    "description": "FD25343663 / Klant SVP041112 Factuur FD25343663 periode 1-11-2025 - 1-12-2025 SVP   ",
+    "counterparty": "SVP DISTRIBUTIE   LEVERING BV",
+    "amount": -187.94,
+    "account": "Rabobank",
+    "subcategory": "Gas / Elektriciteit"
+  },
+  {
+    "date": "2025-11-28",
+    "description": "Autom.Incasso 28-11-2025, biljetnr 7176495subjectnr 318183, Gemeentelijke Belastingen 2025 run 1 2025   ",
+    "counterparty": "Gemeente Purmerend",
+    "amount": -99.86,
+    "account": "Rabobank",
+    "subcategory": "Onroerende zaakbelasting"
+  },
+  {
+    "date": "2025-11-28",
+    "description": "Waterschapsbelasting Termijn 7 van 10 Vervaldatum 30 nov 2025 Kenmerk 60811758 Aanslagjaar 2025   ",
+    "counterparty": "Hoogheemraadschap Hollands Noorderkwartier",
+    "amount": -65.97,
+    "account": "Rabobank",
+    "subcategory": "Waterschapslasten"
+  }
+]

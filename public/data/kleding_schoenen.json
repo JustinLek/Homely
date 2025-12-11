@@ -1,0 +1,314 @@
+[
+  {
+    "date": "2025-05-04",
+    "description": "HEMA EV2341 Amsterdam AMSTERDAM Pasvolgnr: 901 03-05-2025 10:12 Transactie: D00643 Term: CT886476 Apple Pay Valutadatum: 04-05-2025",
+    "counterparty": "HEMA EV2341 Amsterdam AMSTERDAM",
+    "amount": -26.72,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-05-04",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 901 03-05-2025 14:15 Transactie: W00667 Term: MF2902 Apple Pay Valutadatum: 04-05-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -2.0,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-05-04",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 901 03-05-2025 14:21 Transactie: D00644 Term: MF2908 Apple Pay Valutadatum: 04-05-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -11.99,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-05-04",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 901 03-05-2025 14:22 Transactie: C00645 Term: MF2901 Apple Pay Valutadatum: 04-05-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -5.97,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-05-04",
+    "description": "NL0142  H&M PURMEREND NLD Pasvolgnr: 901 03-05-2025 15:03 Transactie: P00668 Term: 5R9ZK9 Apple Pay Valutadatum: 04-05-2025",
+    "counterparty": "NL0142  H&M PURMEREND NLD",
+    "amount": -5.99,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-05-06",
+    "description": "Zara.com Naam: Zara.com Omschrijving: TVTQNLZC3GPMMQF62K5B3 7180086342006739 54172085612 IBAN: NL04ADYB2017400157 Kenmerk: 06-05-2025 16:29 7180086342006739 Valutadatum: 06-05-2025",
+    "counterparty": "Zara.com",
+    "amount": -95.9,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-05-08",
+    "description": "ZEEMAN PURMEREND WC WE PURMEREND Pasvolgnr: 901 07-05-2025 11:20 Transactie: D00650 Term: 00002073 Apple Pay Valutadatum: 08-05-2025",
+    "counterparty": "ZEEMAN PURMEREND WC WE PURMEREND",
+    "amount": -6.99,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-05-08",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 900 07-05-2025 15:26 Transactie: W00676 Term: MF2905 Apple Pay Valutadatum: 08-05-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -20.97,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-05-13",
+    "description": "ZEEMAN PURMEREND WC WE PURMEREND Pasvolgnr: 901 12-05-2025 10:15 Transactie: W00688 Term: 00002073 Apple Pay Valutadatum: 13-05-2025",
+    "counterparty": "ZEEMAN PURMEREND WC WE PURMEREND",
+    "amount": -18.95,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-05-18",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 900 17-05-2025 12:54 Transactie: C00662 Term: MF2901 Apple Pay Valutadatum: 18-05-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -12.27,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-06-15",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 901 14-06-2025 14:05 Transactie: D00699 Term: MF2908 Apple Pay Valutadatum: 15-06-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -13.99,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-06-18",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 901 18-06-2025 11:05 Transactie: D00709 Term: MF2905 Apple Pay Valutadatum: 18-06-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -48.98,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-06-18",
+    "description": "NL0142  H&M PURMEREND NLD Pasvolgnr: 901 18-06-2025 10:46 Transactie: D00708 Term: 097G2Y Apple Pay Valutadatum: 18-06-2025",
+    "counterparty": "NL0142  H&M PURMEREND NLD",
+    "amount": -90.95,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-06-24",
+    "description": "ZEEMAN PURMEREND WC WE PURMEREND Pasvolgnr: 901 23-06-2025 14:17 Transactie: P00767 Term: 00002073 Apple Pay Valutadatum: 24-06-2025",
+    "counterparty": "ZEEMAN PURMEREND WC WE PURMEREND",
+    "amount": -15.45,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-06-28",
+    "description": "NL0142  H&M PURMEREND NLD Pasvolgnr: 901 28-06-2025 11:51 Transactie: C00728 Term: 5LG96N Apple Pay Valutadatum: 28-06-2025",
+    "counterparty": "NL0142  H&M PURMEREND NLD",
+    "amount": -45.97,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-06-28",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 900 28-06-2025 11:54 Transactie: D00729 Term: MF2901 Apple Pay Valutadatum: 28-06-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -2.99,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-06-29",
+    "description": "HEMA Naam: HEMA Omschrijving: RD6JWV9FX4JF3RG62GK02 7180636346494808 975646756579 IBAN: NL04ADYB2017400157 Kenmerk: 29-06-2025 06:54 7180636346494808 Valutadatum: 29-06-2025",
+    "counterparty": "HEMA",
+    "amount": -21.99,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "ZEEMAN PURMEREND WC WE PURMEREND Pasvolgnr: 901 30-06-2025 10:25 Transactie: D00735 Term: 00002073 Apple Pay Valutadatum: 01-07-2025",
+    "counterparty": "ZEEMAN PURMEREND WC WE PURMEREND",
+    "amount": -11.98,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "ZEEMAN PURMEREND WC WE PURMEREND Pasvolgnr: 901 30-06-2025 10:27 Transactie: C00736 Term: 00002073 Apple Pay Valutadatum: 01-07-2025",
+    "counterparty": "ZEEMAN PURMEREND WC WE PURMEREND",
+    "amount": -8.98,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-07-19",
+    "description": "HEMA Naam: HEMA Omschrijving: SM79M6NHNMR9XMG32GK02 7180526612802726 975647177612 IBAN: NL04ADYB2017400157 Kenmerk: 19-07-2025 18:48 7180526612802726 Valutadatum: 19-07-2025",
+    "counterparty": "HEMA",
+    "amount": -33.48,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-07-22",
+    "description": "Zalando Payments GmbH Naam: Zalando Payments GmbH Omschrijving: 10206185188868 8152385730703843 10206185188868 IBAN: NL29DEUT0319800040 Kenmerk: 22-07-2025 20:36 8152385730703843 Valutadatum: 22-07-2025",
+    "counterparty": "Zalando Payments GmbH",
+    "amount": -113.98,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-07-24",
+    "description": "Zalando Payments GmbH Naam: Zalando Payments GmbH Omschrijving: 10206185280963 8152916915608872 10206185280963 IBAN: NL29DEUT0319800040 Kenmerk: 24-07-2025 17:20 8152916915608872 Valutadatum: 24-07-2025",
+    "counterparty": "Zalando Payments GmbH",
+    "amount": -64.98,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-07-27",
+    "description": "HEMA EV2341 Amsterdam AMSTERDAM Pasvolgnr: 901 26-07-2025 11:37 Transactie: W00815 Term: CT886476 Apple Pay Valutadatum: 27-07-2025",
+    "counterparty": "HEMA EV2341 Amsterdam AMSTERDAM",
+    "amount": -6.99,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-08-26",
+    "description": "Zalando Payments GmbH Naam: Zalando Payments GmbH Omschrijving: 10206186661419 8152285738699335 10206186661419 IBAN: NL29DEUT0319800040 Kenmerk: 26-08-2025 11:25 8152285738699335 Valutadatum: 26-08-2025",
+    "counterparty": "Zalando Payments GmbH",
+    "amount": -1.85,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-09-04",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 901 03-09-2025 14:39 Transactie: C00849 Term: MF2911 Apple Pay Valutadatum: 04-09-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -5.98,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-09-11",
+    "description": "NL0142  H&M PURMEREND NLD Pasvolgnr: 901 10-09-2025 15:14 Transactie: C00859 Term: X5Q7R4 Apple Pay Valutadatum: 11-09-2025",
+    "counterparty": "NL0142  H&M PURMEREND NLD",
+    "amount": -48.97,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-09-14",
+    "description": "Zalando Payments GmbH Naam: Zalando Payments GmbH Omschrijving: 10206187580551 8152426932103442 10206187580551 IBAN: NL29DEUT0319800040 Kenmerk: 14-09-2025 17:22 8152426932103442 Valutadatum: 14-09-2025",
+    "counterparty": "Zalando Payments GmbH",
+    "amount": -39.12,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "NL0142  H&M PURMEREND NLD Pasvolgnr: 901 30-09-2025 10:11 Transactie: W00935 Term: 3P9S4T Apple Pay Valutadatum: 30-09-2025",
+    "counterparty": "NL0142  H&M PURMEREND NLD",
+    "amount": -26.28,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "HEMA EV070 PURMEREND PURMEREND Pasvolgnr: 901 02-10-2025 11:23 Transactie: C00904 Term: MF2908 Apple Pay Valutadatum: 02-10-2025",
+    "counterparty": "HEMA EV070 PURMEREND PURMEREND",
+    "amount": -7.99,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-10-08",
+    "description": "HEMA Naam: HEMA Omschrijving: SGSZMT7VB79GJDR92GK02 7180976625551754 975648888278 IBAN: NL04ADYB2017400157 Kenmerk: 08-10-2025 13:02 7180976625551754 Valutadatum: 08-10-2025",
+    "counterparty": "HEMA",
+    "amount": -39.98,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-10-14",
+    "description": "ZEEMAN PURMEREND WC WE PURMEREND Pasvolgnr: 901 13-10-2025 10:44 Transactie: D00921 Term: 00002073 Apple Pay Valutadatum: 14-10-2025",
+    "counterparty": "ZEEMAN PURMEREND WC WE PURMEREND",
+    "amount": -9.98,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-10-15",
+    "description": "NL0142  H&M PURMEREND NLD Pasvolgnr: 901 15-10-2025 10:32 Transactie: W00970 Term: 5QD639 Apple Pay Valutadatum: 15-10-2025",
+    "counterparty": "NL0142  H&M PURMEREND NLD",
+    "amount": -85.96,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-10-16",
+    "description": "ZEEMAN PURMEREND W EGG PURMEREND Pasvolgnr: 901 15-10-2025 10:10 Transactie: P00969 Term: 00002252 Apple Pay Valutadatum: 16-10-2025",
+    "counterparty": "ZEEMAN PURMEREND W EGG PURMEREND",
+    "amount": -35.97,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-11-20",
+    "description": "ZEEMAN PURMEREND WC WE PURMEREND Pasvolgnr: 901 19-11-2025 09:15 Transactie: P01030 Term: 00002073 Apple Pay Valutadatum: 20-11-2025",
+    "counterparty": "ZEEMAN PURMEREND WC WE PURMEREND",
+    "amount": -14.99,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-11-23",
+    "description": "Bestseller AS Naam: Bestseller AS Omschrijving: HTCMMDDWD83NFMQ92LUSP 7180245694062905 93131729074 IBAN: NL04ADYB2017400157 Kenmerk: 23-11-2025 15:37 7180245694062905 Valutadatum: 23-11-2025",
+    "counterparty": "Bestseller AS",
+    "amount": -38.94,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "Zeeman Naam: Zeeman Omschrijving: HGGXDNGC6GW8NHD32LUW2 7180734797052534 10000208366-1 IBAN: NL04ADYB2017400157 Kenmerk: 26-11-2025 10:39 7180734797052534 Valutadatum: 26-11-2025",
+    "counterparty": "Zeeman",
+    "amount": -43.43,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "HEMA Naam: HEMA Omschrijving: FNCMXF42HCPRTTW32GK02 7180005102874265 975650271555 IBAN: NL04ADYB2017400157 Kenmerk: 26-11-2025 09:35 7180005102874265 Valutadatum: 26-11-2025",
+    "counterparty": "HEMA",
+    "amount": -55.94,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-11-29",
+    "description": "kleertjes.com Naam: kleertjes.com Omschrijving: CTVCNSJ627H9WRX32LUW5 7180425408805988 kleertjes: 1c94c8b4 IBAN: NL04ADYB2017400157 Kenmerk: 29-11-2025 10:20 7180425408805988 Valutadatum: 29-11-2025",
+    "counterparty": "kleertjes.com",
+    "amount": -45.5,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  },
+  {
+    "date": "2025-11-30",
+    "description": "kleertjes.com Naam: kleertjes.com Omschrijving: T57MZ53SS3VRTTW32LUW5 7180474805982271 kleertjes: ae185a20 IBAN: NL04ADYB2017400157 Kenmerk: 30-11-2025 18:00 7180474805982271 Valutadatum: 30-11-2025",
+    "counterparty": "kleertjes.com",
+    "amount": -0.5,
+    "account": "ING",
+    "subcategory": "Kleding & schoenen"
+  }
+]

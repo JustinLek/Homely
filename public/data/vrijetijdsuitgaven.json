@@ -1,0 +1,578 @@
+[
+  {
+    "date": "2025-05-03",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 02-05-2025 12:46 Transactie: D00642 Term: MRB75M Apple Pay Valutadatum: 03-05-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-05-05",
+    "description": "ilovespeelgoed.nl Naam: ilovespeelgoed.nl Omschrijving: 2911288899Xda137 7370435744889262 101370476 IBAN: NL35RABO0117713678 Kenmerk: 05-05-2025 20:09 7370435744889262 Valutadatum: 05-05-2025",
+    "counterparty": "ilovespeelgoed.nl",
+    "amount": -37.85,
+    "account": "ING",
+    "subcategory": "Overige vrijetijdsuitgaven"
+  },
+  {
+    "date": "2025-05-13",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 13-05-2025 08:41 Transactie: W00694 Term: MRB75M Apple Pay Valutadatum: 13-05-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.1,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-05-22",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 22-05-2025 12:04 Transactie: C00675 Term: MRB75M Apple Pay Valutadatum: 22-05-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -0.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-05-29",
+    "description": "Party- en Bowlingcentrum Purmerend via Stichting Mollie Payments Naam: Party- en Bowlingcentrum Purmerend via Stichting Mollie Payments Omschrijving: 03f59957ec9537d16a2d7bf3a6f9f648 8152466668245159 Reservering 29-05-2025 om 16:00 voo Party- en Bowlingcentrum Purmerend IBAN: NL51DEUT0265262461 Kenmerk: 29-05-2025 12:52 8152466668245159 Valutadatum: 29-05-2025",
+    "counterparty": "Party- en Bowlingcentrum Purmerend via Stichting Mollie Payments",
+    "amount": -29.5,
+    "account": "ING",
+    "subcategory": "Overige vrijetijdsuitgaven"
+  },
+  {
+    "date": "2025-05-30",
+    "description": "Partyen Bowling PURMEREND NLD Pasvolgnr: 900 29-05-2025 17:04 Transactie: C00681 Term: 2Q59C4 Apple Pay Valutadatum: 30-05-2025",
+    "counterparty": "Partyen Bowling PURMEREND NLD",
+    "amount": -45.2,
+    "account": "ING",
+    "subcategory": "Overige vrijetijdsuitgaven"
+  },
+  {
+    "date": "2025-05-30",
+    "description": "McDonalds 31001088 PURMEREND NLD Pasvolgnr: 900 29-05-2025 18:32 Transactie: C00682 Term: --- Apple Pay Valutadatum: 30-05-2025",
+    "counterparty": "McDonalds 31001088 PURMEREND NLD",
+    "amount": -3.55,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-05-30",
+    "description": "McDonalds 31001088 PURMEREND NLD Pasvolgnr: 900 29-05-2025 17:41 Transactie: P00726 Term: --- Apple Pay Valutadatum: 30-05-2025",
+    "counterparty": "McDonalds 31001088 PURMEREND NLD",
+    "amount": -33.2,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-05-30",
+    "description": "McDonalds 31001088 PURMEREND NLD Pasvolgnr: 900 29-05-2025 17:31 Transactie: W00725 Term: --- Apple Pay Valutadatum: 30-05-2025",
+    "counterparty": "McDonalds 31001088 PURMEREND NLD",
+    "amount": -44.8,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-05-30",
+    "description": "McDonalds 31001088 PURMEREND NLD Pasvolgnr: 900 29-05-2025 18:27 Transactie: W00727 Term: --- Apple Pay Valutadatum: 30-05-2025",
+    "counterparty": "McDonalds 31001088 PURMEREND NLD",
+    "amount": -10.35,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-05-31",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 30-05-2025 12:58 Transactie: C00684 Term: MRB75M Apple Pay Valutadatum: 31-05-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -3.15,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-06-06",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 05-06-2025 12:39 Transactie: C00691 Term: MRB75M Apple Pay Valutadatum: 06-06-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -0.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-06-08",
+    "description": "Intertoys PURMEREND NLD Pasvolgnr: 901 07-06-2025 13:10 Transactie: W00741 Term: 24PKF3 Apple Pay Valutadatum: 08-06-2025",
+    "counterparty": "Intertoys PURMEREND NLD",
+    "amount": -20.97,
+    "account": "ING",
+    "subcategory": "Overige vrijetijdsuitgaven"
+  },
+  {
+    "date": "2025-06-11",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 10-06-2025 13:05 Transactie: W00747 Term: MRB75M Apple Pay Valutadatum: 11-06-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -0.65,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-06-14",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 13-06-2025 12:45 Transactie: P00754 Term: MRB75M Apple Pay Valutadatum: 14-06-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -0.65,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-06-18",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 17-06-2025 13:05 Transactie: D00707 Term: MRB75M Apple Pay Valutadatum: 18-06-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.05,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-06-21",
+    "description": "Club Zand Horeca B.V. via Stichting Mollie Payments Naam: Club Zand Horeca B.V. via Stichting Mollie Payments Omschrijving: ece6d032a08abd49265ebe3a99b1a321 8152525146847731 Jamezz order ?32907354-55193 Club Zand Horeca B.V. IBAN: NL51DEUT0265262461 Kenmerk: 21-06-2025 12:57 8152525146847731 Valutadatum: 21-06-2025",
+    "counterparty": "Club Zand Horeca B.V. via Stichting Mollie Payments",
+    "amount": -121.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-06-22",
+    "description": "Holland Barrett Naam: Holland Barrett Omschrijving: DGDQ8NFCVK6NTQF62K8A2 7180695164813057 ab59536a-1bdb-40ad-a1dc-ff6de40ef8f IBAN: NL04ADYB2017400157 Kenmerk: 22-06-2025 10:46 7180695164813057 Valutadatum: 22-06-2025",
+    "counterparty": "Holland Barrett",
+    "amount": -12.99,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-06-25",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 24-06-2025 12:46 Transactie: W00768 Term: MRB75M Apple Pay Valutadatum: 25-06-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.05,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-06-27",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 26-06-2025 12:22 Transactie: D00726 Term: 659K77 Apple Pay Valutadatum: 27-06-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -0.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-06-30",
+    "description": "MCDONALD S PURMEREND PURMEREND Pasvolgnr: 900 28-06-2025 19:18 Transactie: W00775 Term: 034758EQ Apple Pay Valutadatum: 30-06-2025",
+    "counterparty": "MCDONALD S PURMEREND PURMEREND",
+    "amount": -48.05,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-01",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 01-07-2025 12:12 Transactie: W00778 Term: MRB75M Apple Pay Valutadatum: 01-07-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.65,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-04",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 03-07-2025 12:14 Transactie: D00745 Term: 659K77 Apple Pay Valutadatum: 04-07-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -0.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-12",
+    "description": "MCDONALD S PURMEREND PURMEREND Pasvolgnr: 901 10-07-2025 17:55 Transactie: C00760 Term: 034754EQ Apple Pay Valutadatum: 12-07-2025",
+    "counterparty": "MCDONALD S PURMEREND PURMEREND",
+    "amount": -40.65,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-12",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 11-07-2025 12:19 Transactie: P00790 Term: MRB75M Apple Pay Valutadatum: 12-07-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -5.1,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-13",
+    "description": "Snacbar Gean PURMEREND NLD Pasvolgnr: 901 12-07-2025 17:28 Transactie: C00762 Term: 1TLS90 Apple Pay Valutadatum: 13-07-2025",
+    "counterparty": "Snacbar Gean PURMEREND NLD",
+    "amount": -55.5,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-16",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 15-07-2025 12:12 Transactie: D00766 Term: 659K77 Apple Pay Valutadatum: 16-07-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-18",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 17-07-2025 12:28 Transactie: P00800 Term: MRB75M Apple Pay Valutadatum: 18-07-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.05,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-19",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 18-07-2025 12:40 Transactie: P00802 Term: MRB75M Apple Pay Valutadatum: 19-07-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -2.7,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-25",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 25-07-2025 12:10 Transactie: C00781 Term: 659K77 Apple Pay Valutadatum: 25-07-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-07-25",
+    "description": "Intertoys PURMEREND NLD Pasvolgnr: 900 24-07-2025 15:14 Transactie: W00812 Term: 1DVH01 Apple Pay Valutadatum: 25-07-2025",
+    "counterparty": "Intertoys PURMEREND NLD",
+    "amount": -149.98,
+    "account": "ING",
+    "subcategory": "Overige vrijetijdsuitgaven"
+  },
+  {
+    "date": "2025-07-27",
+    "description": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Naam: Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Omschrijving: NL83INGB0665811667 7051175739478303 Vakantie NL83INGB0665811667 IBAN: NL10INGB0005300114 Kenmerk: 27-07-2025 17:15 7051175739478303 Valutadatum: 27-07-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek",
+    "amount": -2397.5,
+    "account": "ING",
+    "subcategory": "Vakantie, weekendjes weg"
+  },
+  {
+    "date": "2025-07-29",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 29-07-2025 11:53 Transactie: D00787 Term: 659K77 Apple Pay Valutadatum: 29-07-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.05,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-08-02",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 01-08-2025 12:33 Transactie: W00823 Term: 659K77 Apple Pay Valutadatum: 02-08-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-08-03",
+    "description": "CCV*Sefa Restaurant Gr AMSTERDAM Pasvolgnr: 901 02-08-2025 15:26 Transactie: W00827 Term: CT942113 Apple Pay Valutadatum: 03-08-2025",
+    "counterparty": "CCV*Sefa Restaurant Gr AMSTERDAM",
+    "amount": -2.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-08-03",
+    "description": "CCV*Smidtje Canal Cafe AMSTERDAM Pasvolgnr: 901 02-08-2025 18:13 Transactie: W00829 Term: CT861189 Apple Pay Valutadatum: 03-08-2025",
+    "counterparty": "CCV*Smidtje Canal Cafe AMSTERDAM",
+    "amount": -2.5,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-08-08",
+    "description": "Snacbar Gean PURMEREND NLD Pasvolgnr: 901 07-08-2025 16:39 Transactie: W00841 Term: 1TLS90 Apple Pay Valutadatum: 08-08-2025",
+    "counterparty": "Snacbar Gean PURMEREND NLD",
+    "amount": -56.75,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-08-13",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 12-08-2025 12:16 Transactie: C00811 Term: MRB75M Apple Pay Valutadatum: 13-08-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.05,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-08-23",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 22-08-2025 12:37 Transactie: P00870 Term: 659K77 Apple Pay Valutadatum: 23-08-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-08-26",
+    "description": "MCDONALD S PURMEREND PURMEREND Pasvolgnr: 901 24-08-2025 16:34 Transactie: C00829 Term: 034754EQ Apple Pay Valutadatum: 26-08-2025",
+    "counterparty": "MCDONALD S PURMEREND PURMEREND",
+    "amount": -53.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-05",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 05-09-2025 11:51 Transactie: D00851 Term: MRB75M Apple Pay Valutadatum: 05-09-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -0.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-10",
+    "description": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Naam: Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek Omschrijving: NL83INGB0665811667 7051194538234293 Transavia NL83INGB0665811667 IBAN: NL10INGB0005300114 Kenmerk: 10-09-2025 12:50 7051194538234293 Valutadatum: 10-09-2025",
+    "counterparty": "Hr SL Groen,Mw KT Groen-Schut via ING Betaalverzoek",
+    "amount": -90.0,
+    "account": "ING",
+    "subcategory": "Vakantie, weekendjes weg"
+  },
+  {
+    "date": "2025-09-11",
+    "description": "CCV*Sportcafe de Beuk PURMEREND Pasvolgnr: 900 10-09-2025 21:57 Transactie: W00911 Term: CT848962 Apple Pay Valutadatum: 11-09-2025",
+    "counterparty": "CCV*Sportcafe de Beuk PURMEREND",
+    "amount": -3.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-11",
+    "description": "CCV*Sportcafe de Beuk PURMEREND Pasvolgnr: 900 10-09-2025 21:51 Transactie: C00860 Term: CT848962 Apple Pay Valutadatum: 11-09-2025",
+    "counterparty": "CCV*Sportcafe de Beuk PURMEREND",
+    "amount": -20.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 12-09-2025 12:41 Transactie: P00914 Term: 659K77 Apple Pay Valutadatum: 13-09-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-13",
+    "description": "Snacbar Gean PURMEREND NLD Pasvolgnr: 901 12-09-2025 17:07 Transactie: D00863 Term: 1TLS90 Apple Pay Valutadatum: 13-09-2025",
+    "counterparty": "Snacbar Gean PURMEREND NLD",
+    "amount": -49.5,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-16",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 16-09-2025 12:12 Transactie: D00875 Term: 659K77 Apple Pay Valutadatum: 16-09-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-19",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 19-09-2025 12:08 Transactie: C00886 Term: 659K77 Apple Pay Valutadatum: 19-09-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -5.45,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-19",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 18-09-2025 13:05 Transactie: P00919 Term: MRB75M Apple Pay Valutadatum: 19-09-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-22",
+    "description": "Transavia Inflight Sho Schiphol Pasvolgnr: 901 20-09-2025 06:45 Transactie: D00889 Term: 72030422 Apple Pay Valutadatum: 22-09-2025",
+    "counterparty": "Transavia Inflight Sho Schiphol",
+    "amount": -32.5,
+    "account": "ING",
+    "subcategory": "Vakantie, weekendjes weg"
+  },
+  {
+    "date": "2025-09-22",
+    "description": "SPORTSBAR RCD MALLORCA PALMA ESP Pasvolgnr: 900 21-09-2025 15:53 Transactie: C00891 Term: 01044943 Apple Pay Valutadatum: 22-09-2025",
+    "counterparty": "SPORTSBAR RCD MALLORCA PALMA ESP",
+    "amount": -6.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-22",
+    "description": "SPORTSBAR RCD MALLORCA PALMA ESP Pasvolgnr: 900 21-09-2025 15:32 Transactie: C00890 Term: 01095323 Apple Pay Valutadatum: 22-09-2025",
+    "counterparty": "SPORTSBAR RCD MALLORCA PALMA ESP",
+    "amount": -6.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "MCDONALD S PURMEREND PURMEREND Pasvolgnr: 900 28-09-2025 20:46 Transactie: D00896 Term: 034754EQ Apple Pay Valutadatum: 30-09-2025",
+    "counterparty": "MCDONALD S PURMEREND PURMEREND",
+    "amount": -31.95,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-09-30",
+    "description": "Transavia Inflight Sho Schiphol Pasvolgnr: 901 28-09-2025 17:02 Transactie: D00897 Term: 72030447 Apple Pay Valutadatum: 30-09-2025",
+    "counterparty": "Transavia Inflight Sho Schiphol",
+    "amount": -25.35,
+    "account": "ING",
+    "subcategory": "Vakantie, weekendjes weg"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "Vue Cinemas B.V. Naam: Vue Cinemas B.V. Omschrijving: 68de6de6b94d0 8030424513597069 Ticket(s) De Grote Sinterklaasfilm IBAN: NL56DEUT0265186420 Kenmerk: 02-10-2025 14:20 8030424513597069 Valutadatum: 02-10-2025",
+    "counterparty": "Vue Cinemas B.V.",
+    "amount": -25.5,
+    "account": "ING",
+    "subcategory": "Overige vrijetijdsuitgaven"
+  },
+  {
+    "date": "2025-10-02",
+    "description": "CCV*Sportcafe de Beuk PURMEREND Pasvolgnr: 900 01-10-2025 22:36 Transactie: P00941 Term: CT848962 Apple Pay Valutadatum: 02-10-2025",
+    "counterparty": "CCV*Sportcafe de Beuk PURMEREND",
+    "amount": -6.8,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-10-03",
+    "description": "BCK*Vue Cinemas BV PURMEREND NLD Pasvolgnr: 901 02-10-2025 15:11 Transactie: C00905 Term: CT613937 Apple Pay Valutadatum: 03-10-2025",
+    "counterparty": "BCK*Vue Cinemas BV PURMEREND NLD",
+    "amount": -3.98,
+    "account": "ING",
+    "subcategory": "Overige vrijetijdsuitgaven"
+  },
+  {
+    "date": "2025-10-03",
+    "description": "BCK*Vue Cinemas BV PURMEREND NLD Pasvolgnr: 901 02-10-2025 16:09 Transactie: P00944 Term: CT613934 Apple Pay Valutadatum: 03-10-2025",
+    "counterparty": "BCK*Vue Cinemas BV PURMEREND NLD",
+    "amount": -2.99,
+    "account": "ING",
+    "subcategory": "Overige vrijetijdsuitgaven"
+  },
+  {
+    "date": "2025-10-09",
+    "description": "CCV*Sportcafe de Beuk PURMEREND Pasvolgnr: 900 08-10-2025 20:46 Transactie: P00955 Term: CT848962 Apple Pay Valutadatum: 09-10-2025",
+    "counterparty": "CCV*Sportcafe de Beuk PURMEREND",
+    "amount": -23.9,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-10-11",
+    "description": "pin sportcafe DE RIJP NLD Pasvolgnr: 900 11-10-2025 11:23 Transactie: P00961 Term: 371W1N Apple Pay Valutadatum: 11-10-2025",
+    "counterparty": "pin sportcafe DE RIJP NLD",
+    "amount": -6.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-10-18",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 17-10-2025 13:28 Transactie: C00930 Term: 659K77 Apple Pay Valutadatum: 18-10-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -0.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-10-28",
+    "description": "Intertoys PURMEREND NLD Pasvolgnr: 901 27-10-2025 14:54 Transactie: P00993 Term: 1DVH01 Apple Pay Valutadatum: 28-10-2025",
+    "counterparty": "Intertoys PURMEREND NLD",
+    "amount": -40.0,
+    "account": "ING",
+    "subcategory": "Overige vrijetijdsuitgaven"
+  },
+  {
+    "date": "2025-10-31",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 30-10-2025 12:30 Transactie: C00946 Term: MRB75M Apple Pay Valutadatum: 31-10-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.05,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-11-01",
+    "description": "CCV*Sportcafe de Beuk PURMEREND Pasvolgnr: 900 31-10-2025 23:39 Transactie: C00949 Term: CT848962 Apple Pay Valutadatum: 01-11-2025",
+    "counterparty": "CCV*Sportcafe de Beuk PURMEREND",
+    "amount": -10.2,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-11-01",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 31-10-2025 12:31 Transactie: C00948 Term: MRB75M Apple Pay Valutadatum: 01-11-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-11-03",
+    "description": "MCDONALD S PURMEREND PURMEREND Pasvolgnr: 900 01-11-2025 16:53 Transactie: C00950 Term: 034754EQ Apple Pay Valutadatum: 03-11-2025",
+    "counterparty": "MCDONALD S PURMEREND PURMEREND",
+    "amount": -46.1,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-11-22",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 21-11-2025 12:19 Transactie: P01031 Term: MRB75M Apple Pay Valutadatum: 22-11-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -2.75,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-11-24",
+    "description": "BCK*Horeca Exploitatie PURMEREND Pasvolgnr: 900 23-11-2025 00:55 Transactie: P01032 Term: CT871687 Apple Pay Valutadatum: 24-11-2025",
+    "counterparty": "BCK*Horeca Exploitatie PURMEREND",
+    "amount": -35.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 25-11-2025 13:07 Transactie: P01036 Term: 659K77 Apple Pay Valutadatum: 26-11-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.0,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-11-26",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 25-11-2025 12:19 Transactie: W01033 Term: 659K77 Apple Pay Valutadatum: 26-11-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -0.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-11-28",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 27-11-2025 12:41 Transactie: D00970 Term: 659K77 Apple Pay Valutadatum: 28-11-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -1.4,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  },
+  {
+    "date": "2025-11-29",
+    "description": "Horeca Dijklander PURMEREND NLD Pasvolgnr: 901 28-11-2025 12:20 Transactie: C00972 Term: MRB75M Apple Pay Valutadatum: 29-11-2025",
+    "counterparty": "Horeca Dijklander PURMEREND NLD",
+    "amount": -4.15,
+    "account": "ING",
+    "subcategory": "Uitgaan"
+  }
+]
