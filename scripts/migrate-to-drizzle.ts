@@ -11,7 +11,7 @@
 
 import Database from 'better-sqlite3';
 import path from 'path';
-import { CATEGORIES } from '../types';
+import { CATEGORIES } from '../core/constants';
 
 const dbPath = path.join(process.cwd(), 'data', 'transactions.db');
 const db = new Database(dbPath);

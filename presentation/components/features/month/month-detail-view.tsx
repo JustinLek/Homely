@@ -102,6 +102,18 @@ export function MonthDetailView({ monthKey, initialTransactions }: MonthDetailVi
     }
   };
 
+  const applyReAnalyzeChanges = async (
+    changes: Array<{ transaction: any; newCategory: string; newSubcategory: string }>
+  ) => {
+    // Convert to the format expected by applyBulkSuggestions
+    const suggestions = changes.map((change) => ({
+      transaction: change.transaction,
+      category: change.newCategory,
+      subcategory: change.newSubcategory,
+    }));
+    await applyBulkSuggestions(suggestions);
+  };
+
   // Filter transactions for this month
   const monthTransactions = transactions.filter((t) => t.date.startsWith(monthKey));
 
@@ -289,14 +301,14 @@ export function MonthDetailView({ monthKey, initialTransactions }: MonthDetailVi
                   </p>
                 ) : (
                   <>
-                    <div className="mb-6 flex gap-4">
+                    <div className="mb-6 space-y-4">
                       <BulkAISuggestion
                         transactions={uncategorizedTransactions}
                         onApply={applyBulkSuggestions}
                       />
                       <ReAnalyzeMonth
-                        monthKey={monthKey}
-                        onComplete={() => window.location.reload()}
+                        transactions={uncategorizedTransactions}
+                        onApplyChanges={applyReAnalyzeChanges}
                       />
                     </div>
 
